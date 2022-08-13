@@ -1,0 +1,84 @@
+locale: sk-SK
+translations:
+  ###########################################################################
+  # Homepage
+  ###########################################################################
+
+  - key: homepage.hand_coded
+    t: Ručne nakódované v Japonsku.
+  - key: homepage.leave_issue
+    t: Zanechajte pripomienku
+  - key: homepage.get_in_touch
+    t: Kontaktuje nás
+
+  - key: homepage.made_by
+    t: 'Stav CSS je vytvorený:'
+
+  - key: homepage.previous_years
+    t: 'Predošlé roky:'
+
+  - key: homepage.intro
+    t: >
+      ## CSS napreduje rýchlejšie ako kedykoľvek predtým.
+      Flexbox, Grid, Multi-Column… a to ešte nehovoríme o úplne nových konceptoch ako CSS v Javascripte.
+      Takže po úspechu našeho každoročného prieskumu o [Stave JavaScriptu](https://stateofjs.com) sme sa rozhodli pozrieť
+      do sveta štýlov a selektorov, identifikovať najnovšie trendy a pokúsiť sa tak spojiť stále
+      narastajúcu "front-endovú priepasť"!
+  - key: homepage.take_survey
+    t: Začať prieskum
+
+  - key: homepage.view_results
+    t: Pozrieť výsledky
+
+  - key: share.help_spread
+    t: Dajte o nás vedieť!
+
+  - key: homepage.other_surveys
+    t: 'Iné prieskumy:'
+
+  - key: homepage.survey_open_now
+    t: Práve otvorené
+
+  - key: homepage.survey_preview
+    t: Náhľad prieskumu
+
+  - key: homepage.most_recent_survey
+    t: Najnovšie
+
+  - key: homepage.current_survey
+    t: Aktuálny prieskum
+
+  - key: homepage.past_surveys
+    t: Minulé prieskumy
+
+  - key: homepage.view_questions
+    t: Zobraziť otázky
+
+  - key: homepage.preview_questions
+    t: Náhľad otázok
+
+  # newsletter
+  - key: homepage.newsletter.stay_tuned
+    t: Nezmeškajte ďalší prieskum
+  - key: homepage.newsletter.leave_your_email
+    t: Zanechajte email a budeme Vás informovať o tom, kedy sa budú konať ďalšie prieskumy.
+  - key: homepage.newsletter.email
+    t: Váš Email
+  - key: homepage.newsletter.submit
+    t: Upozornite ma
+
+  # languages
+  - key: languages.available_languages
+    t: 'Dostupné jazyky:'
+  - key: languages.help_us_translate
+    t: Pomôžte nám s prekladom do Vášho jazyka →
+
+  # footer
+  - key: homepage.made_by_devographics
+    aliasFor: general.made_by_devographics
+  - key: homepage.netlify_link
+    aliasFor: general.netlify_link
+  - key: homepage.leave_issue
+    aliasFor: general.leave_issue
+  - key: homepage.join_discord
+    aliasFor: general.join_discord

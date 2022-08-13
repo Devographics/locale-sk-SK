@@ -1,0 +1,985 @@
+locale: sk-SK
+translations:
+  ###########################################################################
+  # General
+  ###########################################################################
+
+  - key: results.start
+    t: Začať
+
+  - key: page.previous
+    t: 'Naspäť:'
+  - key: page.next
+    t: 'Ďalej:'
+
+  - key: general.state_of_css_link
+    t: Stav CSS
+
+  - key: general.netlify_link
+    t: Hosted by <a href="{link}">Netlify</a>.
+
+  - key: general.completion_percentage
+    t: 'Percento komplétnosti:'
+
+  - key: partners.thanks
+    t: Ďakujeme našim partnetrom za podporu!
+
+  - key: partners.learn_more
+    t: Zistite viac.
+
+  - key: tabs.all_respondents
+    t: Všetci respondenti
+  - key: tabs.main_answers
+    t: Hlavné odpovede
+  - key: tabs.other_answers
+    t: Iné odpovede
+  - key: tabs.bracket_wins
+    t: Výťazi
+  - key: tabs.bracket_matchups
+    t: Porovnania
+  - key: tabs.chart
+    t: Graf
+  - key: tabs.data
+    t: Dáta
+  - key: tabs.share
+    t: Zdielať
+  - key: tabs.debug
+    t: Debugovanie
+  - key: tabs.by_country
+    t: Krajina
+  - key: tabs.by_experience
+    t: Skúsenosti
+  - key: tabs.by_degree
+    t: Vzdelanie
+  - key: tabs.by_salary
+    t: Plat
+  - key: tabs.by_gender
+    t: Pohlavie
+
+  ###########################################################################
+  # Block
+  ###########################################################################
+
+  - key: block.data_from
+    t: foo
+
+  ###########################################################################
+  # Options
+  ###########################################################################
+
+  - key: options.experience_ranking.satisfaction
+    t: Spokojnosť
+  - key: options.experience_ranking.interest
+    t: Záujem
+  - key: options.experience_ranking.usage
+    t: Použitie
+  - key: options.experience_ranking.awareness
+    t: Povedomie
+
+  - key: options.features_mode.grouped
+    t: Zoskúpene
+  - key: options.features_mode.awareness_rank
+    t: Povedomie
+  - key: options.features_mode.usage_rank
+    t: Použitie
+  - key: options.features_mode.usage_ratio_rank
+    t: Pomer použitia
+
+  - key: options.features_simplified.know_it
+    t: Poznám
+  - key: options.features_simplified.used_it
+    t: Použil som
+  - key: options.features_simplified.usage_ratio
+    t: Pomer použitia
+
+  - key: options.quadrant.assess
+    t: POSÚDIŤ
+  - key: options.quadrant.assess.long
+    t: |
+      POSÚDIŤ: Nízke použitie, vysoká spokojnosť. Technológie, ktoré stojí za to sledovať.
+  - key: options.quadrant.adopt
+    t: ADAPTOVAŤ
+  - key: options.quadrant.adopt.long
+    t: |
+      ADAPTOVAŤ: Vysoké použitie, vysoká spokojnosť. Technológie, ktoré je bezpečné adaptovať.
+  - key: options.quadrant.avoid
+    t: VYHNÚŤ SA
+  - key: options.quadrant.avoid.long
+    t: |
+      VYHNÚŤ SA: Nízke použitie, nízka spokojnosť. Technológie, ktorým sa momentálne oplatí vyhnúť.
+  - key: options.quadrant.analyze
+    t: ANALYZOVAŤ
+  - key: options.quadrant.analyze.long
+    t: |
+      ANALYZOVAŤ: Vysoké použitie, nízka spokojnosť. Prehodnoťte tieto technológie, pokiaľ ich práve používate.
+  - key: options.quadrant.1
+    t: 1
+  - key: options.quadrant.1.long
+    t: |
+      1: Nízke použitie, vysoká spokojnosť. Technológie, ktoré stojí za to sledovať.
+  - key: options.quadrant.2
+    t: 2
+  - key: options.quadrant.2.long
+    t: |
+      2: Vysoké použitie, vysoká spokojnosť. Technológie, ktoré je bezpečné adaptovať.
+  - key: options.quadrant.3
+    t: 3
+  - key: options.quadrant.3.long
+    t: |
+      3: Nízke použitie, nízka spokojnosť. Technológie, ktoré je ťažšie odporučiť.
+  - key: options.quadrant.4
+    t: 4
+  - key: options.quadrant.4.long
+    t: |
+      4: Vysoké použitie, nízka spokojnosť. Prehodnoťte tieto technológie, pokiaľ ich práve používate.
+
+  - key: ranges.selector.years_of_experience
+    t: Skúsenosti
+  - key: ranges.selector.yearly_salary
+    t: Plat
+  - key: ranges.selector.company_size
+    t: Veľkosť firmy
+
+  # other learning methods
+  - key: options.first_steps.blogs
+    t: Blogy
+  - key: options.first_steps.forums
+    t: Fóra
+  - key: options.first_steps.view_source
+    t: Prezrieť zdroje
+
+  # other disablities
+  - key: options.disability_status_others.adhd
+    t: ADHD
+  - key: options.disability_status_others.autism
+    t: Autizmus
+  - key: options.disability_status_others.glasses
+    t: Okuliare
+  - key: options.disability_status_others.old
+    t: Vysoký vek
+  - key: options.disability_status_others.back_pain
+    t: Bolesť chrbtice
+  - key: options.disability_status_others.epilepsy
+    t: Epilepsia
+  - key: options.disability_status_others.aspergers
+    t: Aspergerov syndróm
+  - key: options.disability_status_others.color_blindness
+    t: Farbosleposť
+  - key: options.disability_status_others.anxiety
+    t: Úzkosť
+  - key: options.disability_status_others.dyslexia
+    t: Dyslexia
+  - key: options.disability_status_others.diabetes
+    t: Cukrovka
+  - key: options.disability_status_others.carpal_tunnel
+    t: Karpálny tunel
+
+  ###########################################################################
+  # Sections
+  ###########################################################################
+
+  - key: sections.introduction.title
+    t: Úvod
+
+  - key: sections.demographics.title
+    t: Demografia
+
+  - key: sections.tshirt.title
+    t: Tričko
+
+  - key: sections.technologies.title
+    t: Technológie
+
+  - key: sections.libraries.title
+    t: Knižnice
+
+  - key: sections.conclusion.title
+    t: Záver
+
+  - key: sections.about.title
+    t: O prieskume
+
+  - key: sections.how_to_help.title
+    t: Ako pomôcť
+
+  - key: sections.support.title
+    t: Podporte nás
+  - key: sections.support.description
+    t: >
+      Tento priesku funguje ako vedľajší projekt, ale na to, aby mohol
+      byť udržatelným neustále hľadáme partnerov, ktorí nám môžu pomôcť,
+      či už finančne, alebo šírením povedomia o prieskume.
+      Neváhajte nás [kontaktovať](mailto:hello@stateofjs.com), pokiaľ by ste radi pomohli akýmkoľvek spôsobom.
+  - key: sections.awards.title
+    t: Ocenenia
+  - key: sections.awards.description
+    t: Veci, ktoré tento rok pútali pozornosť.
+
+  ###########################################################################
+  # User Info
+  ###########################################################################
+
+  - key: user_info.locale
+    t: Jazyk
+  - key: user_info.locale.description
+    t: Aký jazyk si užívatelia zvolili na vyplnenie prieskumu?
+  - key: user_info.locale.note
+    t: >
+      Tieto údaje sú spracované automaticky na základe nastavení respondentov počas vypĺňania prieskumu;
+      Jazyky s menej ako 20 respondentmi nie sú zobrazené.
+  - key: user_info.source
+    t: Zdroj
+  - key: user_info.source.description
+    t: Ako sa respondenti dozvedeli o prieskume?
+  - key: user_info.source.note
+    t: Tieto údaje su mixom samohodnotiacich odpovedí, údajov sprostredkovateľa a analytických údajov URL.
+
+  - key: user_info.gender_by_country
+    t: Pohlavie podľa krajiny
+  - key: user_info.gender_by_country.description
+    t: Pohlavie podľa krajiny s minimálne 100 respondentmi, zoradené podľa "stredného čísla pohlavia" (každé pohlavie má priradenú číselnú hodnotu v vzostupnom poradí) zostupne.
+
+  - key: user_info.years_of_experience_by_salary
+    t: Roky skúsenosti podľa platového rozsahu
+  - key: user_info.years_of_experience_by_salary.description
+    t: Roky skúsenosti podľa platového rozsahu.
+
+  - key: user_info.yearly_salary_by_country
+    t: Plat podľa krajiny
+  - key: user_info.yearly_salary_by_country.description
+    t: Ročná distribúcia platu podľa krajiny s aspoň 100 respondentmi, zoradené zostupne podľa priemerného platu.
+
+  - key: user_info.yearly_salary_by_degree
+    t: Platy podľa vyššieho vzdelania
+  - key: user_info.yearly_salary_by_degree.description
+    t: Ročná distribúcia platu podľa vyššieho vzdelania, zoradené zostupne podľa priemerného platu.
+
+  - key: user_info.yearly_salary_by_experience
+    t: Plat podľa skúseností
+  - key: user_info.yearly_salary_by_experience.description
+    t: Ročná distribúcia platu podľa skúseností, zoradené zostupne podľa priemerného platu.
+
+  - key: user_info.race_ethnicity_by_years_of_experience
+    t: Rasa a etnicita podľa rokov skúseností
+  - key: user_info.race_ethnicity_by_years_of_experience.description
+    t: Distribúcia rasy a etnicity podľa rokov skúseností, zoradené zostupne podľa priemeru rokov skúseností.
+
+  - key: user_info.higher_education_degree_by_gender
+    t: Vyššie vzdelanie podľa pohlavia
+  - key: user_info.higher_education_degree_by_gender.description
+    t: Distribácia vyššieho vzdelania podľa pohlavia.
+
+  ###########################################################################
+  # Locales
+  ###########################################################################
+
+  - key: options.locale.en-US
+    t: Angličtina
+  - key: options.locale.ca-ES
+    t: Katalánčina
+  - key: options.locale.es-ES
+    t: Španielčina
+  - key: options.locale.ru-RU
+    t: Ruština
+  - key: options.locale.fr-FR
+    t: Francúzština
+  - key: options.locale.zh-Hant
+    t: Čínština (Tradičná)
+  - key: options.locale.de-DE
+    t: Nemčina
+  - key: options.locale.cs-CZ
+    t: Čeština
+  - key: options.locale.pt-PT
+    t: Portugalčina
+  - key: options.locale.pt-BR
+    t: Portugalčina (Brazília)
+  - key: options.locale.it-IT
+    t: Taliančina
+  - key: options.locale.sv-SE
+    t: Švédština
+  - key: options.locale.tr-TR
+    t: Turečtina
+  - key: options.locale.id-ID
+    t: Indonézština
+  - key: options.locale.hi-IN
+    t: Hindština
+  - key: options.locale.zh-Hans
+    t: Čínština (Zjednodušená)
+  - key: options.locale.ja-JP
+    t: Japončina
+  - key: options.locale.ua-UA
+    t: Ukrajinčina
+  - key: options.locale.pl-PL
+    t: Poľština
+  - key: options.locale.fa-IR
+    t: Perzština
+  - key: options.locale.nl-NL
+    t: Holandčina
+  - key: options.locale.ko-KR
+    t: Kórejčina
+  - key: options.locale.ro-RO
+    t: Rumúnčina
+
+  ###########################################################################
+  # Features
+  ###########################################################################
+
+  - key: features.learn_more
+    t: Zistite viac (MDN)
+  - key: features.mdn_link
+    t: MDN
+  - key: features.caniuse_link
+    t: Môžem použiť
+  - key: features.specification_link
+    t: W3C špecifikácie
+
+  # knowledge score
+  - key: features.knowledge_score
+    t: Vedomostné skóre
+  - key: features.knowledge_score.description
+    t: O koľkých pojmoch spomenutých v prieskume respondenti vedeli?
+
+  ###########################################################################
+  # Tools & Methodologies
+  ###########################################################################
+
+  # general
+  - key: tools.links
+    t: Odkazy
+  - key: tools.github_link
+    t: GitHub
+  - key: tools.github_stars
+    t: Hviezdy
+  - key: tools.homepage_link
+    t: Domovská stránka
+  - key: tools.npm_link
+    t: NPM
+  - key: tools.technology
+    t: Technológie
+
+  ###########################################################################
+  # Blocks
+  ###########################################################################
+
+  # heatmaps
+  - key: blocks.tools_company_size_heatmap
+    t: Použitie podľa veľkosti firmy
+  - key: blocks.tools_company_size_heatmap.description
+    t: |
+      Rozdiely použitia jednotlivých technológií medzi respondentmi na 
+      základe veľkosti firmy.
+  - key: blocks.tools_yearly_salary_heatmap
+    t: Použitie podľa platového rozsahu
+  - key: blocks.tools_yearly_salary_heatmap.description
+    t: |
+      Rozdiely použitia jednotlivých technológií medzi respondentmi na 
+      základe výšky platu.
+  - key: blocks.tools_years_of_experience_heatmap
+    t: Použitie podľa počtu rokov skúseností
+  - key: blocks.tools_years_of_experience_heatmap.description
+    t: |
+      Rozloženie použitia technológií medzi jednotlivými respondentmi na základe rozsahu ich skúseností.
+      Berte na vedomie, že zmienené skúsenosti sú myslené ako všeobecné, nie ako skúsenosti so špecifickou technológiou.
+  # tool
+  - key: blocks.entity.homepage_link
+    t: Domovská stránka
+  - key: blocks.entity.github_link
+    t: GitHub
+
+  # cardinality
+  - key: blocks.all_sections_tools_cardinality_by_user
+    t: Kardinalita použitia technológií
+  - key: blocks.all_sections_tools_cardinality_by_user.description
+    t: >
+      Aké percento respondentov pre každú sekciu **používa**
+      (respondent odpovedal "použil by som znova") jednu, dve, tri atď. technológie.
+      Najspodnejší ukazovateľ reprezentuje súčet všetkých ostatných ukazovateľov.
+  - key: blocks.cardinality.max
+    t: Najbežnejšia odpoveď
+
+  # tools arrows
+  - key: blocks.tools_arrows
+    t: Zmeny v priebehu času
+  - key: blocks.tools_arrows.description
+    t: |
+      Každá linka ide od roku 2016 po 2020. Vyšší bod znamená, že technológia bola používaná viacero ľudmi a bod
+      viac smerom na pravo znamená, že viacero používateľov by sa ju chcelo naučiť, alebo ju použilo a použilo by znova.
+  - key: blocks.tools_arrows.note
+    t: |
+      - Niektoré linky preskakujú roky.
+      - Technológie s údajmi iba za jeden rok nie sú zobrazené. 
+      - Frekvenčný vzorec = (najaktuálnejší názor - najstarší názor) + (najaktuálnejšie použitie) - (najstaršie použitie)
+      - Pozizívna frekvencia znamená, že použitie a/alebo pozitívne názory sa postupom častu zvýšili.
+  # tools quadrant
+  - key: blocks.tools_quadrant
+    t: Spokojnosť versus Použitie
+  - key: blocks.tools_quadrant.description
+    t: |
+      Tento graf ukazuje pre každú technológiu **pomer spokojnosti** (alebo **pomer záujmu**) nad celkovým **počtom používateľov**.
+      Môže byť rozdelený do štyroch kvadrantov:
+        - **POSÚDIŤ**: Nízke použitie, vysoká spokojnosť. Technológie, ktoré stojí za to sledovať.
+        - **ADAPTOVAŤ**: Vysoké použitie, vysoká spokojnosť. Technológie, ktoré je bezpečné adaptovať.
+        - **VYHNÚŤ SA**: Nízke použitie, nízka spokojnosť. Technológie, ktorým sa momentálne oplatí vyhnúť.
+        - **ANALYZOVAŤ**: Vysoké použitie, nízka spokojnosť. Prehodnoťte tieto technológie, pokiaľ ich práve používate.
+  # category other tools
+  - key: blocks.category_other_tools
+    t: Iné nástroje
+  - key: blocks.category_other_tools.description
+    t: Iné nástroje v tejto kategórií (voľná odpoveď).
+
+  # tool experience
+  - key: blocks.tool_experience
+    t: 'Skúsenosť s {name}'
+  - key: blocks.tool_experience.description
+    t: Respondentove skúsenosti s {name}.
+
+  # tool positive/negative split ("marimekko" chart)
+  - key: blocks.tools_experience_marimekko
+    t: Pozitívny/Nehatívny rozdiel
+  - key: blocks.tools_experience_marimekko.description
+    t: |
+      Tento graf rozdeľuje pozitívne (“chcem sa naučiť”, “použil by som znova”) versus
+      negatívne (“nemám záujem”, “nepoužil by som znova”) skúsenosti
+      na oboch stranách stredovej osi.
+      Hrúbka ukazoveteľa reprezentuje počet respondentov, ktorí o technológií počuli.
+  # tool tier list
+  - key: blocks.tools_tier_list
+    t: Rebríček knižníc
+  - key: blocks.tools_tier_list.description
+    t: |
+      Tento graf hodnotí knižnice na základe pomeru spokojnosti (persento používateľov, 
+      ktorí by knižnicu opäť použili). Berte na vedomie, že knižnice s menej ako 10% 
+      respondentami nie sú uvedené.
+  - key: blocks.tools_tier_list.bounds
+    t: >
+      {lowerBound}% - {upperBound}%
+  # tools section streams
+  - key: blocks.tools_section_streams
+    t: Skúsenosti v priebehu času
+  - key: blocks.tools_section_streams.description
+    t: |
+      Prehľad názorov o technológiach v priebehu času.
+  - key: blocks.tools_section_streams.note
+    t: |
+      Technológie s jednym rokom údajov nie sú uvedené.
+  # tools section overview
+  - key: blocks.tools_section_overview
+    t: Prehľad kategórií
+  - key: blocks.tools_section_overview.description
+    t: |
+      Prehľad názorov o technológiach v prieskume. Tmavšie časti reprezentujú pozitívne názory, zatiaľ
+      čo svetlejšie časti zas tie negatívne.
+  # tools experience ranking
+  - key: blocks.tools_experience_ranking
+    t: Rebríček
+  - key: blocks.tools_experience_ranking.description
+    t: Rebríček pomerov spokojnosti, záujmu, použitia a povedomia.
+  - key: blocks.tools_experience_ranking.note
+    t: |
+      Technológie o ktorých je menej ako 10% povedomie nie sú uvedené. Každý pomer je definovaný následovne:
+      - Spokojnosť: **použil by som znova** / (**použil by som znova** ; **nepoužil by som znova**)
+      - Záujem : **chcem sa naučiť** / (**chcem sa naučiť** + **nemám záujem**)
+      - Použitie: (**použil by som znova** + **nepoužil by som znova**) / **súčet**
+      - Povedomie (**súčet** - **nepoznám**) / **súčet**
+  # happiness
+  - key: blocks.happiness
+    t: Celková spokojnosť
+  - key: blocks.happiness.description
+    t: |
+      Na stupnici od jedna (veľmi nespokojní) po päť (veľmi spokojní), ako spokojní
+      sú vývojári s terajším stavom tejto kategórie?
+  # newsletter
+  - key: blocks.newsletter.title
+    t: Ostante v obraze
+  - key: blocks.newsletter.description
+    t: |
+      Pokiaľ by ste radi vedeli, kedy zverejníme ďalšie výsledky, alebo oznámime budúcoročnú
+      edíciu, zanechaje Váš email nižsie:
+  - key: blocks.newsletter.email
+    t: Váš Email
+  - key: blocks.newsletter.submit
+    t: Upozornite ma
+
+  # features_overview
+  - key: blocks.features_overview
+    t: Prehľad použitia
+  - key: blocks.features_overview.description
+    t: |
+      Tento graf reprezentuje rozdielnu mieru prijatia pre všetky funkcie zoskúpene podľa kategórie.
+      Veľkosť <span class="text-teal-darker text-bold">vonkajšieho kruhu</span>
+      korešponduje s celkovým počtom používateľov, ktorí o funkcií vedia, zatiaľ čo
+      <span class="text-teal text-bold">vnútorný</span> reprezentuje tých, ktorí ich aj použili.
+      Prejdite myšou na každú položku pre prezretie detailných údajov spoločne s <span class="text-blackpink text-bold">bublinou</span>
+      obsahujúcou celkový počet respondentov prieskumu.
+  # export
+  - key: export.export
+    t: Exportovať
+  - key: export.title
+    t: Exportovať údaje pre {title}
+  - key: export.nocsv
+    t: Prepáčte, pre tento súbor údajov nie je CSV export dostupný.
+  - key: export.graphql
+    t: >
+      You can copy paste this query into our <a target="_blank" rel="nofollow" href="http://graphiql.stateofjs.com/">public GraphQL API</a>.
+  - key: export.export_json
+    t: Získať údaje v JSON-e
+  - key: export.export_graphql
+    t: Získať GraphQL query
+
+  - key: custom_data.heading
+    t: Vlastný graf
+  - key: custom_data.custom_data
+    t: Vlastné údaje
+  - key: custom_data.graphql_query
+    t: GraphQL Query
+  - key: custom_data.chart_title
+    t: Vlastný graf
+  - key: custom_data.submit
+    t: Odoslať
+  - key: custom_data.empty_contents
+    t: Prosím, zadajte údaje do poľa "Vlastné údaje".
+  - key: custom_data.edit_title
+    t: Upraviť názov grafu
+  - key: custom_data.customize
+    t: Prispôsobiť údaje
+  - key: custom_data.details
+    t: >
+      1. Skopírujte obsah textového poľa "GraphQl Query" a vložte ho do stredového panelu [GraphQL API prehliadača](https://graphiql.stateofjs.com/). 
+      2. Modifikujte query pridaním jedného alebo viac **filtrov** do ľavého panela prehliadača. Uistite sa, že používate rovnakú štrukúru dát.
+      3. V okienku prehliadača kliknie na tlačítko Play ("Execute Query").
+      4. Skopírujte výsledky modifikovaného query (`{ data: … }` ) do textového poľa "Vlastné údaje" vyššie a odošlite.
+  # Tools usage variations
+  - key: blocks.tools_usage_variations
+    t: Variácie použitia
+  - key: blocks.tools_usage_variations.description
+    t: |
+      Ako rozličné faktory ako napr. plat, roky skúseností alebo
+      veľkosť spoločnosti ovplyvňujú použitie (úcastnici, ktorí odpovedali
+      buď “použil by som znova” alebo “nepoužil by som znova”).
+      Základná línia reprezentuje základ použitia pre každý nástroj a odchylky
+      zodpovedajú delte od tejto základnej línie v každom rozpetí. Povedzme, že
+      nástroj X má použitie 10% medzi všetkými respondentmi (základná línia),
+      a ak je potom percento používateľov, ktorí majú 1 až 2 roky skúseností
+      a používajú tento nástroj 13% (v porovnaní s ostatnými s 1 až 2 rokmi 
+      skúseností), tak máme pozitívnu deltu +3%.
+  - key: blocks.tools_usage_variations.note
+    t: |
+      Prosím, berte na vedomie, že nástroje s nižsím použitím zvyknú byť viac rozdielne.
+  # Recommended Resources
+  - key: blocks.recommended_resources
+    t: Odporúčané zdroje
+
+  # Brackets
+  - key: tool_evaluation.tool_evaluation_wins
+    t: Rebríček hodnotenia knižníc
+  - key: tool_evaluation.tool_evaluation_wins.description
+    t: Ktoré faktory uprednostňujete pri zvažovaní novej knižnice? Výsledky sú zoradené na základe počtu vyhratých kôl turnaja.
+
+  - key: tool_evaluation.tool_evaluation_matchups
+    t: Rebríček hodnotenia knižníc (Porovnania)
+  - key: tool_evaluation.tool_evaluation_matchups.description
+    t: Ktoré faktory uprednostňujete pri zvažovaní novej knižnice? Percento vyhratých kôl položky na ľavej strane proti tej vrchnej.
+
+  ###########################################################################
+  # Charts
+  ###########################################################################
+
+  - key: chart_units.respondents
+    t: '{count} respondentov na otázku ({percentage}% percento odpovedajúcich)'
+  - key: chart_units.percentage
+    t: Percentá
+  - key: chart_units.count
+    t: Počet
+  - key: chart_units.percentage_question
+    t: '% respondentov na otázku'
+  - key: chart_units.percentage_survey
+    t: '% respondentov prieskumu'
+
+  - key: charts.average
+    t: Priemer
+  - key: charts.mean
+    t: Stredová hodnota
+  - key: charts.overall
+    t: Celkovo
+  - key: charts.all_respondents
+    t: Všetci respondenti
+  - key: charts.facet_responses
+    t: '{count} odpovedí'
+
+  - key: charts.axis_legends.years_of_experience
+    t: Roky skúseností
+  - key: charts.axis_legends.yearly_salary
+    t: Platový rozsah (USD)
+  - key: charts.axis_legends.company_size
+    t: Počet zamestnancov
+  - key: charts.axis_legends.backend_proficiency
+    t: Back-endova odbornosť
+  - key: charts.axis_legends.css_proficiency
+    t: CSS odbornosť
+  - key: charts.axis_legends.javascript_proficiency
+    t: JavaScript odbornosť
+  - key: charts.axis_legends.users_percentage
+    t: Percento používateľov
+  - key: charts.axis_legends.users_count
+    t: Počet používateľov
+  - key: charts.axis_legends.interest_percentage
+    t: Záujem %
+  - key: charts.axis_legends.satisfaction_percentage
+    t: Spokojnosť %
+  - key: charts.axis_legends.usage_percentage
+    t: Spokojnosť %
+  - key: charts.axis_legends.awareness_percentage
+    t: Povedomie %
+  - key: charts.axis_legends.happiness
+    t: Štastný s
+  - key: charts.axis_legends.knowledge_score
+    t: Známe vlastnosti
+  - key: charts.axis_legends.frequency
+    t: Frekvencia
+  - key: charts.axis_legends.age
+    t: Vek
+  - key: charts.axis_legends.users_percentage_survey
+    t: '% respondnetov prieskumu'
+  - key: charts.axis_legends.users_percentage_question
+    t: '% respondentov otázky'
+
+  - key: charts.ranges_multiple_diverging_lines.baseline
+    t: základná línia
+  - key: charts.ranges_multiple_diverging_lines.positive_offset
+    t: pozitívna odchýlka
+  - key: charts.ranges_multiple_diverging_lines.negative_offset
+    t: negatívna odchylka
+
+  - key: charts.tools_arrows.negative_opinion
+    t: Negatívne názory
+  - key: charts.tools_arrows.positive_opinion
+    t: Pozitívne názory
+  - key: charts.tools_arrows.have_not_used
+    t: Nepožil som
+  - key: charts.tools_arrows.have_used
+    t: Použil som
+  - key: charts.tools_arrows.x_axis
+    t: rozsah osi X
+  - key: charts.tools_arrows.y_axis
+    t: rozsah osi Y
+  - key: charts.tools_arrows.legend
+    t: Legenda
+  - key: charts.tools_arrows.velocity
+    t: Frekvencia
+  - key: charts.tools_arrows.velocity_positive
+    t: Celkovo viac pozitívnych názorov a/alebo použitia v priebehu času
+  - key: charts.tools_arrows.velocity_negative
+    t: Celkovo viac negatívnych názorov a/alebo menej použitia v priebehu času
+  - key: charts.tools_arrows.opinions_positive
+    t: Skôr pozitívne názory
+  - key: charts.tools_arrows.opinions_negative
+    t: Skôr negatívne názory
+  - key: charts.tools_arrows.low_usage
+    t: Nízke použitie
+  - key: charts.tools_arrows.high_usage
+    t: Vysoké použitie
+  - key: charts.tools_arrows.popularity_positive
+    t: Vzrastajúca popularita
+  - key: charts.tools_arrows.popularity_negative
+    t: Klesajúca popularita
+
+  - key: charts.no_answer
+    t: Bez odpovede
+
+  ###########################################################################
+  # Sharing
+  ###########################################################################
+
+  - key: share.share
+    t: Zdieľať
+  - key: share.options
+    t: Možnosti zdieľania
+  - key: share.preview
+    t: Náhľad na sociálne siete
+  - key: share.site.title
+    t: Zistite {siteTitle} výsledky
+  - key: share.site.twitter_text
+    t: 'Zistite {siteTitle} výsledky {link} {hashtag}'
+  - key: share.site.subject
+    t: '{siteTitle} výsledky prieskumu'
+  - key: share.site.body
+    t: 'Pár zaujímavích výsledkov prieskumu: {link}'
+  - key: share.block.twitter_text
+    t: '{hashtag} {year}: {title} {link}'
+  - key: share.block.subject
+    t: '{siteTitle} Výsledky prieskumu'
+  - key: share.block.body
+    t: 'Pár zaujímavích výsledkov prieskumu ({title}): {link}'
+  - key: share.twitter
+    t: Zdieľať na Twitteri
+  - key: share.facebook
+    t: Zdieľať na Facebooku
+  - key: share.linkedin
+    t: Zdieľať na LinkedIne
+  - key: share.email
+    t: Zdieľať emailom
+  - key: share.image
+    t: Získať obrázok
+  - key: share.link
+    t: Odkaz na sekciu
+  - key: share.url
+    t: Získať odkaz
+  - key: share.close
+    t: Zavrieť
+
+  ###########################################################################
+  # Views
+  ###########################################################################
+  - key: views.viz
+    t: Graf
+  - key: views.table
+    t: Tabuľka
+
+  ###########################################################################
+  # Tables
+  ###########################################################################
+  - key: table.label
+    t: Označenie
+  - key: table.item
+    t: Položka
+  - key: table.percentage_survey
+    t: '% respondentov prieskumu'
+  - key: table.percentage_question
+    t: '% respondentov otázky'
+  - key: table.percentage_facet
+    t: '% of facet respondents'
+  - key: table.count
+    t: Počet
+  - key: table.year
+    t: Rok
+  - key: table.mean
+    t: Priemer
+  - key: table.usage
+    aliasFor: options.features_simplified.used_it
+  - key: table.awareness
+    aliasFor: options.features_simplified.know_it
+  - key: table.usage_ratio
+    aliasFor: options.features_simplified.usage_ratio
+
+  - key: table.usage_count
+    aliasFor: charts.axis_legends.users_count
+  - key: table.satisfaction_percentage
+    aliasFor: charts.axis_legends.satisfaction_percentage
+  - key: table.interest_percentage
+    aliasFor: charts.axis_legends.interest_percentage
+  - key: table.usage_percentage
+    aliasFor: charts.axis_legends.usage_percentage
+  - key: table.awareness_percentage
+    aliasFor: charts.axis_legends.awareness_percentage
+
+  - key: table.percentages_table
+    t: Percentá
+  - key: table.rankings_table
+    t: Rebríčky
+
+  - key: table.satisfaction_rank
+    t: Úroveň spokojnosti
+  - key: table.interest_rank
+    t: Úroveň záujmu
+  - key: table.usage_rank
+    t: Úroveň použitia
+  - key: table.awareness_rank
+    t: Úroveň povedomia
+
+  - key: table.would_not_use_percentage
+    t: Nepoužil by som %
+  - key: table.not_interested_percentage
+    t: Nemám záujem %
+  - key: table.would_use_percentage
+    t: Použil by som znova %
+  - key: table.interested_percentage
+    t: Mám záujem %
+
+  ###########################################################################
+  # Awards
+  ###########################################################################
+
+  - key: awards.runner_ups
+    t: Finalisti
+
+  - key: award.feature_adoption_award.title
+    t: Najviac používaná funkcia
+  - key: award.feature_adoption_award.description
+    t: Ocenenie pre najviac adaptovanú funkciu.
+
+  - key: award.feature_adoption_delta_award.title
+    t: Najviac adoptovaná funkcia
+  - key: award.feature_adoption_delta_award.description
+    t: Ocenenie pre funkciu s najväčším medziročným nárastom v oblasti ”použil som”.
+
+  - key: award.tool_usage_award.title
+    t: Najviac používaná technológia
+  - key: award.tool_usage_award.description
+    t: Ocenenie pre technológiu s najväčšou používateľskou základňou.
+
+  - key: award.tool_usage_delta_award.title
+    t: Najviac adoptovaná technológia
+  - key: award.tool_usage_delta_award.description
+    t: Ocenenie pre technológiu s najväčším medziročným nárastom v oblasti ”použil som znova”.
+
+  - key: award.tool_satisfaction_award.title
+    t: Najväčšia spokojnosť
+  - key: award.tool_satisfaction_award.description
+    t: Ocenenie pre technológiu s najvyšším percentom spokojných používateľov.
+
+  - key: award.tool_interest_award.title
+    t: Najväčší záujem
+  - key: award.tool_interest_award.description
+    t: Ocenenie pre technológiu, o ktorú majú vývojári najvyšší záujem naučit sa ju po tom, ako sa o nej dozvedia.
+
+  - key: award.resource_usage_award.title
+    t: Najviac používaný zdroj
+  - key: award.resource_usage_award.description
+    t: Ocenenie pre zdroj s najväčšou používateľskou základňou.
+
+  - key: award.prediction_award.title
+    t: Ocenenie prognózy
+  - key: award.prediction_award.description
+    t: Ocenenie pre novú technológiu, ktorá sa môže dosťať na vrchol… alebo nie?
+
+  - key: award.most_write_ins_award.title
+    t: Najviac vlastných odpovedí
+  - key: award.most_write_ins_award.description
+    t: Ocenenie pre položku, kde užívatelia najviac písali vlastné odpovede
+
+  ###########################################################################
+  # Hints
+  ###########################################################################
+
+  - key: hints.hint_hint
+    t: >
+      Vo výsledkoch prieskumu nájdete malé rady ako táto. Tie Vám pomôžu
+      vypichnúť zopár zaujímavých detailov.
+  - key: hints.units_switcher_hint
+    t: >
+      Môžete využiť segmentované ovládanie na spodu každého bloku pre prepnutia
+      sa medzi rozličnými jednotkami pre alternatívny náhľad na rovnaké údaje.
+  - key: hints.export_hint
+    t: >
+      Tabuľka <span class="hint-icon hint-export-button">údajov</span> Vám umožní prezrieť 
+      nespracované údate pre každý graf. Môžete si ich prezrieť ako JSON, alebo získať
+      GraphQL query, ktoré spustíte v našom verejnom API.
+  - key: hints.completion_hint
+    t: >
+      Vzhľadom na to, že všetky otázky sú nepovinné, niektoré z nich majú menej odpovedí ako iné.
+      Indikátor komplétnosti (<span class="hint-completion-indicator">◕</span>) Vám napovie, koľko presne ľudí danú otázku zodpovedalo.
+  - key: hints.tool_modal_hint
+    t: >
+      Môžete kliknuť na názov akejkoľvek technológie pre získanie
+      detailov navyše a presnejší náhľad na súvisiace údaje.
+  - key: hints.rankings_modes_hint
+    t: >
+      Pre presnejší obraz rebríčkov kategórií môže byť graf rebríčkov prepínaný medzi 
+      katergóriami spokojnosti, záujmu, použitia a povedomia.
+  - key: hints.sharing_hint
+    t: >
+      Zdieľanie prieskumu na Twitter, Facebooku, alebo emailom je vedecky potvrdená metóda
+      na zlepšenie Vášho programovacieho výkonu až o 15%.
+  - key: hints.tshirt_hint
+    t: >
+      Ďalšie garantované vedecké zistenie: kúpa nášho tricka zvýši Vaše
+      programovacie zručnosti o 9000 bodov!
+  - key: hints.variants_hint
+    t: >
+      Niektoré grafy obsahujú ďalšie karty, ktoré ponúkajú doplnkové vysvetlenia rovnakých, alebo
+      súvisiacich údajov. Nezabudnite si ich pozrieť!
+  - key: hints.share_hint
+    t: >
+      Karta <span class="hint-icon hint-share-button">Zdieľať</span> uľahčuje zdieľanie akéhokoľvek gragu,
+      alebo jeho stiahnutie ako obrázok.
+  - key: hints.bracket_hint
+    t: >
+      <span class="hint-bracket"><span class="hint-text">Tento graf obsahuje výsledky turnajového rozloženia pre 8 hráčov,
+      kde respondenti vyberali víťaza každého zápasu, až pokiaľ neostal len jeden víťaz.</span><span class="hint-diagram"/></span>
+  ###########################################################################
+  # Sponsor Chart
+  ###########################################################################
+
+  - key: sections.sponsor_finish.title
+    t: Poďakovanie
+
+  - key: sponsor.sponsor_finish
+    t: >
+      Ďakujeme tým, ktorí podporili prieskum. Váš avatar by mal byť zobrazený vedľa grafu, ktorý ste si vybrali
+      v približne najbližšej hodine. Pokiaľ sa tak nestane, prosím [kontaktujte nás](mailto:chartsponsor@stateofjs.com).
+
+  - key: sponsor.sponsored_by
+    t: >
+      **{name}** daroval **${amount}** na podporu tohto grafu
+  - key: sponsor.sponsor_button
+    t: Podporte tento graf
+
+  - key: sponsor.sponsor_chart.title
+    t: Podporte grag "{title}"
+
+  - key: sponsor.sponsor_chart.description
+    t: >
+      Podporte finančne tento prieskum darovaním 10 alebo viac dolárov a Váš
+      Twitter avatar bude zobrazený vedľa grafu!
+  - key: sponsor.chart_id
+    t: 'ID Grafu: '
+
+  - key: sponsor.sponsor_this_chart
+    t: Podporte tento graf (${baseAmount}+)
+
+  - key: sponsor.how_it_works.title
+    t: Ako to funguje
+
+  - key: sponsor.how_it_works.description
+    t: >
+      1. Keď **kliknete na tlačidlo "Podporte tento graf"**, budete presmerovaný na stránku náštko partnera [SendOwl](https://www.sendowl.com/). 
+
+
+      2. Môžete **prispôsobiť výsku sumy**, ktorou by ste radi podporili prieksum, začínajúc od 10 dolárov.  
+
+
+      3. Po zaplatení budete mať možnosť **poskytnúť Vaše užívateľske meno na Twitteri**. 
+
+
+      4. Uvidíte stránku na **Stiahnutie súboru**, ale tú môžete ignorovať. 
+
+
+      5. Stránka sa na pozadí opäť načíta a Vaše užívateľské meno a dotácia sa **zobrazí vedľa grafu v priebehu nasledujúcej hodiny**.
+  - key: sponsor.faq.title
+    t: F.A.Q.
+
+  - key: sponsor.faq.usage.title
+    t: Na čo bude moja dotácia použitá?
+
+  - key: sponsor.faq.usage.description
+    t: Vaša dotácia pomôže podporiť autorov prieskumu a taktiež prijať nových ľudi (ilustrátorov, exportov na prístupnosť a rozmanitosť a pod.).
+
+  - key: sponsor.faq.public.title
+    t: Bude moja dotácia zverejnená?
+
+  - key: sponsor.faq.public.description
+    t: Áno. Vaše **užívateľske meno na Twitteri**, ako aj **suma, ktorú ste darovali** bude zverejnená vedľa grafu.
+
+  # - key: sponsor.faq.donation_public.title
+  #   t: Môžem darovať v mene niekoho iného?
+
+  # - key: sponsor.faq.donation_public.description
+  #   t: Môžete vložiť užívateľske meno na Twitteri niekoho iného, no tá osoba má právo odstrániť dotáciu, pokiaľ o to požiada.
+
+  - key: sponsor.faq.refund.title
+    t: Čo ak chcem požiadať o vrátenie peňazí?
+
+  - key: sponsor.faq.refund.description
+    t: Všetky dotácie sú refundovateľné v priebehu jedného týždňa, mínus transakčné poplatky.
+
+  - key: sponsor.faq.influence.title
+    t: Ovplyvňujú dotácie obsah prieskumu?
+
+  - key: sponsor.faq.influence.description
+    t: Dotácie su prijímané po zverejnení prieskumu a darcovia nemajú vplyv na obsah prieskumu.
+
+  - key: sponsor.faq.feedback.title
+    t: Kde môžem nechať spätnú väzbu/položiť otázky?
+
+  - key: sponsor.faq.feedback.description
+    t: Môžete tak spravit [na GitHube](https://github.com/StateOfJS/Monorepo/issues/69) alebo [Discorde](https://discord.gg/tuWRUWVyJs).
