@@ -1,0 +1,368 @@
+locale: sk-SK
+translations:
+  ###########################################################################
+  # General
+  ###########################################################################
+
+  - key: general.results.description
+    t: Edícia 2021 každoročného prieskumu o najnovších trendoch v JavaScriptovom ekosystéme.
+
+  - key: general.livestream_announcement
+    t: 22. februára si nezabudnite pozrieť náš [špeciálny livestream o výsledkoch prieskumu](https://dev.to/sachagreif/state-of-javascript-2021-livestream-24a5)!(v angličtine)
+
+  ###########################################################################
+  # Introduction
+  ###########################################################################
+
+  - key: sections.introduction.description
+    t: |
+      <span class="first-letter">V</span> 2021 sa toho udialo mnoho. Tak mnoho, že náš prieskum bol posunutý až do 2022!
+
+      Či už išlo o rýchlejšie builovacie nástroje, alebo novú úrodu back-endových frameworkov, svet JavaScritpu sa ďalej vyvíjal. A my sme robili, čo bolo v našich silách aby sme držali krok, prieskum získal pár nových schopností ([prečítajte si viac](https://dev.to/sachagreif/whats-new-in-the-2021-state-of-javascript-survey-4eej)) ako napríklad nové typy otázok, schopnosť krížovej referencie dvoch dátových bodov (ako ročné platy podľa úrovne skúseností) a taktiež spôsob prispôsobenia grafov pre zvýraznenie tvojich vlastných postrehov. Prečítajte si viac [čo je nové tento rok](https://dev.to/sachagreif/whats-new-in-the-2021-state-of-javascript-survey-4eej) (v angličinte).
+      Nebolo to všetko ale iba hladká plavba. Museli sme sa vysporiadať s [únikom dát](https://dev.to/sachagreif/disclosing-a-state-of-javascriptstate-of-css-data-breach-2lg1), ktorý naštastie nevyústil do žiadnych zlých dôsledkov. Neustále vynakladáme úsilie na to, aby bol náš prieskum viac inkluzívny, dostupný a férovy.
+
+      Dúfame, že aj napriek tomu, že prieskum môže reprezentovať iba maličkú časť JavaScriptového ekosystému budeš výsledné dáta považovať za zaujímavé!
+      <span class="conclusion__byline">– Sacha Greif</span>
+  ###########################################################################
+  # Tshirt
+  ###########################################################################
+
+  - key: sections.tshirt.title
+    t: Tričko
+
+  - key: sections.tshirt.description
+    t: |
+      ## Podporte prieskum zakúpením State of JavaScript Trička
+      Medzi zlou kvalitou videa, objemnými kazetami a nutnosťou ich spätného pretáčania nie je toho veľa, čo by nám chýbalo na ére VHS. Ale je jedna vec, ktorá nám chýba je vizuál 90-tych rokov, ktorý zdobil VHS kazety.
+      Vďaka talentovanému Christopherovi Kirk-Nielsenovi si môžete užiť túto retro éru a zároveň vyjadriť svoju lásku pre JavaScript!
+  - key: tshirt.about
+    t: O tričku
+
+  - key: tshirt.description
+    t: |
+      Ide o vysoko kvalitné, ultra jemné trojzmesové slim fit tričko s potlačou od našich partnerov v Cotton Bureau.
+  - key: tshirt.getit
+    t: Zakúpiť
+
+  - key: tshirt.price
+    t: USD $29 + doprava
+
+  - key: tshirt.designer.heading
+    t: O dizajnérovi
+
+  - key: tshirt.designer.name
+    t: Christopher Kirk-Nielsen
+
+  - key: tshirt.designer.bio
+    t: |
+      Pôvodom z Francúzska, momentálne žijúci v Spojenách Štátoch, Chris nie je len úžasným front-end vývojarom, ale taktiež talentovaným ilustrátorom špecializujúci sa v retro vizáloch. Odporúčame pozrieť si aj jeho [iné návrhy tričiek](https://chriskirknielsen.com/designs)!
+
+  ###########################################################################
+  # Sections
+  ###########################################################################
+
+  - key: sections.user_info.description
+    t: |
+      Prieskumu sa tento rok zúčastnilo **16,085** respondendov. Na to, aby sme
+      zvýraznili názory rozličných ľudí a objavili hlbšie poznatky sme vynaložili
+      špeciálnu snahu priniesť nové spôsoby na vysvetlenie našich dát.
+  - key: sections.features.description
+    t: |
+      JavaScript možno napreduje rýchlo, no vyzerá to, že JavaScript vývojari napreduju ešte rýchlejšie, kedže mnoho nových funkcií majú medzi nimi výsokú uroveň osvojenia.
+  - key: sections.technologies.description
+    t: |
+      Tohtoročné výsledky ukazujú na výsoký stupen fragmentácie vo svete JavaScripte. Napriek tomu, že toto občas môže vytvárať problémy, všetka táto súťaživosť napomáha veľmi dynamickému ekosystému.
+  - key: sections.tools_others.description
+    t: |
+      Vybranie technológie môže byť často výsledkom zložitých rozhodnutí medzi dvoma rozdielnymi
+      prioritami, tento rok sme sa pokúsili zachytiť tento proces formou nového turnamentového formátu otázok.
+  - key: sections.environments.description
+    t: |
+      Čo sa týka webového vývoja bola prístupnosť dlhé roky na druhej koľaji, mnoho vývojárov si ale práve 
+      teraz uvedomuje, že by mala slúžiť ako základ na ktorom by malo ležať všetko ostatné.
+  - key: sections.resources.description
+    t: |
+      Informovanie o blogoch, podkástoch a stránkach bolo dobrým začiatkom, ale tento rok sme sa rozhodli ísť o jeden
+      krok ďalej a zviditeľniť ľudí, ktorí tvoria JavaScriptovú komunitu!
+  - key: sections.opinions.description
+    t: |
+      Či už existujú problémy, ktoré ťa držia späť dnes, alebo chýbajúce funkcie, ktoré by si rád
+      videl v budúcnosti, toto bola tvoja šanca vyrozprávať sa a zdieľať tvoje sťažnosti na JavaScript!
+
+  ###########################################################################
+  # Charts
+  ###########################################################################
+
+  - key: options.features_categories.language
+    aliasFor: sections.language.title
+  - key: options.features_categories.browser_apis
+    aliasFor: sections.browser_apis.title
+  - key: options.features_categories.other_features
+    aliasFor: sections.other_features.title
+
+  - key: blocks.tools_quadrant.description
+    t: |
+      Tento graf ukazuje pre každú technológiu **pomer spokojnosti** (alebo **pomer záujmu**) nad celkovým **počtom používateľov**.
+      Môže byť rozdelený do štyroch kvadrantov:
+        - **1**: Nízke použitie, vysoká spokojnosť. Technológie, ktoré stojí za to sledovať.
+        - **2**: Vysoké použitie, vysoká spokojnosť. Technológie, ktoré je bezpečné adaptovať.
+        - **3**: Nízke použitie, nízka spokojnosť. Technológie, ktorým sa momentálne oplatí vyhnúť.
+        - **4**: Vysoké použitie, nízka spokojnosť. Prehodnoťte tieto technológie, pokiaľ ich práve používate.
+  ###########################################################################
+  # Notes
+  ###########################################################################
+
+  - key: blocks.gender.note
+    t: |
+      Ak sa chceš dozvedieť viac, prečítaj si [náš článok na blogu](https://dev.to/sachagreif/is-our-survey-biased-against-women-49oj), ktorý adresuje rodovú dynamiku prieskumu.
+  - key: blocks.currently_missing_from_css.note
+    t: |
+      Celý dataset odpovedí na túto otázku si môžeš pozrieť na [tomto projekte](https://whatsmissingfromcss.com/).
+  - key: blocks.source.note
+    t: >
+
+      Tento graf agreguje mix referrerov, URL parametrow a voľných odpovedí.
+      - State of JS: [Stav JS](https://stateofjs.com) emailový list.
+      - State of CSS: Stav CSS emailový list; tiež sa rovná `email`, `by email`, atď.
+      - Work: rovná sa `work`, `colleagues`, `coworkers`, atď.
+  ###########################################################################
+  # Awards
+  ###########################################################################
+
+  - key: award.feature_adoption_delta_award.comment
+    t: S **{value}** progresom v roku 2021, nullish coalescing operátor (??) sa rýchlo stal neoddeliteľnou súčasťou JavaScriptu.
+
+  - key: award.tool_usage_delta_award.comment
+    t: esbuild je ľedva dva roky starý, no s **{value}** progresom oproti minulému roku postupne získava pôdu pod nohami.
+
+  - key: award.tool_satisfaction_award.comment
+    t: Vite získava top miesto so závratnou výškou spokojnosti **{value}**!
+
+  - key: award.tool_interest_award.comment
+    t: S **{value}** pomerom spokojnosti, Vite opäť získava zlato!
+
+  - key: award.most_write_ins_award.comment
+    t: Pri mnohých otázkach bolo taktiež možno uviesť voľnú odpoveď a s **{value}** zmienok bol Elm tým najpopulárnejším.
+
+  ###########################################################################
+  # Conclusion
+  ###########################################################################
+
+  - key: sections.conclusion.description
+    t: |
+      <span class="first-line">JavaScript je v enormne lepšom stave v porovnaní s rokom 2016.</span>
+
+      V prvej edicí nášho prieskumi iba 21% z Vás používalo TypeScript v porovnaní so 69% dnes. Aj keď radi žartujeme o nových frontendových frameworkoch, ktoré vychádzajú každý deň, **React** a **Vue** dominujú 6 po sebe idúcich rokov. Percento ľudí, ktoré uviedlo, že "JS napreduje príliš rýchlo" kleslo z 59% na 38%.
+      To ale neznamená, že jazyk stál na jednom mieste. **Volitelne reťazenie** a **Nullish Coalescing** API vystrelili medzi najpoužívanejšie API v našom prieskume, napriek tomu že sú iba dva roky staré. A viac dobrých vecí je na ich ceste od TC39: uviedli ste, že spravovanie dátumov je top chýábajúca funkncionalita a Temporálne API nedávno dosiahlo [Etapu 3](https://github.com/tc39/proposal-temporal).
+      Nástrojoví ekosystém taktiež sleduje rapídnu evolúciu a je férové povedať, že rok 2021 bol rokom **Vite**. Vite nie len že debutovalo s 98% spokojnosťou, ale jeho použitie je na 30% v jeho prvom roku v našom prieskume, dokonca zatieňujúc esbuild. Vite nie je sám, čo sa týka zlepšovania stavu JavaScriptových buildovacích nástrojov - 8 z 12 nástrojov, ktoré sledujeme dnes sú menej ako dva roky staré! A napriek tomu, že **pnpm**, **Turborepo**, a **Nx** dosiahli prvé priečky v prvom roku sledovania monorepo nástrojov, iba 25% percent ľudí uvádza spokojnosť so stavom tejto kategórie, ukazujúc, že tu ešte ostáva mnoho práce. 
+
+      Stojí za zmienku: mnoho nových účastnikov ako **Deno**, **Rome**, **Astro**, **Remix** a iný sú teraz podporovaný spoločnostami s financovaním rizikového kapitálu, čo možno vytvára vhodnú alternatívu krehkému open-source prostrediu financovania.
+      Tak ako [Tretí vek JavaScriptu](https://www.swyx.io/js-third-age/) vstupuje do jeho tretieho roku, možnosti pre ašpirujúcich podnikateľov sa postupne rozvíjajú a teším sa na to, čo prinesie nasledujúcich pár rokov!
+  - key: conclusion.bio
+    t: Head of DX at Temporal
+
+  ###########################################################################
+  # Picks
+  ###########################################################################
+
+  - key: picks.my_pick
+    t: 'Môj výber roka 2021: '
+  - key: picks.intro
+    t: Pýtali sme sa členov JavaScriptovej komunity na ich “výber roka”
+
+  - key: picks.lee_robinson.name
+    t: SvelteKit
+  - key: picks.lee_robinson.bio
+    t: Riaditeľ Vývojarskych vzťahov vo Verceli
+  - key: picks.lee_robinson.description
+    t: |
+      SvelteKit je čerstvý spôsob vytvárana webových aplikácií a má
+      neuveritelne oddanú a rastúcu základňu podporovateľov.
+  - key: picks.vadim_makeev.name
+    t: Vykresľovanie na strane servera
+  - key: picks.vadim_makeev.bio
+    t: DevRel, Podkáster a Advokát pre webové štandardy
+  - key: picks.vadim_makeev.description
+    t: |
+      Nadišiel čas na to, aby sme si urovnali priority.
+      UX > DX, a vždy tomu tak bolo. Výkon FTW!
+
+  - key: picks.ben_ilegbodu.name
+    t: Lee Robinson
+  - key: picks.ben_ilegbodu.bio
+    t: Ben Ilegbodu, Hlavný Frontend Inžinier @ Stitch Fix
+  - key: picks.ben_ilegbodu.description
+    t: |
+      Lee bol skvelým zastáncom a podporovateľom Next.js.
+      V mnohom mi pomohol čo sa týka Next-u a pokračuje v budovaní
+      záujmu v jeho smerovaní.
+
+  - key: picks.shawn_wang.name
+    t: Supabase
+  - key: picks.shawn_wang.bio
+    t: Vedúci DX v Temporale
+  - key: picks.shawn_wang.description
+    t: |
+      Supabase robí Postgres prístupným pre viac vývojárov a ukazuje všetkým,
+      ako dokáže malý a sústredený tím prerásť rovesníkov s 10 násobkom ich veľkosti.
+  - key: picks.sarah_drasner.name
+    t: Pawel Kozlowski
+  - key: picks.sarah_drasner.bio
+    t: Director of Engineering, Core Developer Web at Google
+  - key: picks.sarah_drasner.description
+    t: |
+      Pawel Kozlowski je druhom developera, ktorý dokáže byť s pokorou a záujmom
+      otvorený rozličným prístupom so záujmom o zlepšenie vecí.
+  - key: picks.sara_vieira.name
+    t: Paul Henschel
+  - key: picks.sara_vieira.bio
+    t: International Agent of JS Bullshit
+  - key: picks.sara_vieira.description
+    t: |
+      Paulova práca na animáciach a ReactThreeFiber 
+      umožnila spraviť akúkoľvek 3D prácu na webe jednoduchšou.
+  - key: picks.mark_erikson.name
+    t: Ryan Carniato
+  - key: picks.mark_erikson.bio
+    t: Redux Maintainer
+  - key: picks.mark_erikson.description
+    t: |
+      Ryanov reaktívny JS framework SolidJS dosiahol 1.0
+      a napísal mnoho článkov analyzujúcich pokročilé
+      implementačné koncepty JS frameworkov.
+
+  - key: picks.miguel_angel_duran.name
+    t: Vite
+  - key: picks.miguel_angel_duran.bio
+    t: Front End Dev & Twitch Coding Streamer
+  - key: picks.miguel_angel_duran.description
+    t: |
+      Naviac ku esbuild a swc, ktoré sú fantastické nástroje tlačiacie ekosystém napred
+      si taktiež užívam Vite. Má úžasnú DX a bohatú funkcionalitu.
+
+  - key: picks.alyssa_nicoll.name
+    t: BroccoDev's Twitch Stream
+  - key: picks.alyssa_nicoll.bio
+    t: Sr. Developer Advocate at Progress
+  - key: picks.alyssa_nicoll.description
+    t: |
+      Mike Brocchi nedávno začal streamovať na Twitchi. Je skvelým programátorom, 
+      vývojárom a čo je najdôležitejšie, učiteľom.
+      Vždy si užívam pozeranie jeho streamov a učenie sa od neho.
+
+  - key: picks.michael_jackson.name
+    t: esbuild
+  - key: picks.michael_jackson.bio
+    t: Co-founder of Remix
+  - key: picks.michael_jackson.description
+    t: |
+      Remix kompilátor sme budovali ako nadstavu esbuildu, čo rozhodne
+      zvýšilo laťku čo sa týka JS bundlerov. Je neuvireteľne rýchly a API
+      plugin umožňuje robiť takmer všetko, čo chceme.
+  - key: picks.david_khourshid.name
+    t: Remix
+  - key: picks.david_khourshid.bio
+    t: Pianista a zakladateľ Stately
+  - key: picks.david_khourshid.description
+    t: |
+      Remix je fullstackový web framework, ktorý ma nádych starej školy, ale v dobrom
+      zmysle slova tým, že umožňuje vytváranie rýchlych, komplexných a dostupných moderných aplikácií.
+
+  - key: picks.kent_c_dodds.name
+    t: Fly.io
+  - key: picks.kent_c_dodds.bio
+    t: Director of Developer Experience, Remix
+  - key: picks.kent_c_dodds.description
+    t: |
+      Fly mi umožnil (frontendovému inžinierovi s averziou pre DevOps) 
+      sebavedomo nasadzovať reálne, globálne distribované, aplikácie vhodné na
+      produkciu.
+  - key: picks.tejas_kumar.name
+    t: Joe Haddad
+  - key: picks.tejas_kumar.bio
+    t: Web Developer, Conference Speaker, and Director of DevRel at Xata
+  - key: picks.tejas_kumar.description
+    t: |
+      Joe pracuje na Next.js vo Verceli a neustále hľadá spôsob, ako demonštrovať
+      jeho silu a taktiež aktívne načúvať spätnej väzbe
+      od komunity, ktorú tak môže lepšie podporovať.
+  - key: picks.wes_bos.name
+    t: TC39 Proposals
+  - key: picks.wes_bos.bio
+    t: JavaScript Teacher & Podcast Host
+  - key: picks.wes_bos.description
+    t: |
+      Git repozitár plný vecí, ktoré boli navrhnuté pre pridanie do JavaScriptu. Je veľmi zábavné čítať všetky návrhy, ktoré ľudia pre tento jazyk majú.
+
+  - key: picks.scott_tolinkski.name
+    t: SvelteKit
+  - key: picks.scott_tolinkski.bio
+    t: Creator of Level-Up Tuts, co-host of Syntax
+  - key: picks.scott_tolinkski.description
+    t: |
+      Svelte Kit ponúka skvelý vývojársky zážitok zo Svelte so všetkými
+      modernými funkciami, ktoré človek očakáva od modernej webovej platformy.
+  - key: picks.xxxx.name
+    t:
+  - key: picks.xxxx.bio
+    t:
+  - key: picks.xxxx.description
+    t: |
+  ###########################################################################
+  # Sponsors
+  ###########################################################################
+
+  - key: partners.frontendmasters.description
+    t: Advance your skills with in-depth, modern front-end engineering courses.
+  - key: partners.polypane.description
+    t: The browser for ambitious devs. Build responsive, accessible and fast websites with ease.
+  - key: partners.google_chrome.description
+    t: Thanks to the Google Chrome team for supporting our work.
+
+  ###########################################################################
+  # FAQ/About
+  ###########################################################################
+
+  - key: about.content
+    t: >
+      The 2021 State of JS survey ran from January 13 to February 2 **2022**, and collected 16,085 responses. The survey is run by me, [Sacha Greif](https://sachagreif.com/), with help from a team of open-source contributors and consultants. 
+      This year's logo and t-shirt were designed by [Christopher Kirk-Nielsen](http://chriskirknielsen.com/).
+      ### Survey Goals
+      This survey, along with the [State of CSS](https://stateofcss.com/) survey, was created to identify upcoming trends in the web development ecosystem in order to help developers make technological choices. 
+      As such, these surveys are focused on anticipating what's coming over the next few years rather than analyzing what's popular now, which is why the features or technologies that are currently most widespread are not always included. 
+      They should also be taken as a **snapshot of a specific subset of developers**, and are not meant to speak for the entire ecosystem. 
+      ### Survey Design
+      The survey was designed in part based on last year's survey, with an open feedback period where the survey outline was discussed [on GitHub](https://github.com/StateOfJS/Monorepo/issues/56). 
+
+      All survey questions were optional. 
+      ### Survey Audience
+      The survey was openly accessible online and respondents were not filtered or selected in any way. Respondents were primarily a mix of respondents from past surveys (alerted through a dedicated mailing list) and social media traffic. 
+      Note that frameworks, libraries, etc. were free to encourage their audience to participate in the survey and some of them did take advantage of this via banners, tweets, etc. A detailed breakdown of traffic sources is included in the "Sources" chart. 
+      ### Representativeness & Inclusivity
+      While we believe it's important to give a voice to every community, the reality is that an open survey like this one will always struggle to properly represent everybody, especially when operating through systems that already carry their own inherent biases. 
+      In order to counter-balance this, we are implementing three distinct strategies:
+      - **Outreach**: we always try to reach out to different organizations (such as BIPOC- or LGBTQ-focused organizations, or online teaching platforms) to try and diversify our own audience. 
+
+      - **Data Analysis**: through features like facets and variants, we're always trying to make it easier to surface the voices of any demographic segment, no matter how minoritized it might be in our data. 
+
+      - **Barrier Lowering**: making the survey too long, inaccessible, slow to load, English-only, etc. can all contribute to imposing an "effort tax" that cuts off the parts of the community that can't afford to pay it. Fixing these issues can lower the barrier to entry and in the process make our audience more diverse. 
+      ### Project Funding
+      Funding from this project comes from a variety of sources:
+      - **T-shirt sales**. 
+      - **Chart Sponsorships**: members of the community can donate to the survey in exchange for having their name featured in the report.  
+      - **Sponsored links**: the links to recommended resources at the bottom of each page are provided by our partner [Frontend Masters](https://frontendmasters.com/).
+
+      - **Other Funding**: this year, the [Google Chrome](https://www.google.com/chrome/) team set aside a small budget to help hire an [accessibility consultant](https://fossheim.io/) to work on the CSS and JS surveys.
+      Despite these funding sources, the surveys remains mostly a self-funded project overall and any contribution or sponsorship would be greatly appreciated. I would especially like to work closely with more browser vendors, since they play such a central role in the web ecosystem.  
+      ### Technical Overview
+      You can find a more in-depth technical overview of how the surveys are run [here](https://dev.to/sachagreif/how-the-state-of-js-css-surveys-are-run-4lnb).
+      - **Data collection**: custom [Vulcan.js](http://vulcanjs.org/) app.
+      - **Data storage/processing**: MongoDB & MongoDB Aggregations.
+
+      - **Data API**: Node.js GraphQL API. 
+
+      - **Results Site**: [Gatsby](https://www.gatsbyjs.com/) React app.
+
+      - **Data Visualizations**: [Nivo](https://nivo.rocks/) React dataviz library. 
+
+      - **Type**: [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono) and [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue).

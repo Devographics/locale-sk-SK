@@ -1,0 +1,482 @@
+locale: sk-SK
+namespace: js
+translations:
+  ###########################################################################
+  # General
+  ###########################################################################
+
+  - key: general.state_of_js.intro
+    t: >
+      Svet JavaScriptu si zaslúži trocha objasnenia.
+      Od roku 2016 tento prieskum každoročne
+      zozbieral údaje o terajších aj nadchádzajúcich trendoch od viac ako 20 000 vývojárov.
+      Spoločne zistíme, ktoré knižnice sa chcú vývojári naučiť
+      ako ďalšie, ktoré majú najlepšie hodnotenia spokojnosti a ešte mnoho iného.
+  - key: general.state_of_js.description
+    t: Každoročný vývojársky prieskum JavaScriptového ekosystému
+
+  ###########################################################################
+  # Sections
+  ###########################################################################
+
+  - key: sections.syntax.title
+    t: Syntax
+  - key: sections.syntax.description
+    t: Gramatika JavaScriptu.
+
+  - key: sections.language.title
+    t: Jazyk
+  - key: sections.language.description
+    t: Slovník JavaScriptu.
+
+  - key: sections.data_structures.title
+    t: Dátové štruktúry
+  - key: sections.data_structures.description
+    t: Ako ukladáme a manipulujeme s dátami.
+
+  - key: sections.browser_apis.title
+    t: API v prehliadači
+  - key: sections.browser_apis.description
+    t: Funkcie, ktoré poskytuje prehliadač.
+
+  - key: sections.other_features.title
+    t: Iné vlastnosti
+  - key: sections.other_features.description
+    t: Iné technológie a vzory
+
+  - key: sections.patterns.title
+    t: Vzory (Patterns)
+  - key: sections.patterns.description
+    t: Ako preferujete písať kód
+
+  - key: sections.javascript_flavors.title
+    t: Iné verzie JavaScriptu
+  - key: sections.javascript_flavors.description
+    t: Jazyky, które sú kompilované do JavaScriptu
+
+  - key: sections.front_end_frameworks.title
+    t: Front-endové frameworky
+  - key: sections.front_end_frameworks.description
+    t: Front-endové frameworky a knižnice
+
+  - key: sections.datalayer.title
+    t: Dátová vrstva
+  - key: sections.datalayer.description
+    t: Načítanie a manipulácia s dátami vo Vašej aplikácií
+
+  - key: sections.back_end_frameworks.title
+    t: Back-endové frameworky
+  - key: sections.back_end_frameworks.description
+    t: JavaScript na strane servera
+
+  - key: sections.testing.title
+    t: Testovanie
+  - key: sections.testing.description
+    t: Nástroje na testovanie kódu
+
+  - key: sections.mobile_desktop.title
+    t: Mobil a Desktop
+  - key: sections.mobile_desktop.description
+    t: JavaScript pre mobilné a desktopové aplikácie
+
+  - key: sections.build_tools.title
+    t: Buildovacie nástroje
+  - key: sections.build_tools.description
+    t: Kompilovanie a zbaľovanie kódu
+
+  - key: sections.monorepo_tools.title
+    t: Monorepo nástroje
+  - key: sections.monorepo_tools.description
+    t: Nástroje na spracovanie JavaScriptových monorepozitárov.
+
+  - key: sections.tools_others.title
+    t: Iné nástroje
+  - key: sections.tools_others.description
+    t: Iné JavaScriptové nástroje
+
+  - key: sections.other_tools.title
+    t: Iné nástroje
+  - key: sections.other_tools.description
+    t: Z týchto nástrojov stačí zaškrtnúť tie, ktoré využívate pravidelne.
+
+  ###########################################################################
+  # Options
+  ###########################################################################
+
+  # JS pain points
+  # - key: options.js_pain_points.browser_interoperability
+  #   t: Kompatibilita prehliadača
+  # - key: options.js_pain_points.browser_interoperability.description
+  #   t: Rozdiely medzi Chrome, Safari, Firefox, atď.
+  # - key: options.js_pain_points.animations
+  #   t: Animácie
+  # - key: options.js_pain_points.animations.description
+  #   t: Práca s animáciami, prechodmy, atď. pomocou Javascriptu.
+  # - key: options.js_pain_points.form_handling
+  #   t: Práca s formulármi
+  # - key: options.js_pain_points.form_handling.description
+  #   t: Vytváranie formulárov, narábanie s ich stavom a chybami a ukladanie dát.
+  - key: options.js_pain_points.state_management
+    t: State Management
+  - key: options.js_pain_points.state_management.description
+    t: Spravovanie stavu globálnych dát v komplexnej aplikácií.
+  # - key: options.js_pain_points.performance_issues
+  #   t: Problémy s výkonom
+  # - key: options.js_pain_points.performance_issues.description
+  #   t: Veľkosť bundlov, pomalé načítanie a ine problémy s výkonom.
+  - key: options.js_pain_points.managing_dependencies
+    t: Spravovanie závislostí
+  - key: options.js_pain_points.managing_dependencies.description
+    t: Spravovanie závislostí, verzií packageov a veľkostí bundlov.
+  - key: options.js_pain_points.architecture
+    t: Architektúra kódu
+  - key: options.js_pain_points.architecture.description
+    t: Organizácia a spravovanie zdrojového kódu.
+  - key: options.js_pain_points.finding_packages
+    t: Hľadanie balíkov
+  - key: options.js_pain_points.finding_packages.description
+    t: Hľadanie a hodnotenie JavaScriptových balíkov.
+  - key: options.js_pain_points.writing_modules
+    t: Písanie modulov
+  - key: options.js_pain_points.writing_modules.description
+    t: Písanie JavaScriptových modulov a ich publikovanie ako balík.
+  - key: options.js_pain_points.debugging
+    t: Debugovanie
+  - key: options.js_pain_points.debugging.description
+    t: Identifikácia a riešenie problémov s kódom.
+  - key: options.js_pain_points.async_code
+    t: Asynchrónny kód
+  - key: options.js_pain_points.async_code.description
+    t: Práca s asynchrónnymi funkciami.
+  - key: options.js_pain_points.modules_management
+    t: Práca s modulmi
+  - key: options.js_pain_points.modules_management.description
+    t: Písanie a importovanie modulov.
+  - key: options.js_pain_points.date_management
+    t: Práca s dátumami
+  - key: options.js_pain_points.date_management.description
+    t: Zaobchdádzanie a manipulácia s dátumami a časom.
+  # - key: options.js_pain_points.xxx
+  #   t:
+  # - key: options.js_pain_points.xxx.description
+  #   t:
+
+  # JS missing features
+  - key: options.currently_missing_from_js.static_typing
+    t: Statická typová kontrola
+  - key: options.currently_missing_from_js.static_typing.description
+    t: Natívne typy (podobné tým, ktoré ponúka TypeScript).
+  - key: options.currently_missing_from_js.standard_library
+    t: Štandardné knižnice
+  - key: options.currently_missing_from_js.standard_library.description
+    t: Štandardné knižnice bežných funkcionalít
+  - key: options.currently_missing_from_js.pattern_matching
+    t: Párovanie vzorov (pattern-matching)
+  - key: options.currently_missing_from_js.pattern_matching.description
+    t: Nové kľúčové slovo `match` pre objekty párovania vzorov.
+  - key: options.currently_missing_from_js.pipe_operator
+    t: Pipe Operátor
+  - key: options.currently_missing_from_js.pipe_operator.description
+    t: Nový `|>` operátor pre posielanie výsledku z jednej funkcie do druhej.
+  - key: options.currently_missing_from_js.decorators
+    t: Dekorátory
+  - key: options.currently_missing_from_js.decorators.description
+    t: Dekorátory používané pre metaprogramovanie a pridanie funkcionality pre hodnotu.
+  - key: options.currently_missing_from_js.immutable_data_structures
+    t: Nemenné dátové štruktúry
+  - key: options.currently_missing_from_js.immutable_data_structures.description
+    t: Nové hlboko nemenné dátove štruktúry ano napríklad `Record` a `Tuple`.
+  - key: options.currently_missing_from_js.better_date_management
+    t: Lepšie spravovanie dát
+  - key: options.currently_missing_from_js.better_date_management.description
+    t: Nový `Temporal` objekt pre prácu s dátumami a časom.
+  - key: options.currently_missing_from_js.observable
+    t: Observable
+  - key: options.currently_missing_from_js.observable.description
+    t: Nový typ `Observable` na modelovanie "push-based" dátových zdrojov.
+  # - key: options.currently_missing_from_js.xxx
+  #   t:
+  # - key: options.currently_missing_from_js.xxx.description
+  #   t:
+
+  ###########################################################################
+  # Features
+  ###########################################################################
+
+  # syntax
+  - key: features.destructuring
+    t: Deštrukturovanie
+  - key: features.destructuring.description
+    t: "Príklad: `const { foo } = bar`"
+  - key: features.spread_operator
+    t: Spread operátor
+  - key: features.spread_operator.description
+    t: "Príklad: `[...array1, ...array2]`"
+  - key: features.arrow_functions
+    t: Arrow funkcie
+  - key: features.arrow_functions.description
+    t: "Príklad: `const foo = () => {}`"
+  - key: features.nullish_coalescing
+    t: Nullish Coalescing
+  - key: features.nullish_coalescing.description
+    t: >
+      Príklad: `const foo = 0 ?? 42`
+  - key: features.optional_chaining
+    t: Voliteľné reťazenie
+  - key: features.optional_chaining.description
+    t: >
+      Príklad: `const dogName = adventurer.dog?.name`
+  - key: features.private_fields
+    t: Privátne polia
+  - key: features.private_fields.description
+    t: >
+      Príklad: `class ClassWithPrivateField { #privateField }`
+  # language
+  - key: features.proxies
+    t: Proxy
+  - key: features.async_await
+    t: Async/Await
+  - key: features.promises
+    t: Promises
+  - key: features.decorators
+    t: Dekorátory
+  - key: features.decorators.description
+    t: >
+      Dekorátor je v jeho najjednoduchšej forme spôsob, ako zaobaliť
+      jeden kúsok kódu iným - doslova ho ním “dekorovať”.
+  - key: features.dynamic_import
+    t: Dynamické importy
+  - key: features.dynamic_import.description
+    t: >
+      Príklad: <code>await import('/modules/my-module.js')</code>
+  - key: features.promise_all_settled
+    t: Promise.allSettled()
+  - key: features.big_int
+    t: BigInt
+  - key: features.numeric_separators
+    t: Numerické separátory
+  - key: features.string_replace_all
+    t: String.prototype.replaceAll()
+  - key: features.string_match_all
+    t: String.prototype.matchAll()
+  - key: features.logical_assignment
+    t: Logical Assignment
+  - key: features.promise_any
+    t: Promise.any()
+  - key: features.array_at
+    t: Array.prototype.at()
+  - key: features.top_level_await
+    t: Top-Level Await
+  - key: features.intl
+    t: Intl
+  - key: features.custom_elements
+    t: Custom Elements
+  - key: features.shadow_dom
+    t: Shadow DOM
+  - key: features.page_visibility
+    t: Page Visibility API
+  - key: features.broadcast_channel
+    t: Broadcast Channel API
+  - key: features.geolocation
+    t: Geolokačné API
+  - key: features.file_system_access
+    t: File System Access API
+  - key: features.web_share
+    t: Web Share API
+  - key: features.webxr
+    t: WebXR
+
+  # data structures
+  - key: features.maps
+    t: Mapy
+  - key: features.sets
+    t: Sety
+  - key: features.typed_arrays
+    t: Typed Arrays
+  - key: array_prototype_flat
+    t: Array.prototype.flat
+
+  # browser apis
+  - key: features.service_workers
+    t: Service Workers
+  - key: features.local_storage
+    t: LocalStorage
+  - key: features.i18n
+    t: i18n
+  - key: features.web_components
+    t: Webové komponenty
+  - key: features.web_audio
+    t: Webové audio API
+  - key: features.webgl
+    t: WebGL
+  - key: features.web_animations
+    t: Webové animačné API
+  - key: features.webrtc
+    t: WebRTC
+  - key: features.web_speech
+    t: Webové rečové API
+  - key: features.webvr
+    t: WebVR
+  - key: features.websocket
+    t: Websocket
+  - key: features.fetch
+    t: Fetch API
+
+  # other features
+  - key: features.pwa
+    t: Progresívne webové aplikácie (PWA)
+  - key: features.wasm
+    t: WebAssembly (WASM)
+
+  # patterns
+  - key: patterns.object_oriented_programming
+    t: Objektovo orientované programovanie
+  - key: features.functional_programming
+    t: Funkcionálne programovanie
+  - key: features.reactive_programming
+    t: Reaktívne programovanie
+
+  # upcoming features
+  # - key: features.static_typing
+  #   t: Statická typová kontrola
+
+  # - key: features.standard_library
+  #   t: Štandardné knižnice
+
+  # - key: features.pattern_matching
+  #   t: Párovanie vzorov (pattern-matching)
+
+  # - key: features.pipe_operator
+  #   t: Pipe Operátor
+
+  # - key: features.immutable_data_structures
+  #   t: Nemenné dátové štruktúry
+
+  ###########################################################################
+  # Tools
+  ###########################################################################
+
+  - key: tools.angular.description
+    t: >
+      Berte na vedomie, že táto otázka sa týka iba práce s [Angularom](https://angular.io/),
+      a nie je aplikovateľná pre zastaraný [AngularJS](https://angularjs.org/).
+
+  ###########################################################################
+  # Other Tools
+  ###########################################################################
+
+  - key: tools_others.runtimes
+    t: JavaScriptové behové prostredia
+  - key: tools_others.runtimes.description
+    t: Aké enginy alebo behové (runtime) prostredia pravidelne používate?
+  - key: tools_others.runtimes.others
+    t: Iné prostredia
+  - key: tools_others.runtimes.others.description
+    t: Iné (voľná odpoveď).
+
+  - key: tools_others.package_registries
+    t: Registre balíkov (Package Registries)
+  - key: tools_others.package_registries.description
+    t: Z akých registrov balíkov zvyčajne načítavate balíky?
+  - key: tools_others.package_registries.others
+    t: Iné registre balíkov
+  - key: tools_others.package_registries.others.description
+    t: Iné (voľná odpoveď).
+
+  - key: tools_others.form_factors
+    aliasFor: environments.form_factors
+  - key: tools_others.form_factors.description
+    aliasFor: environments.form_factors.description
+
+  ###########################################################################
+  # Opinions
+  ###########################################################################
+
+  - key: opinions.js_moving_in_right_direction
+    t: JavaScript smeruje správnym smerom
+
+  - key: opinions.building_js_apps_overly_complex
+    t: Vytváranie JavaScriptových aplikácií je teraz príliš komplikované
+
+  - key: opinions.js_over_used_online
+    t: JavaScript je online nadužívaný
+
+  - key: opinions.enjoy_building_js_apps
+    t: Rád vytváram JavaScriptové aplikácie
+
+  - key: opinions.would_like_js_to_be_main_lang
+    t: Chcel by som používať JavaScript ako môj hlavný programovací jazyk
+
+  - key: opinions.js_ecosystem_changing_to_fast
+    t: JavaScriptový ekosystém sa mení príliš rýchlo
+
+  - key: opinions_others.missing_from_js.others
+    t: Čo vnímate, že práve JavaScriptu chýba?
+  - key: opinions_others.missing_from_js.others.description
+    t: Veci, ktoré by ste v JavaScripte jedného dňa radi videli.
+
+  - key: happiness.front_end_frameworks
+    t: Ako spokojný ste so stavom frontendových frameworkov?
+  - key: happiness.back_end_frameworks
+    t: Ako spokojný ste so stavom backendových frameworkov?
+  - key: happiness.testing
+    t: Ako spokojný ste so stavom testovacích nástrojov?
+  - key: happiness.mobile_desktop
+    t: Ako spokojný ste so stavom mobilných a desktopových frameworkov?
+  - key: happiness.build_tools
+    t: Ako spokojný ste so stavom buildovacích frameworkov?
+  - key: happiness.monorepo_tools
+    t: Ako spokojný ste so stavom monorepo nástrojov?
+
+  - key: happiness.state_of_the_web
+    t: Ako spokojný ste s celkovým stavom webových technológií?
+
+  - key: happiness.state_of_js
+    t: Ako spokojný ste s všeobecným stavom JavaScriptu?
+
+  # Pain Points
+  - key: opinions.js_pain_points
+    t: Problémy JavaScriptu
+  - key: opinions.js_pain_points.description
+    t: Pre každú dvojicu vyberte aspekt JavaScriptu s ktorou máte najäčšie ťažkosti.
+
+  - key: opinions_others.js_pain_points.others
+    t: Iné problémy JavaScriptu
+
+  # Missing Features
+  - key: opinions.currently_missing_from_js
+    t: Čo myslíte, že JavaScriptu momentálne chýba?
+  - key: opinions.currently_missing_from_js.description
+    t: Pre každú dvojicu vyberte vlastnosť, ktorú by ste najradšej videli v JavaScripte už dnes.
+  - key: opinions_others.currently_missing_from_js.others
+    t: Iné chýbajúce funkcie
+
+  # pain points/currently missing (results)
+  - key: js_pain_points.js_pain_points_wins
+    t: Problémy JavaScriptu
+  - key: js_pain_points.js_pain_points_wins.description
+    t: S ktorými aspektmi JavaScriptu momentálne najviac zápasíte? Výsledky sú zoradené podľa počtu výhier kôl turnamentu.
+
+  - key: js_pain_points.js_pain_points_matchups
+    t: Problémy JavaScriptu (Porovnania)
+  - key: js_pain_points.js_pain_points_matchups.description
+    t: S ktorými aspektmi JavaScriptu momentálne najviac zápasíte? Percento vyhratých kôl položky na ľavej strane proti tej vrchnej.
+
+  - key: currently_missing_from_js.currently_missing_from_js_wins
+    t: Vlastnosti, ktoré JavaScriptu chýbajú
+  - key: currently_missing_from_js.currently_missing_from_js_wins.description
+    t: Ktorú vlastnosť by ste najradšej videli v JavaScripte už dnes? Výsledky sú zoradené podľa počtu výhier kôl turnamentu.
+
+  - key: currently_missing_from_js.currently_missing_from_js_matchups
+    t: Features Missing From JavaScript (Matchups)
+  - key: currently_missing_from_js.currently_missing_from_js_matchups.description
+    t: Ktorú vlastnosť by ste najradšej videli v JavaScripte už dnes? Percento vyhratých kôl položky na ľavej strane proti tej vrchnej.
+
+  ###########################################################################
+  # Resources
+  ###########################################################################
+
+  - key: resources.first_steps_js
+    t: Prvé kroky s JavaScriptom
+  - key: resources.first_steps_js.description
+    t: Keď ste začínali, ako ste sa prvotne učili JavaScript?
