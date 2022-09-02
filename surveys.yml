@@ -1,0 +1,116 @@
+locale: sk-SK
+translations:
+    ###########################################################################
+    # General
+    ###########################################################################
+
+    - key: general.no_preview_surveys
+      t: Žiadne prieskumy na nahliadnutie
+    - key: general.global_nav
+      t: Hlavná navigácia
+    - key: general.survey_status_preview
+      t: Náhľad
+    - key: general.survey_status_open
+      t: Otvorené
+    - key: general.survey_status_closed
+      t: Zatvorené
+
+    ###########################################################################
+    # Accounts
+    ###########################################################################
+
+    - key: accounts.create_account
+      t: Vytvoriť účet
+    - key: accounts.create_account.description
+      t: Vlastný účet Vám umožní **v budúcnosti prísup ku tvojim dátam** a upozorníme Vás na zverejnenie výsledkov prieskumu.
+    - key: accounts.create_account.note
+      t: Ak už **máte účet**, emailom Vám pošleme magicky odkaz na prihlásenie.
+    - key: accounts.create_account.action
+      t: Vytvoriť účet
+    - key: accounts.your_email
+      t: Váš email
+
+    - key: accounts.continue_as_guest
+      t: Pokračovať ako hosť
+    - key: accounts.continue_as_guest.description
+      t: Anonýmne absolvovanie prieskumu znamená, že si po skončení session **nebudete schopný opätovne prezrieť tebou zadané dáta**.
+    - key: accounts.continue_as_guest.action
+      t: Pokračovať ako hosť
+
+    - key: accounts.magic_link.no_email
+      t: Prosím, vložte Váš email
+    - key: accounts.magic_link.success
+      t: Pozri si Vašu schránku! Pre potvrdenie účtu a prihlásenie sme Vám zaslali magický odkaz na ktorý stačí len kliknúť.
+            
+    ###########################################################################
+    # FAQ
+    ###########################################################################
+
+    - key: general.faq
+      t: FAQ
+    - key: faq.create_account
+      t: Prečo si musím vytvoriť účet?
+    - key: faq.create_account.description
+      t: O vytvorenie účtu Vás žiadame pre to, aby sme sa vyhli duplicitným odpovediam, uložili Vaše dáta a upozornili na zverejnenie výsledkov.
+    - key: faq.anonymous_survey
+      t: Môžem vyplniť prieskum anonýmne?
+    - key: faq.anonymous_survey.description
+      t: Áno, na vyplnenie prieskumu môžete použiť falošný email (nieco@priklad.com), alebo neidentifikovateľný email, ak si ho uložíte pre budúce prihlásenie.
+    - key: faq.questions_required
+      t: Je potrebná odpoveď na všetky otázky?
+    - key: faq.questions_required.description
+      t: Nie, každá otázka prieskumu je voliteľná a je možné ju preskočiť.
+    - key: faq.data_published
+      t: Budú moje dáta zverejnené?
+    - key: faq.data_published.description
+      t: Áno, všetky dáta budu zverejnené, ale až po odstránení akýchkoľvek identifikujúcich informácií (emaily, užívateľské mená, atď.).
+    - key: faq.survey_design
+      t: Ako sú prieskumy navrhnuté?
+    - key: faq.survey_design.description
+      t: Prieskumy sú navrhnuté na základe spätnej väzby od komunity a preskúmané expertmi. Môžete sa [dozvedieť viac tu](https://dev.to/sachagreif/how-the-state-of-js-css-surveys-are-run-4lnb). 
+    - key: faq.results_released
+      t: Kedy budú výsledky zverejnené?
+    - key: faq.results_released.description
+      t: Výsledky sú zvyčajne zverejnené pár týždňov po uzatvorení prieskumu.
+    - key: faq.survey_deadline
+      t: Kedy bude prieskum uzatvorený?
+    - key: faq.survey_deadline.description
+      t: Tento prieskum je naplánovaný do {date}
+    - key: faq.team
+      t: Kto vedie prieskumy?
+    - key: faq.team.description
+      t: Prieskumy sú vedené [Devographics](http://devographics.com) spoločne s kolektívom prispievateľov, prekladateľov a dobrovolníkov.
+
+    ###########################################################################
+    # Form Controls
+    ###########################################################################
+
+    - key: bracket.vs
+      t: VS
+    - key: bracket.start_over
+      t: Začať znova
+    - key: bracket.winner
+      t: >
+      Víťaz: 
+    - key: bracket.round
+      t: Kolo
+    - key: bracket.empty_bracket
+      t: Čakanie na výsledok (dokončite najprv predošlé kolo)
+    - key: bracket.result
+      t: Výsledok
+    - key: bracket.cancel
+      t: Zrušiť
+
+
+    ###########################################################################
+    # Response
+    ###########################################################################
+
+    - key: response.completion
+      t: '{completion}% dokončené'
+
+    - key: response.details
+      t: Začaté {startedAt}, dokončené na {completion}%.
+
+    - key: response.view_results
+      t: Pozrieť výsledky
