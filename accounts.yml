@@ -43,7 +43,7 @@ translations:
   - key: accounts.reset_your_password
     t: Resetujte svoje heslo
   - key: accounts.set_password
-    t: Zvolte heslo
+    t: Zvoľte heslo
   - key: accounts.enter_new_password
     t: Vložte nové heslo
   - key: accounts.new_password
@@ -67,9 +67,9 @@ translations:
   - key: accounts.info_password_changed
     t: Heslo zmenené.
   - key: accounts.please_pick_password
-    t: Prosím, zvolte nové heslo pre pokračovanie.
+    t: Prosím zvoľte nové heslo pre pokračovanie.
   - key: accounts.please_log_in
-    t: Prosím, príhlaste alebo zaregistrujte sa pre pokračovanie.
+    t: Pre pokračovanie sa prosím prihlaste alebo zaregistrujte.
   - key: accounts.logged_in_as
     t: Prihláseny ako {email}
   - key: accounts.logged_in_as_guest
@@ -77,7 +77,7 @@ translations:
   - key: accounts.questions
     t: >
       Ak máte akékoľvek otázky o tom, ako používame Vaše dáta, alebo 
-      chcete, aby sme z našich záznamov Vaše dáta odstránili, 
+      chcete, aby sme z našich záznamov Vaše dáta odstránili 
       prosím <a href="mailto:hello@stateofjs.com">kontaktujte nás</a>.
   - key: accounts.token_verified
     t: Overenie tokenu úspešné, budete presmerovaný…

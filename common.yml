@@ -38,7 +38,7 @@ translations:
     - key: general.closed_surveys
       t: Uzatvorené prieskumy
     - key: general.no_closed_surveys
-      t: Žiadne prieskumy momenátlne nie sú uzatvorené.
+      t: Žiadne prieskumy momentálne nie sú uzatvorené.
     - key: general.preview_surveys
       t: Náhľady Prieskumov
     - key: general.no_preview_surveys
@@ -80,7 +80,7 @@ translations:
     - key: credits.thanks
       t: Špeciálna vďaka
     - key: credits.contributors
-      t: Prispievateľia
+      t: Prispievatelia
     - key: credits.contributors.description
       t: Špeciálna vďaka týmto ľudom, ktorí nám pomohli s návrhom prieskumu.
     - key: credits.accessibility
@@ -119,7 +119,7 @@ translations:
       t: >
           Poznámka: všeky otázky sú voliteľné, nie je potrebné dosiahnuť 100% dokončenie.
     - key: general.data_is_saved
-      t: Vaše údaje sú uložené kedykoľvek navigujete na predošlú alebo ďalšiu sekciu.
+      t: Vaše údaje sú uložené kedykoľvek sa odnavigujete na predošlú alebo ďalšiu sekciu.
     - key: general.close_nav
       t: Zatvoriť menu
     - key: general.open_nav

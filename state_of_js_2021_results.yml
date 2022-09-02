@@ -68,10 +68,10 @@ translations:
       špeciálnu snahu priniesť nové spôsoby na vysvetlenie našich dát.
   - key: sections.features.description
     t: |
-      JavaScript možno napreduje rýchlo, no vyzerá to, že JavaScript vývojari napreduju ešte rýchlejšie, kedže mnoho nových funkcií majú medzi nimi výsokú uroveň osvojenia.
+      JavaScript možno napreduje rýchlo, no vyzerá to, že JavaScriptoví vývojari napreduju ešte rýchlejšie, kedže mnoho nových funkcií majú medzi nimi výsokú uroveň osvojenia.
   - key: sections.technologies.description
     t: |
-      Tohtoročné výsledky ukazujú na výsoký stupen fragmentácie vo svete JavaScripte. Napriek tomu, že toto občas môže vytvárať problémy, všetka táto súťaživosť napomáha veľmi dynamickému ekosystému.
+      Tohtoročné výsledky ukazujú na výsoký stupeň fragmentácie vo svete JavaScriptu. Napriek tomu, že to občas môže vytvárať problémy, všetka táto súťaživosť napomáha veľmi dynamickému ekosystému.
   - key: sections.tools_others.description
     t: |
       Vybranie technológie môže byť často výsledkom zložitých rozhodnutí medzi dvoma rozdielnymi
@@ -79,7 +79,7 @@ translations:
   - key: sections.environments.description
     t: |
       Čo sa týka webového vývoja bola prístupnosť dlhé roky na druhej koľaji, mnoho vývojárov si ale práve 
-      teraz uvedomuje, že by mala slúžiť ako základ na ktorom by malo ležať všetko ostatné.
+      teraz uvedomuje, že by mala slúžiť ako základ na ktorom treba stavať všetko ostatné.
   - key: sections.resources.description
     t: |
       Informovanie o blogoch, podkástoch a stránkach bolo dobrým začiatkom, ale tento rok sme sa rozhodli ísť o jeden
@@ -133,7 +133,7 @@ translations:
     t: S **{value}** progresom v roku 2021, nullish coalescing operátor (??) sa rýchlo stal neoddeliteľnou súčasťou JavaScriptu.
 
   - key: award.tool_usage_delta_award.comment
-    t: esbuild je ľedva dva roky starý, no s **{value}** progresom oproti minulému roku postupne získava pôdu pod nohami.
+    t: esbuild je ledva dva roky starý, no s **{value}** progresom oproti minulému roku postupne získava pôdu pod nohami.
 
   - key: award.tool_satisfaction_award.comment
     t: Vite získava top miesto so závratnou výškou spokojnosti **{value}**!
@@ -152,9 +152,9 @@ translations:
     t: |
       <span class="first-line">JavaScript je v enormne lepšom stave v porovnaní s rokom 2016.</span>
 
-      V prvej edicí nášho prieskumi iba 21% z Vás používalo TypeScript v porovnaní so 69% dnes. Aj keď radi žartujeme o nových frontendových frameworkoch, ktoré vychádzajú každý deň, **React** a **Vue** dominujú 6 po sebe idúcich rokov. Percento ľudí, ktoré uviedlo, že "JS napreduje príliš rýchlo" kleslo z 59% na 38%.
+      V prvej edicí nášho prieskumu iba 21% z Vás používalo TypeScript v porovnaní so 69% dnes. Aj keď radi žartujeme o nových frontendových frameworkoch, ktoré vychádzajú každý deň, **React** a **Vue** dominujú 6 po sebe idúcich rokov. Percento ľudí, ktoré uviedlo, že "JS napreduje príliš rýchlo" kleslo z 59% na 38%.
       To ale neznamená, že jazyk stál na jednom mieste. **Volitelne reťazenie** a **Nullish Coalescing** API vystrelili medzi najpoužívanejšie API v našom prieskume, napriek tomu že sú iba dva roky staré. A viac dobrých vecí je na ich ceste od TC39: uviedli ste, že spravovanie dátumov je top chýábajúca funkncionalita a Temporálne API nedávno dosiahlo [Etapu 3](https://github.com/tc39/proposal-temporal).
-      Nástrojoví ekosystém taktiež sleduje rapídnu evolúciu a je férové povedať, že rok 2021 bol rokom **Vite**. Vite nie len že debutovalo s 98% spokojnosťou, ale jeho použitie je na 30% v jeho prvom roku v našom prieskume, dokonca zatieňujúc esbuild. Vite nie je sám, čo sa týka zlepšovania stavu JavaScriptových buildovacích nástrojov - 8 z 12 nástrojov, ktoré sledujeme dnes sú menej ako dva roky staré! A napriek tomu, že **pnpm**, **Turborepo**, a **Nx** dosiahli prvé priečky v prvom roku sledovania monorepo nástrojov, iba 25% percent ľudí uvádza spokojnosť so stavom tejto kategórie, ukazujúc, že tu ešte ostáva mnoho práce. 
+      Nástrojový ekosystém taktiež sleduje rapídnu evolúciu a je férové povedať, že rok 2021 bol rokom **Vite**. Vite nie len že debutovalo s 98% spokojnosťou, ale jeho použitie je na 30% v jeho prvom roku v našom prieskume, dokonca zatieňujúc esbuild. Vite nie je sám, čo sa týka zlepšovania stavu JavaScriptových buildovacích nástrojov - 8 z 12 nástrojov, ktoré sledujeme dnes sú menej ako dva roky staré! A napriek tomu, že **pnpm**, **Turborepo**, a **Nx** dosiahli prvé priečky v prvom roku sledovania monorepo nástrojov, iba 25% percent ľudí uvádza spokojnosť so stavom tejto kategórie, ukazujúc, že tu ešte ostáva mnoho práce. 
 
       Stojí za zmienku: mnoho nových účastnikov ako **Deno**, **Rome**, **Astro**, **Remix** a iný sú teraz podporovaný spoločnostami s financovaním rizikového kapitálu, čo možno vytvára vhodnú alternatívu krehkému open-source prostrediu financovania.
       Tak ako [Tretí vek JavaScriptu](https://www.swyx.io/js-third-age/) vstupuje do jeho tretieho roku, možnosti pre ašpirujúcich podnikateľov sa postupne rozvíjajú a teším sa na to, čo prinesie nasledujúcich pár rokov!

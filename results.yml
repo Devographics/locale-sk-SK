@@ -19,7 +19,7 @@ translations:
     t: Hosted by <a href="{link}">Netlify</a>.
 
   - key: general.completion_percentage
-    t: 'Percento komplétnosti:'
+    t: 'Percento kompletnosti:'
 
   - key: partners.thanks
     t: Ďakujeme našim partnetrom za podporu!
@@ -42,7 +42,7 @@ translations:
   - key: tabs.data
     t: Dáta
   - key: tabs.share
-    t: Zdielať
+    t: Zdieľať
   - key: tabs.debug
     t: Debugovanie
   - key: tabs.by_country
@@ -77,7 +77,7 @@ translations:
     t: Povedomie
 
   - key: options.features_mode.grouped
-    t: Zoskúpene
+    t: Zoskúpené
   - key: options.features_mode.awareness_rank
     t: Povedomie
   - key: options.features_mode.usage_rank
@@ -237,7 +237,7 @@ translations:
   - key: user_info.gender_by_country
     t: Pohlavie podľa krajiny
   - key: user_info.gender_by_country.description
-    t: Pohlavie podľa krajiny s minimálne 100 respondentmi, zoradené podľa "stredného čísla pohlavia" (každé pohlavie má priradenú číselnú hodnotu v vzostupnom poradí) zostupne.
+    t: Pohlavie podľa krajiny s minimálne 100 respondentmi, zoradené podľa "stredného čísla pohlavia" (každé pohlavie má priradenú číselnú hodnotu vo vzostupnom poradí) zostupne.
 
   - key: user_info.years_of_experience_by_salary
     t: Roky skúsenosti podľa platového rozsahu
