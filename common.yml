@@ -30,1106 +30,1106 @@ translations:
   - key: general.take_survey
     t: Zúčastnite sa {name} prieskumu
 
-  # surveys
-    - key: general.open_surveys
-      t: Otvorené prieskumy
-    - key: general.no_open_surveys
-      t: Žiadne prieskumy momentálne nie sú otvorené.
-    - key: general.closed_surveys
-      t: Uzatvorené prieskumy
-    - key: general.no_closed_surveys
-      t: Žiadne prieskumy momentálne nie sú uzatvorené.
-    - key: general.preview_surveys
-      t: Náhľady Prieskumov
-    - key: general.no_preview_surveys
-      t: Pre žiadne prieskumy nie je možný náhľad.
-    - key: general.start_survey
-      t: Začiatok Prieskumu »
-    - key: general.continue_survey
-      t: Pokračovať v Prieskume »
-    - key: general.review_survey
-      t: Skontrolujte odpovede »
-    - key: general.preview_survey
-      t: Prehľad odpovedí »
-    - key: general.finish_survey
-      t: Ukončiť prieskum »
-    - key: general.next_section
-      t: Ďalšia sekcia 
-    - key: general.prev_section
-      t: Predošlá sekcia
-    - key: general.survey_closed
-      t: Tento prieskum je teraz uzavretý.
-    - key: general.survey_results
-      t:  Prezrieť výsledky Prieskumu »
-    - key: general.surveys_available_languages
-      t: 'Prieskumy sú dostupné v:'
-    - key: general.help_us_translate
-      t: Pomôžte nám s prekladom prieskumov »
-    - key: general.translators
-      t: Prekladatelia
-    - key: general.translation_help
-      t: Nápoveda k prekladom
-    - key: general.newly_added
-      t: Novo pridané tento rok
-    - key: general.new
-      t: Nové
-    - key: general.devographics_banner
-      t: <a href="https://www.devographics.com/" target="_blank">Devographics</a> je nový názov kolektívu ľudí, ktorý je zodpovedný za prieskumy o Stave JavaScriptu, CSS a GraphQL.
-
-    # credits
-    - key: credits.thanks
-      t: Špeciálna vďaka
-    - key: credits.contributors
-      t: Prispievatelia
-    - key: credits.contributors.description
-      t: Špeciálna vďaka týmto ľudom, ktorí nám pomohli s návrhom prieskumu.
-    - key: credits.accessibility
-      t: Konzultácie k prístupnosti
-    - key: credits.survey_design
-      t: Návrh prieskumov
-    - key: credits.logo_design
-      t: Dizajn loga
-    - key: credits.mobile_testing
-      t: Testovanie pre mobil
-    - key: credits.data_visualizations
-      t: Vizualizácia dát
-    - key: credits.repo_architecture
-      t: Architektúra repozitárov
-    - key: credits.code_refactoring
-      t: Refaktoring kódu
-    - key: credits.data_processing
-      t: Spracovanie dát
-
-    # support
-    - key: general.support_from
-      t: S podporou od
-
-    # footer
-    - key: general.privacy_policy
-      t: Zásada ochrany osobných údajov
-    - key: general.leave_issue
-      t: Otázky? Našli ste chybu? <a href="{link}" target="_blank">Pošlite pripomienku</a>.
-    - key: general.emoji_icons
-      t: Ikony emotikonov od <a target="_blank" rel="noreferrer" href="https://icons8.com">Icons8</a>
-
-    # navigation
-    - key: general.table_of_contents
-      t: Obsah
-    - key: general.all_questions_optional
-      t: >
-          Poznámka: všeky otázky sú voliteľné, nie je potrebné dosiahnuť 100% dokončenie.
-    - key: general.data_is_saved
-      t: Vaše údaje sú uložené kedykoľvek sa odnavigujete na predošlú alebo ďalšiu sekciu.
-    - key: general.close_nav
-      t: Zatvoriť menu
-    - key: general.open_nav
-      t: Otvoriť menu
-    - key: general.more_actions
-      t: Viac možností
-    - key: general.skip_to_content
-      t: Preškočiť k obsahu
-
-    # thanks
-    - key: general.back
-      t: Naspäť
-    - key: general.thanks
-      t: >
-          Ďakujeme za vyplnenie prieskumu! Vaše údaje sú uložené.
-          Taktiež nám môžete pomôcť zdieľaním tohto prieskumu. Každá pomoc sa počíta a je to niečo, čo môže
-          zlepšiť celkovú reprezentatívnosť údajov:
-    - key: thanks.learn_more_about
-      t: 'Pár pojmov, o ktorých sa možno budete chcieť dozvedieť viac:'
-    - key: thanks.knowledge_score
-      t: Skóre vedomostí
-    - key: thanks.score_explanation
-      t: >
-          Počuli, alebo ste použili <span class="score-number score-number-known">{known}</span> z
-          <span class="score-number score-number-total">{total}</span> pojmov zmienených v prieskume, čo Vás
-          stavia medzi top <span class="score-number score-number-ranking">{knowledgeRankingFromTop}%</span>
-          všetkých respondentov.
-    - key: thanks.share_on_twitter
-      t: Zdieľajte na Twitteri
-    - key: thanks.share_score_message
-      t: >
-          Získal som vedomostné skóre {score}% v tohtoročnom #{hashtag} prieskume! Zúčastniť sa prieskumu: {shareUrl}
-    # share
-    - key: general.share_subject
-      t: >
-          {surveyName} prieskum
-    - key: general.share_text
-      t: >
-          Tohtoročný {surveyName} prieskum je teraz otvorený! {link}
-    # forms
-    - key: forms.select_option
-      t: Vyberte možnosť
-    - key: forms.clear_field
-      t: Vymazať otázku
-
-    # partners
-    - key: partners.our_partners
-      t: Naši partneri
-    - key: partners.become_partner
-      t: Stante sa partnerom
-
-    # 404
-    - key: notfound.title
-      t: 404 Nenájdené
-    - key: notfound.description
-      t: Prepáčte, nenašli sme to, čo hľadáte.
-
-    # other
-    - key: general.join_discord
-      t: Pripojte sa ku nám na <a href="{link}">Discorde</a>. 
-    - key: general.translator_mode
-      t: Stlačte option/alt pre spustenie prekladateľského módu.
-    - key: general.charts_nivo
-      t:  Grafy sú vytvorené <a href="{link}">Nivom</a>.
-    - key: general.made_by_devographics
-      t: Vytvorené <a href="{link}">Devographics</a>
-      
-    ###########################################################################
-    # Nav
-    ###########################################################################
-
-    - key: nav.surveys
-      t: Prieskumy
-    - key: nav.account
-      t: Účet
-
-    ###########################################################################
-    # Sections
-    ###########################################################################
-
-    - key: sections.user_info.title
-      t: O Vás
-    - key: sections.user_info.description
-      t: Prezraďte nám niečo o sebe.
-
-    - key: sections.features.title
-      t: Vlastnosti
-    - key: sections.features.description
-      t: Syntax, kľúčové slova, a iné jazykové vlastnosti.
-
-    - key: sections.resources.title
-      t: Zdroje
-    - key: sections.resources.description
-      t: Aké zdroje o {topic} sledujete?
-
-    - key: sections.opinions.title
-      t: Názory
-    - key: sections.opinions.description
-      t: Čo si myslíte o stave {topic}?
-
-    - key: sections.other_tools.title
-      t: Iné nástroje
-    - key: sections.other_tools.description
-      t: Z nasledujúcich nástrojov zaškrtnite len tie, ktoré používate pravidelne.
-
-    - key: sections.report.title
-      t: Správy o trendoch
-
-    ###########################################################################
-    # Options
-    ###########################################################################
-
-    # features
-    - key: options.features.never_heard
-      t: <span aria-hidden="true">🤷</span> Nepočul som/nie som si istý čo to je
-    - key: options.features.heard
-      t: <span aria-hidden="true">✅</span> Poznám, ale nikdy som nepoužil
-    - key: options.features.used
-      t: <span aria-hidden="true">👍</span> Už som použil
-
-    # features (no emoji)
-    - key: options.features.never_heard.label
-      t: Nepočul som/nie som si istý čo to je
-    - key: options.features.heard.label
-      t: Poznám, ale nikdy som nepoužil
-    - key: options.features.used.label
-      t: Už som použil
-
-    # features (short versions)
-    - key: options.features.never_heard.short
-      t: Nepočul som o tom
-    - key: options.features.heard.short
-      t: Počul som o tom
-    - key: options.features.used.short
-      t: Použil som
-
-    # patterns
-    - key: options.patterns.use_never
-      t: Takmer vždy sa tomu vyhnem
-    - key: options.patterns.use_sparingly
-      t: Používam zriedka
-    - key: options.patterns.use_neutral
-      t: Bez názoru
-    - key: options.patterns.use_frequently
-      t: Používam často
-    - key: options.patterns.use_always
-      t: Používam tak často, ako sa dá
-
-    # tools experience
-    - key: options.tools.never_heard
-      t: <span aria-hidden="true">🤷</span> Nepočul som/nie som si istý čo to je
-    - key: options.tools.interested
-      t: <span aria-hidden="true">✅</span> Poznám > chcel by som sa naučiť
-    - key: options.tools.not_interested
-      t: <span aria-hidden="true">🚫</span> Poznám > Nezaujíma ma
-    - key: options.tools.would_use
-      t: <span aria-hidden="true">👍</span> Použil som > Použil by som znova
-    - key: options.tools.would_not_use
-      t: <span aria-hidden="true">👎</span> Použil som > Nepoužil by som znova
-
-    # tools experience (no emoji)
-    - key: options.tools.never_heard.legend
-      t: Nepočul som/nie som si istý čo to je
-    - key: options.tools.interested.legend
-      t: Poznám > chcel by som sa naučiť
-    - key: options.tools.not_interested.legend
-      t: Poznám > Nezaujíma ma
-    - key: options.tools.would_use.legend
-      t: Použil som > Použil by som znova
-    - key: options.tools.would_not_use.legend
-      t: Použil som > Nepoužil by som znova
-
-    # tools experience (short versions)
-    - key: options.tools.never_heard.short
-      t: Nepoznám
-    - key: options.tools.interested.short
-      t: Zaujíma ma
-    - key: options.tools.not_interested.short
-      t: Nezaujíma ma
-    - key: options.tools.would_use.short
-      t: Použil by som znova
-    - key: options.tools.would_not_use.short
-      t: Nepoužil by som
-
-    # happiness
-    - key: options.happiness.0
-      t: Veľká nespokojnosť
-    - key: options.happiness.1
-      t: Nespokojnosť
-    - key: options.happiness.2
-      t: Neutrálny
-    - key: options.happiness.3
-      t: Spokojnosť
-    - key: options.happiness.4
-      t: Veľká spokojnosť
-
-    # happiness (short version)
-    - key: options.happiness.0.short
-      t: Veľká nespokojnosť
-    - key: options.happiness.1.short
-      t: Nespokojnosť
-    - key: options.happiness.2.short
-      t: Neutrálny
-    - key: options.happiness.3.short
-      t: Spokojnosť
-    - key: options.happiness.4.short
-      t: Veľká spokojnosť
-
-    # opinions
-    - key: options.opinions.0
-      t: Silný nesúhlas
-    - key: options.opinions.1
-      t: Nesúhlas
-    - key: options.opinions.2
-      t: Neutrálny
-    - key: options.opinions.3
-      t: Súhlas
-    - key: options.opinions.4
-      t: Silný súhlas
-
-    # age
-    - key: options.age.range_less_than_10
-      t: 10 rokov alebo menej
-    - key: options.age.range_10_18
-      t: 11-18 rokov
-    - key: options.age.range_18_24
-      t: 19-24 rokov
-    - key: options.age.range_25_34
-      t: 25-34 rokov
-    - key: options.age.range_35_44
-      t: 35-44 rokov
-    - key: options.age.range_45_54
-      t: 45-54 rokov
-    - key: options.age.range_55_64
-      t: 55-64 rokov
-    - key: options.age.range_more_than_65
-      t: 65 rokov
-
-    # age (short versions)
-    - key: options.age.range_less_than_10.short
-      t: '<=10'
-    - key: options.age.range_10_18.short
-      t: 11-18
-    - key: options.age.range_18_24.short
-      t: 19-24
-    - key: options.age.range_25_34.short
-      t: 25-34
-    - key: options.age.range_35_44.short
-      t: 35-44
-    - key: options.age.range_45_54.short
-      t: 45-54
-    - key: options.age.range_55_64.short
-      t: 55-64
-    - key: options.age.range_more_than_65.short
-      t: '>65'
-
-    # years of experience
-    - key: options.years_of_experience.range_less_than_1
-      t: Menej ako rok
-    - key: options.years_of_experience.range_1_2
-      t: 1 až 2 roky
-    - key: options.years_of_experience.range_2_5
-      t: 3 až 5 rokov
-    - key: options.years_of_experience.range_5_10
-      t: 6 až 10 rokov
-    - key: options.years_of_experience.range_10_20
-      t: 11 až 20 rokov
-    - key: options.years_of_experience.range_more_than_20
-      t: Viac ako 20 rokov
-
-    # years of experience (short versions)
-    - key: options.years_of_experience.range_less_than_1.short
-      t: '<1 rok'
-    - key: options.years_of_experience.range_1_2.short
-      t: 1-2 roky
-    - key: options.years_of_experience.range_2_5.short
-      t: 3-5 rokov
-    - key: options.years_of_experience.range_5_10.short
-      t: 6-10 rokov
-    - key: options.years_of_experience.range_10_20.short
-      t: 11-20 rokov
-    - key: options.years_of_experience.range_more_than_20.short
-      t: '>20 rokov'
-
-    # company size
-    - key: options.company_size.range_1
-      t: Jeden zamestnanec
-    - key: options.company_size.range_1_5
-      t: 2 až 5 zamestnanci
-    - key: options.company_size.range_5_10
-      t: 6 až 10 zamestnancov
-    - key: options.company_size.range_10_20
-      t: 11 až 20 zamestnancov
-    - key: options.company_size.range_20_50
-      t: 21 až 50 zamestnancov
-    - key: options.company_size.range_50_100
-      t: 51 až 100 zamestnancov
-    - key: options.company_size.range_100_1000
-      t: 101 až 1000 zamestnancov
-    - key: options.company_size.range_more_than_1000
-      t: Viac ako 1000 zamestnancov
-
-    # company size (short versions)
-    - key: options.company_size.range_1.short
-      t: 1
-    - key: options.company_size.range_1_5.short
-      t: 1-5
-    - key: options.company_size.range_5_10.short
-      t: 6-10
-    - key: options.company_size.range_10_20.short
-      t: 11-20
-    - key: options.company_size.range_20_50.short
-      t: 21-50
-    - key: options.company_size.range_50_100.short
-      t: 51-100
-    - key: options.company_size.range_100_1000.short
-      t: 101-1000
-    - key: options.company_size.range_more_than_1000.short
-      t: '>1000'
-
-    # salary
-    - key: options.yearly_salary.range_work_for_free
-      t: Pracujem zadarmo
-    - key: options.yearly_salary.range_0_10
-      t: 0 - 10 000 $
-    - key: options.yearly_salary.range_10_30
-      t: 10 000 - 30 000 $
-    - key: options.yearly_salary.range_30_50
-      t: 30 000 - 50 000 $
-    - key: options.yearly_salary.range_50_100
-      t: 50 000 - 100 000 $
-    - key: options.yearly_salary.range_100_200
-      t: 100 000 - 200 000 $
-    - key: options.yearly_salary.range_more_than_200
-      t: Viac ako 200 000
-
-    # salary (short versions)
-    - key: options.yearly_salary.range_work_for_free.short
-      t: 0 $
-    - key: options.yearly_salary.range_0_10.short
-      t: 0 - 10 000 $
-    - key: options.yearly_salary.range_10_30.short
-      t: 10 000 - 30 000 $
-    - key: options.yearly_salary.range_30_50.short
-      t: 30 000 - 50 000 $
-    - key: options.yearly_salary.range_50_100.short
-      t: 50 000 - 100 000 $
-    - key: options.yearly_salary.range_100_200.short
-      t: 100 000 - 200 000 $
-    - key: options.yearly_salary.range_more_than_200.short
-      t: '> 200 000 $'
-
-    # job titles
-    - key: options.job_title.cto
-      t: CTO
-    - key: options.job_title.front_end_developer
-      t: Front End Vývojár/Inžinier
-    - key: options.job_title.back_end_developer
-      t: Back End Vývojár/Inžinier
-    - key: options.job_title.full_stack_developer
-      t: Full Stack Vývojár/Inžinier
-    - key: options.job_title.web_developer
-      t: Webový Vývojár
-    - key: options.job_title.web_designer
-      t: Webový Dizajnér
-    - key: options.job_title.ux_designer
-      t: UX Dizajnér
-    - key: options.job_title.ui_designer
-      t: UI Dizajnér
-    - key: options.job_title.back_end_dev
-      t: Back-end Vývojár/Inžinier
-
-    # JavaScript proficiency
-    - key: options.javascript_proficiency.0
-      t: Neviem programovať v JavaScripte
-    - key: options.javascript_proficiency.1
-      t: Zvládam jednoduché programovanie v JavaScripte alebo jQuery
-    - key: options.javascript_proficiency.2
-      t: Pracujem na existujúcom front-end kóde používajuc moderné frameworky (React, Vue, etc.)
-    - key: options.javascript_proficiency.3
-      t: Navrhujem kompletné front-end projekty od podlahy
-    - key: options.javascript_proficiency.4
-      t: Pracujem s pokročilými front-end postupmi (state managment, načítavanie dát, atď.)
-
-    # CSS proficiency
-    - key: options.css_proficiency.0
-      t: Prakticky žiadna znalosť CSS
-    - key: options.css_proficiency.1
-      t: Používam CSS frameworky a upravujem existujúce štýly
-    - key: options.css_proficiency.2
-      t: Znalosť pravidiel CSS špecifity, schopnosť tvoriť rozloženia stránok
-    - key: options.css_proficiency.3
-      t: Zvládam animácie, interakcie, prechody, atď.
-    - key: options.css_proficiency.4
-      t: Schopnosť naštýlovať celé užívateľské rozhranie držiac sa pevnej metodológie a štandardov
-
-    # Back-end proficiency
-    - key: options.backend_proficiency.0
-      t: Žiadna znalosť back-endu
-    - key: options.backend_proficiency.1
-      t: Schopnosť nastaviť "all-in-one" CMS (napr. WordPress), alebo statický generátor stránok (napr. Jekyll)
-    - key: options.backend_proficiency.2
-      t: Schopnosť vytvoriť aplikácie používajúc existujúce fremeworky (Rails, Laravel, atď.)
-    - key: options.backend_proficiency.3
-      t: Schopnosť nastaviť celý back-end od podlahy (Go, Node.js, atď.)
-    - key: options.backend_proficiency.4
-      t: Schopnosť riadiť komplexné multi-server alebo microservices architekúry
-
-    # Proficiency (generic versions)
-    - key: options.proficiency.0
-      t: Žiadna
-    - key: options.proficiency.1
-      t: Začiatočník
-    - key: options.proficiency.2
-      t: Stredne pokročilý
-    - key: options.proficiency.3
-      t: Pokročilý
-    - key: options.proficiency.4
-      t: Expert
-
-    # Gender
-
-    - key: options.gender.female
-      t: Žena
-    - key: options.gender.male
-      t: Muž
-    - key: options.gender.non_binary
-      t: Nebinárny alebo nekonformný
-    - key: options.gender.questioning
-      t: Hľadajúc sa
-    - key: options.gender.prefer_not_to_say
-      t: Preferujem neuvádzať
-    - key: options.gender.not_listed
-      t: Neuvedné
-
-    # Gender (short)
-
-    - key: options.gender.female.short
-      t: Žena
-    - key: options.gender.male.short
-      t: Muž
-    - key: options.gender.non_binary.short
-      t: Nebinárny alebo nekonformný
-    - key: options.gender.questioning.short
-      t: Hľadajúc sa
-    - key: options.gender.prefer_not_to_say.short
-      t: Preferujem neuvádzať
-    - key: options.gender.not_listed.short
-      t: Neuvedné
-
-    # Race & Ethnicity
-
-    - key: options.race_ethnicity.white_european
-      t: Biela
-    - key: options.race_ethnicity.south_asian
-      t: Juhoázijska
-    - key: options.race_ethnicity.south_east_asian
-      t: Juhozápadnoázijska
-    - key: options.race_ethnicity.hispanic_latin
-      t: Hispánska alebo latino
-    - key: options.race_ethnicity.east_asian
-      t: Východoázijska
-    - key: options.race_ethnicity.middle_eastern
-      t: Stredovýchodná
-    - key: options.race_ethnicity.black_african
-      t: Čierna alebo Afrického pôvodu
-    - key: options.race_ethnicity.multiracial
-      t: Mnohonárodnostná
-    - key: options.race_ethnicity.biracial
-      t: Dvojnárodnostná
-    - key: options.race_ethnicity.native_american_islander_australian
-      t: americký Indián, tichomorský obyvateľ alebo pôvodný Austrálčan
-    - key: options.race_ethnicity.not_listed
-      t: Neuvedená
-
-    # Race & Ethnicity (short)
-
-    - key: options.race_ethnicity.white_european.short
-      t: Biela
-    - key: options.race_ethnicity.south_asian.short
-      t: Juhoázijska
-    - key: options.race_ethnicity.south_east_asian.short
-      t: Juhozápadnoázijska
-    - key: options.race_ethnicity.hispanic_latin.short
-      t: Hispánska alebo latino
-    - key: options.race_ethnicity.east_asian.short
-      t: Východoázijska
-    - key: options.race_ethnicity.middle_eastern.short
-      t: Stredovýchodná
-    - key: options.race_ethnicity.black_african.short
-      t: Čierna/Afrického pôvodu
-    - key: options.race_ethnicity.multiracial.short
-      t: Mnohonárodnostná
-    - key: options.race_ethnicity.biracial.short
-      t: Dvojnárodnostná
-    - key: options.race_ethnicity.native_american_islander_australian.short
-      t: americký Indián/tichomorský obyvateľ/pôvodný Austrálčan
-    - key: options.race_ethnicity.not_listed.short
-      t: Neuvedená
-
-    # Disability Status
-    - key: options.disability_status.visual_impairments
-      t: >
-        Zrakové znevýhodnenie (ako: slepota, farbosleposť, atď.)
-    - key: options.disability_status.hearing_impairments
-      t: >
-        Sluchové znevýhodnenie (ako: hluchosť, hukot v ušiach, atď.)
-    - key: options.disability_status.mobility_impairments
-      t: >
-        Pohybové znevýhodnenie (ako: artritída, karpálny tunel, atď.)
-    - key: options.disability_status.cognitive_impairments
-      t: >
-        Kognitívne poruchy (ako: úzkosť, dyslexia, atď.)
-    - key: options.disability_status.not_listed
-      t: >
-        Neuvedené
-    # Disability Status (short)
-    - key: options.disability_status.visual_impairments
-      t: >
-        Zrakové znevýhodnenie
-    - key: options.disability_status.hearing_impairments
-      t: >
-        Sluchové znevýhodnenie
-    - key: options.disability_status.mobility_impairments
-      t: >
-        Pohybové znevýhodnenie
-    - key: options.disability_status.cognitive_impairments
-      t: >
-        Kognitívne poruchy
-    - key: options.disability_status.not_listed
-      t: >
-        Neuvedené
-    # Form Factors
-    - key: options.form_factors.desktop
-      t: Stolový počítač
-    - key: options.form_factors.keyboard_only
-      t: Stolový počítač iba s klávesnicou
-    - key: options.form_factors.smartphone
-      t: smartfón
-    - key: options.form_factors.feature_phone
-      t: Tlačidlový telefón
-    - key: options.form_factors.tablet
-      t: Tablet
-    - key: options.form_factors.smart_watch
-      t: Inteligentné hodinky
-    - key: options.form_factors.tv
-      t: TV
-    - key: options.form_factors.gaming_console
-      t: Herná konzola
-    - key: options.form_factors.screen_reader
-      t: Čítačka displeja
-    - key: options.form_factors.print
-      t: Tlač
-    - key: options.form_factors.testing_tools
-      t: Testovacie nástroje (Axe, Lighthouse, atď.)
-    - key: options.form_factors.vision_simulator
-      t: Simulátor zmeneného videnia (farbosleposť, atď.)
-
-    # Industry Sector
-    - key: options.industry_sector.ecommerce
-      t: Elektronický obchod a Maloobchod
-    - key: options.industry_sector.news_media
-      t: Správy, Média a Blogovanie
-    - key: options.industry_sector.healthcare
-      t: Zdravotníctvo
-    - key: options.industry_sector.finance
-      t: Financie
-    - key: options.industry_sector.programming_tools
-      t: Programovanie a Technické nástroje
-    - key: options.industry_sector.socialmedia
-      t: Sociálne siete
-    - key: options.industry_sector.marketing_tools
-      t: Marketingové/Predajné/Analytické Nástroje
-    - key: options.industry_sector.education
-      t: Vzdelávanie
-    - key: options.industry_sector.real_estate
-      t: Nehnuteľnosti
-    - key: options.industry_sector.government
-      t: Vláda
-    - key: options.industry_sector.entertainment
-      t: Zábavný priemysel
-    - key: options.industry_sector.consulting
-      t: Poradenské služby
-    - key: options.industry_sector.travel
-      t: Cestovný sektor
-    - key: options.industry_sector.insurance
-      t: Poisťovníctvo
-    - key: options.industry_sector.logistics
-      t: Logistika
-    - key: options.industry_sector.energy
-      t: Energetický sektor
-    - key: options.industry_sector.telecommunications
-      t: Telekomunikácie
-    - key: options.industry_sector.student
-      t: Študent
-    - key: options.industry_sector.hospitality
-      t: Hotelierstvo
-    - key: options.industry_sector.cyber_security
-      t: Cybernetická bezpečnosť
-    - key: options.industry_sector.construction
-      t: Stavebníctvo
-    - key: options.industry_sector.automotive
-      t: Automobilný priemysel
-    - key: options.industry_sector.agriculture
-      t: Agricultúra
-    - key: options.industry_sector.transport
-      t: Preprava
-    - key: options.industry_sector.manufacturing
-      t: Výroba
-
-    # tool evaluation
-    - key: options.tool_evaluation.learning_curve_documentation
-      t: Dokumentácia
-    - key: options.tool_evaluation.learning_curve_documentation.description
-      t: Je jednoduchý pre pochopenie a/alebo dobre zdokumentované?
-    - key: options.tool_evaluation.momentum_popularity
-      t: Hype a momentum
-    - key: options.tool_evaluation.momentum_popularity.description
-      t: Generuje momentálne veľa záujmu?
-    - key: options.tool_evaluation.user_base_size
-      t: Uživateľská základňa
-    - key: options.tool_evaluation.user_base_size.description
-      t: Je to dobre zabehnutá voľba s dlhodobou históriou?
-    - key: options.tool_evaluation.developer_experience_tooling
-      t: Vývojárov zážitok
-    - key: options.tool_evaluation.developer_experience_tooling.description
-      t: Obsahuje dobré nástroje pre vývojára, rozsiahlu základňu pluginov, atď.?
-    - key: options.tool_evaluation.performance_user_experience
-      t: Užívateľský zážitok
-    - key: options.tool_evaluation.performance_user_experience.description
-      t: Napomáha k vytvoreniu hladkej užívateľskej skúsenosti?
-    - key: options.tool_evaluation.creator_team
-      t: Autor a tím
-    - key: options.tool_evaluation.creator_team.description
-      t: Je podporovaný dobre známym, dotovaným, alebo skúseným tímom?
-    - key: options.tool_evaluation.accessibility_features
-      t: Funkcie dostupnosti
-    - key: options.tool_evaluation.accessibility_features.description
-      t: Je vhodný pre vytváranie skúsenosti prístupnosti pre všetkých užívateľov?
-    - key: options.tool_evaluation.community_inclusivity
-      t: Komunita a inkluzívnosť
-    - key: options.tool_evaluation.community_inclusivity.description
-      t: Má prívetívú a živú komunitu?
-
-
-
-    # accessibility features
-    - key: options.accessibility_features.keyboard_navigation
-      t: Klávesová navigácia
-    - key: options.accessibility_features.compliant_contrast
-      t: Kontrast v súlade s WCAG
-    - key: options.accessibility_features.focus_indicators
-      t: Indikátory zaostrenia
-    - key: options.accessibility_features.skip_to_content_link
-      t: Link na preskočeniu k obsahu
-    - key: options.accessibility_features.color_themes
-      t: Farebné témy (tmavý mód, mód vysokého kontrastu, atď.)
-    - key: options.accessibility_features.prefers_reduced_motion
-      t: Preferuje redukciu pohybov
-    - key: options.accessibility_features.alt_text
-      t: Alternatívne texty
-    - key: options.accessibility_features.semantic_markup
-      t: Sémantické označenie
-    - key: options.accessibility_features.aria_attributes
-      t: ARIA HTML atribúty
-
-    # learning methods
-    - key: options.first_steps.books
-      t: Knihy
-    - key: options.first_steps.videos
-      t: Videá a screencasty
-    - key: options.first_steps.school
-      t: Škola a vyššie vzdelanie
-    - key: options.first_steps.courses_free
-      t: Online kurzy (zadarmo)
-    - key: options.first_steps.courses_paid
-      t: Online kurzy (platené)
-    - key: options.first_steps.podcasts
-      t: Podkasty
-    - key: options.first_steps.bootcamp
-      t: Programátorsky bootcamp
-    - key: options.first_steps.on_the_job
-      t: Pracovné školenia
-    - key: options.first_steps.self_directed
-      t: Samoštúdium (Google, Stack Overflow, atď.)
-    - key: options.first_steps.mentoring
-      t: Školenia
-
-    # degree
-    - key: options.higher_education_degree.no_degree
-      t: Nie
-    - key: options.higher_education_degree.yes_related
-      t: Áno, v oblasti, ktorá súvisí s mojim zamestnaním
-    - key: options.higher_education_degree.yes_unrelated
-      t: Áno, v oblasti, ktorá nesúvisí s mojim zamestnaním
-
-    # degree (short versions)
-    - key: options.higher_education_degree.no_degree.short
-      t: Nie
-    - key: options.higher_education_degree.yes_related.short
-      t: Áno, súvisiaca oblasť
-    - key: options.higher_education_degree.yes_unrelated.short
-      t: Áno, nesúvisiaca oblasť
-
-    # bracket
-    - key: options.bracket.round1
-      t: Vyhráva 1. kolo
-    - key: options.bracket.round2
-      t: Vyhráva 2. kolo
-    - key: options.bracket.round3
-      t: Vyhráva 3. kolo
-    - key: options.bracket.combined
-      t: Kombinované
-
-    # email_temporary (receive updates?)
-    - key: options.email_temporary.yes
-      t: Áno, zašlite mi email, keď budú zverejnené výsledky
-      
-    ###########################################################################
-    # Tools
-    ###########################################################################
-
-    - key: tools.other_tools
-      t: Iné možnosti
-    - key: tools.other_tools.description
-      t: Iné možnosti, ktoré používate a nie sú zmienené v zozname vyššie.
-    - key: tools.happiness
-      t: Celková spokojnosť
-    - key: tools.happiness.description
-      t: >
-          Na stupnici od jedna (veľmi nespokojný) do päť (veľmi spokojný), ako
-          spokojný ste so celkovým stavom vecí súvisiacich so zoznamom vyššie?
-    ###########################################################################
-    # Demographics (About You/User Info)
-    ###########################################################################
-
-    # age
-    - key: user_info.age
-      t: Vek
-    - key: user_info.age.description
-      t: Koľko máte rokov?
-
-    # years of experience
-    - key: user_info.years_of_experience
-      t: Roky skúseností
-    - key: user_info.years_of_experience.description
-      t: Ako dlho pracujete alebo študujete v tejto oblasti?
-
-    # company size
-    - key: user_info.company_size
-      t: Veľkosť spoločnosti
-    - key: user_info.company_size.description
-      t: Aká veľká je Vaša spoločnosť v počte zamestnancov?
-
-    # salary ranges
-    - key: user_info.yearly_salary
-      t: Ročný plat
-    - key: user_info.yearly_salary.description
-      t: Váš ročný plat v amerických dolároch. 
-
-    # job title
-    - key: user_info.job_title
-      t: Pracovná pozícia
-    - key: user_info.job_title.description
-      t: Ako sa predstavujete ostatným?
-
-    # javascript proficiency
-    - key: user_info.javascript_proficiency
-      t: Znalosť JavaScriptu
-    - key: user_info.javascript_proficiency.description
-      t: Aký zbehlý ste v JavaScripte?
-
-    # css proficiency
-    - key: user_info.css_proficiency
-      t: Znalosť CSS
-    - key: user_info.css_proficiency.description
-      t: Aký zbehlý ste v CSS?
-
-    # backend proficiency
-    - key: user_info.backend_proficiency
-      t: Znalosť Back-endu
-    - key: user_info.backend_proficiency.description
-      t: Aký zbehlý ste v back-end vývoji?
-
-    # gender
-    - key: user_info.gender
-      t: Pohlavie
-    - key: user_info.gender.description
-      t: >
-        Ktorá z nasledujúcich možností Vás vystihuje? Prosim, vyberte jednu.
-    - key: user_info.gender.note
-      t: >
-        Vieme, že spracovanie a zverejňovanie údajov o ľudskej rôznorodosti môže byť senzitívna
-        otázka, no získanie týchto údajov považujeme za dôležité pre zlepšenie prieskumu ako 
-        takého čo sa týka inkluzívnosti a reprezentatívnosti.
-        
-    # race & ethnicity
-    - key: user_info.race_ethnicity
-      t: Rasa a etnicita
-    - key: user_info.race_ethnicity.description
-      t: >
-        Ktorá z týchto možností, ak niektorá, Vás vystihuje? Prosím, vyberte všetky pre Vás platné.
-    - key: user_info.race_ethnicity.note
-      t: >
-        Vieme, že spracovanie a zverejňovanie údajov o ľudskej rôznorodosti môže byť senzitívna
-        otázka, no získanie týchto údajov považujeme za dôležité pre zlepšenie prieskumu ako 
-        takého čo sa týka inkluzívnosti a reprezentatívnosti.
-    - key: user_info.race_ethnicity.not_allowed
-      t: >
-        Pre to, aby sme vyhoveli lokálnym zákonom bol zber dát o rase a etnicite pre Vašu krajinu
-          alebo region zablokovaný.
-        
-    # disability status
-    - key: user_info.disability_status
-      t: Stav invalidity
-    - key: user_info.disability_status.description
-      t: >
-        Ktorými z nasledujúcich postihnutí trpíte? Prosím, vyberte všetky pre Vás platné možnosti.
-        Postihnutia tiež môžu zahŕňať dočasné postihnutia alebo zranenia.
-    # disability status (other)
-    - key: user_info.disability_status.others
-      t: Ine postihnutia
-
-    # other info
-    - key: user_info.how_did_user_find_out_about_the_survey
-      t: Ako ste zistili o tomto prieskume?
-    - key: user_info.email
-      t: Váš email
-    - key: user_info.email.description
-      t: > 
-          Prieskum ste vyplnili anonýmne. Voliteľne môžete vložiť Váš email pre neskorší prístup k Vašim údajom, alebo aby ste boli upozornený na zverejnenie výsledkov.
-    - key: user_info.email.note
-      t: >
-          Nezdieľame žiadne osobné údaje. Po vložení Vášho emailu ho použijeme na vygenerovanie unikátneho anonýmneho identifikátora a následne email vymažeme z našich záznamov. 
-    - key: user_info.country
-      t: Vaša krajina alebo región
-    - key: user_info.country.description
-      t: Kde momentálne sídlite?
-
-    - key: user_info.github_username
-      t: Vaše GitHub užívateľské meno
-    - key: user_info.github_username.description
-      t: >
-        V budúcnosti možno použijeme užívateľske mená z GitHubu
-        pre náhľad na repozitáre a prepojenie s verejne dostupnými informáciami
-      
-    - key: user_info.twitter_username
-      t: Vaše Twitter užívateľske meno
-    - key: user_info.twitter_username.description
-      t: >
-        V budúcnosti možno použijeme užívateľské mená z Twittera pre náhľad
-        na Twitter aktivity a ich prepojene s verejne dostupnými informáciami
-         (ako napr. zoznam ľudí ktorých sledujete).
-    - key: user_info.industry_sector
-      t: Sektory
-    - key: user_info.industry_sector.description
-      t: V ktorm sektore(sektoroch) pracujete?
-    - key: user_info.industry_sector.others
-      t: Iné sektory
-    - key: user_info.industry_sector.others.description
-      t: Iné sektory v ktorých pracujete a nie sú zmienené vyššie.
-
-    # degree
-    - key: user_info.higher_education_degree
-      t: Vyššie odborné vzdelanie
-    - key: user_info.higher_education_degree.description
-      t: Máte vyššie odborné vzdelanie?
-
-    # email_temporary (receive updates?)
-    - key: user_info.email_temporary
-      t: Chcete byť upozornený na zverejnenie výsledkov prieskumu?
-    - key: user_info.email_temporary.note
-      t: >
-        Neukladáme žiadne osobne údaje, po zaslaní Vašej emailovej adresy do nášho
-        zoznamu bude vymazaný z našich vlastných záznamov.
-      
-    # how can we improve the survey?
-    - key: user_info.how_can_we_improve
-      t: Ako môžeme vylepšiť tento prieskum?
-      
-    ###########################################################################
-    # Other Tools
-    ###########################################################################
-
-    - key: tools_others.libraries
-      t: Knižnice
-    - key: tools_others.libraries.description
-      t: Ktoré knižnice pravidelne používate?
-    - key: tools_others.libraries.others
-      t: Iné knižnice
-    - key: tools_others.libraries.others.description
-      t: Iné (voľné pole).
-
-    - key: tools_others.text_editors
-      t: Textové editory
-    - key: tools_others.text_editors.description
-      t: Ktorý textový editor používate pravidelne?
-    - key: tools_others.text_editors.others
-      t: Iné textové editory.
-    - key: tools_others.text_editors.others.description
-      t: Iné (voľné pole).
-
-    - key: tools_others.utilities
-      t: Utility
-    - key: tools_others.utilities.description
-      t: Aké utility alebo nástroje pravidelne používate?
-    - key: tools_others.utilities.others
-      t: Iné utility.
-    - key: tools_others.utilities.others.description
-      t: Iné (voľné pole).
-
-    - key: tools_others.browsers
-      t: Prehliadače
-    - key: tools_others.browsers.description
-      t: Ktorý prehliadač(prehliadače) pravidelne používate pri počiatočnom vývoji?
-    - key: tools_others.browsers.others
-      t: Iné prehliadače
-    - key: tools_others.browsers.others.description
-      t: Iné (voľné pole).
-
-    - key: tools_others.build_tools
-      t: Buildovacie nástroje
-    - key: tools_others.build_tools.description
-      t: Ktoré nástroje na buildovanie používate?
-    - key: tools_others.build_tools.others
-      t: Iné buildovacie nástroje.
-    - key: tools_others.build_tools.others.description
-      t: Iné (voľné pole).
-
-    - key: tools_others.non_js_languages
-      t: Ne-JavaScriptové jazyky
-    - key: tools_others.non_js_languages.description
-      t: Aké ine jazyky používate?
-    - key: tools_others.non_js_languages.others
-      t: Iné jazyky
-    - key: tools_others.non_js_languages.others.description
-      t: Iné (voľné pole).
-
-    - key: tools_others.javascript_flavors
-      t: Varianty JavaScriptu
-    - key: tools_others.javascript_flavors.description
-      t: Jazyky, ktoré su prekompilované do JavaScriptu
-    - key: tools_others.javascript_flavors.others
-      t: Iné varianty JavaScriptu
-    - key: tools_others.javascript_flavors.others.description
-      t: Iné (voľné pole).
-
-    ###########################################################################
-    # Resources
-    ###########################################################################
-
-    # first steps
-    - key: resources.first_steps
-      t: Prvé metódy učenia sa
-    - key: resources.first_steps.description
-      t: Ako ste sa prvotne začali učit programovať?
-    - key: resources.first_steps.others
-      t: Iné prvé metódy učenia sa
-    - key: resources.first_steps.others.description
-      t: Iné (voľné pole).
+# surveys
+  - key: general.open_surveys
+    t: Otvorené prieskumy
+  - key: general.no_open_surveys
+    t: Žiadne prieskumy momentálne nie sú otvorené.
+  - key: general.closed_surveys
+    t: Uzatvorené prieskumy
+  - key: general.no_closed_surveys
+    t: Žiadne prieskumy momentálne nie sú uzatvorené.
+  - key: general.preview_surveys
+    t: Náhľady Prieskumov
+  - key: general.no_preview_surveys
+    t: Pre žiadne prieskumy nie je možný náhľad.
+  - key: general.start_survey
+    t: Začiatok Prieskumu »
+  - key: general.continue_survey
+    t: Pokračovať v Prieskume »
+  - key: general.review_survey
+    t: Skontrolujte odpovede »
+  - key: general.preview_survey
+    t: Prehľad odpovedí »
+  - key: general.finish_survey
+    t: Ukončiť prieskum »
+  - key: general.next_section
+    t: Ďalšia sekcia 
+  - key: general.prev_section
+    t: Predošlá sekcia
+  - key: general.survey_closed
+    t: Tento prieskum je teraz uzavretý.
+  - key: general.survey_results
+    t:  Prezrieť výsledky Prieskumu »
+  - key: general.surveys_available_languages
+    t: 'Prieskumy sú dostupné v:'
+  - key: general.help_us_translate
+    t: Pomôžte nám s prekladom prieskumov »
+  - key: general.translators
+    t: Prekladatelia
+  - key: general.translation_help
+    t: Nápoveda k prekladom
+  - key: general.newly_added
+    t: Novo pridané tento rok
+  - key: general.new
+    t: Nové
+  - key: general.devographics_banner
+    t: <a href="https://www.devographics.com/" target="_blank">Devographics</a> je nový názov kolektívu ľudí, ktorý je zodpovedný za prieskumy o Stave JavaScriptu, CSS a GraphQL.
+
+  # credits
+  - key: credits.thanks
+    t: Špeciálna vďaka
+  - key: credits.contributors
+    t: Prispievatelia
+  - key: credits.contributors.description
+    t: Špeciálna vďaka týmto ľudom, ktorí nám pomohli s návrhom prieskumu.
+  - key: credits.accessibility
+    t: Konzultácie k prístupnosti
+  - key: credits.survey_design
+    t: Návrh prieskumov
+  - key: credits.logo_design
+    t: Dizajn loga
+  - key: credits.mobile_testing
+    t: Testovanie pre mobil
+  - key: credits.data_visualizations
+    t: Vizualizácia dát
+  - key: credits.repo_architecture
+    t: Architektúra repozitárov
+  - key: credits.code_refactoring
+    t: Refaktoring kódu
+  - key: credits.data_processing
+    t: Spracovanie dát
+
+  # support
+  - key: general.support_from
+    t: S podporou od
+
+  # footer
+  - key: general.privacy_policy
+    t: Zásada ochrany osobných údajov
+  - key: general.leave_issue
+    t: Otázky? Našli ste chybu? <a href="{link}" target="_blank">Pošlite pripomienku</a>.
+  - key: general.emoji_icons
+    t: Ikony emotikonov od <a target="_blank" rel="noreferrer" href="https://icons8.com">Icons8</a>
+
+  # navigation
+  - key: general.table_of_contents
+    t: Obsah
+  - key: general.all_questions_optional
+    t: >
+        Poznámka: všeky otázky sú voliteľné, nie je potrebné dosiahnuť 100% dokončenie.
+  - key: general.data_is_saved
+    t: Vaše údaje sú uložené kedykoľvek sa odnavigujete na predošlú alebo ďalšiu sekciu.
+  - key: general.close_nav
+    t: Zatvoriť menu
+  - key: general.open_nav
+    t: Otvoriť menu
+  - key: general.more_actions
+    t: Viac možností
+  - key: general.skip_to_content
+    t: Preškočiť k obsahu
+
+  # thanks
+  - key: general.back
+    t: Naspäť
+  - key: general.thanks
+    t: >
+        Ďakujeme za vyplnenie prieskumu! Vaše údaje sú uložené.
+        Taktiež nám môžete pomôcť zdieľaním tohto prieskumu. Každá pomoc sa počíta a je to niečo, čo môže
+        zlepšiť celkovú reprezentatívnosť údajov:
+  - key: thanks.learn_more_about
+    t: 'Pár pojmov, o ktorých sa možno budete chcieť dozvedieť viac:'
+  - key: thanks.knowledge_score
+    t: Skóre vedomostí
+  - key: thanks.score_explanation
+    t: >
+        Počuli, alebo ste použili <span class="score-number score-number-known">{known}</span> z
+        <span class="score-number score-number-total">{total}</span> pojmov zmienených v prieskume, čo Vás
+        stavia medzi top <span class="score-number score-number-ranking">{knowledgeRankingFromTop}%</span>
+        všetkých respondentov.
+  - key: thanks.share_on_twitter
+    t: Zdieľajte na Twitteri
+  - key: thanks.share_score_message
+    t: >
+        Získal som vedomostné skóre {score}% v tohtoročnom #{hashtag} prieskume! Zúčastniť sa prieskumu: {shareUrl}
+  # share
+  - key: general.share_subject
+    t: >
+        {surveyName} prieskum
+  - key: general.share_text
+    t: >
+        Tohtoročný {surveyName} prieskum je teraz otvorený! {link}
+  # forms
+  - key: forms.select_option
+    t: Vyberte možnosť
+  - key: forms.clear_field
+    t: Vymazať otázku
+
+  # partners
+  - key: partners.our_partners
+    t: Naši partneri
+  - key: partners.become_partner
+    t: Stante sa partnerom
+
+  # 404
+  - key: notfound.title
+    t: 404 Nenájdené
+  - key: notfound.description
+    t: Prepáčte, nenašli sme to, čo hľadáte.
+
+  # other
+  - key: general.join_discord
+    t: Pripojte sa ku nám na <a href="{link}">Discorde</a>. 
+  - key: general.translator_mode
+    t: Stlačte option/alt pre spustenie prekladateľského módu.
+  - key: general.charts_nivo
+    t:  Grafy sú vytvorené <a href="{link}">Nivom</a>.
+  - key: general.made_by_devographics
+    t: Vytvorené <a href="{link}">Devographics</a>
     
-    # blogs & magazines
-    - key: resources.blogs_news_magazines
-      t: Blogy a magazíny
-    - key: resources.blogs_news_magazines.description
-      t: Ktoré blogy/magazíny/atď čítate?
-    - key: resources.blogs_news_magazines.others
-      t: Iné blogy a magazíny
-    - key: resources.blogs_news_magazines.others.description
-      t: Iné (voľné pole).
+  ###########################################################################
+  # Nav
+  ###########################################################################
 
-    # sites & courses
-    - key: resources.sites_courses
-      t: Weby a kurzy
-    - key: resources.sites_courses.description
-      t: Ktoré weby/kury/atď. sledujete?
-    - key: resources.sites_courses.others
-      t: Iné weby a kurzy
-    - key: resources.sites_courses.others.description
-      t: Iné (voľné pole).
+  - key: nav.surveys
+    t: Prieskumy
+  - key: nav.account
+    t: Účet
 
-    # podcasts
-    - key: resources.podcasts
-      t: Podkásty
-    - key: resources.podcasts.description
-      t: Ktoré podkásty o programovaní počúvate?
-    - key: resources.podcasts.others
-      t: Iné podkasty
-    - key: resources.podcasts.others.description
-      t: Iné (voľné pole).
+  ###########################################################################
+  # Sections
+  ###########################################################################
 
-    # people
-    - key: resources.people
-      t: Ľudia
-    - key: resources.people.description
-      t: Ľudia ktorých čítate, sledujete, alebo len chcete zmieniť.
-    # - key: resources.people.others
-    #   t: Iný ľudia
-    # - key: resources.people.others.description
-    #   t: Iné (voľné pole).
-    - key: resources.people.others
-      t: Ľudia
-    - key: resources.people.others.description
-      t: >
-        Ľudia ktorých čítate, sledujete, alebo len chcete zmieniť ich prácu
-        (voľné pole, mená oddelené čiarkov).
-    # other surveys
-    - key: resources.other_surveys
-      t: Iné prieskumy
-    - key: resources.other_surveys.description
-      t: Ktorých iných prieskumov pre vývojárov sa zúčastnujete?
-    - key: resources.other_surveys.others
-      t: Ine prieskumy hore nezmienené
+  - key: sections.user_info.title
+    t: O Vás
+  - key: sections.user_info.description
+    t: Prezraďte nám niečo o sebe.
+
+  - key: sections.features.title
+    t: Vlastnosti
+  - key: sections.features.description
+    t: Syntax, kľúčové slova, a iné jazykové vlastnosti.
+
+  - key: sections.resources.title
+    t: Zdroje
+  - key: sections.resources.description
+    t: Aké zdroje o {topic} sledujete?
+
+  - key: sections.opinions.title
+    t: Názory
+  - key: sections.opinions.description
+    t: Čo si myslíte o stave {topic}?
+
+  - key: sections.other_tools.title
+    t: Iné nástroje
+  - key: sections.other_tools.description
+    t: Z nasledujúcich nástrojov zaškrtnite len tie, ktoré používate pravidelne.
+
+  - key: sections.report.title
+    t: Správy o trendoch
+
+  ###########################################################################
+  # Options
+  ###########################################################################
+
+  # features
+  - key: options.features.never_heard
+    t: <span aria-hidden="true">🤷</span> Nepočul som/nie som si istý čo to je
+  - key: options.features.heard
+    t: <span aria-hidden="true">✅</span> Poznám, ale nikdy som nepoužil
+  - key: options.features.used
+    t: <span aria-hidden="true">👍</span> Už som použil
+
+  # features (no emoji)
+  - key: options.features.never_heard.label
+    t: Nepočul som/nie som si istý čo to je
+  - key: options.features.heard.label
+    t: Poznám, ale nikdy som nepoužil
+  - key: options.features.used.label
+    t: Už som použil
+
+  # features (short versions)
+  - key: options.features.never_heard.short
+    t: Nepočul som o tom
+  - key: options.features.heard.short
+    t: Počul som o tom
+  - key: options.features.used.short
+    t: Použil som
+
+  # patterns
+  - key: options.patterns.use_never
+    t: Takmer vždy sa tomu vyhnem
+  - key: options.patterns.use_sparingly
+    t: Používam zriedka
+  - key: options.patterns.use_neutral
+    t: Bez názoru
+  - key: options.patterns.use_frequently
+    t: Používam často
+  - key: options.patterns.use_always
+    t: Používam tak často, ako sa dá
+
+  # tools experience
+  - key: options.tools.never_heard
+    t: <span aria-hidden="true">🤷</span> Nepočul som/nie som si istý čo to je
+  - key: options.tools.interested
+    t: <span aria-hidden="true">✅</span> Poznám > chcel by som sa naučiť
+  - key: options.tools.not_interested
+    t: <span aria-hidden="true">🚫</span> Poznám > Nezaujíma ma
+  - key: options.tools.would_use
+    t: <span aria-hidden="true">👍</span> Použil som > Použil by som znova
+  - key: options.tools.would_not_use
+    t: <span aria-hidden="true">👎</span> Použil som > Nepoužil by som znova
+
+  # tools experience (no emoji)
+  - key: options.tools.never_heard.legend
+    t: Nepočul som/nie som si istý čo to je
+  - key: options.tools.interested.legend
+    t: Poznám > chcel by som sa naučiť
+  - key: options.tools.not_interested.legend
+    t: Poznám > Nezaujíma ma
+  - key: options.tools.would_use.legend
+    t: Použil som > Použil by som znova
+  - key: options.tools.would_not_use.legend
+    t: Použil som > Nepoužil by som znova
+
+  # tools experience (short versions)
+  - key: options.tools.never_heard.short
+    t: Nepoznám
+  - key: options.tools.interested.short
+    t: Zaujíma ma
+  - key: options.tools.not_interested.short
+    t: Nezaujíma ma
+  - key: options.tools.would_use.short
+    t: Použil by som znova
+  - key: options.tools.would_not_use.short
+    t: Nepoužil by som
+
+  # happiness
+  - key: options.happiness.0
+    t: Veľká nespokojnosť
+  - key: options.happiness.1
+    t: Nespokojnosť
+  - key: options.happiness.2
+    t: Neutrálny
+  - key: options.happiness.3
+    t: Spokojnosť
+  - key: options.happiness.4
+    t: Veľká spokojnosť
+
+  # happiness (short version)
+  - key: options.happiness.0.short
+    t: Veľká nespokojnosť
+  - key: options.happiness.1.short
+    t: Nespokojnosť
+  - key: options.happiness.2.short
+    t: Neutrálny
+  - key: options.happiness.3.short
+    t: Spokojnosť
+  - key: options.happiness.4.short
+    t: Veľká spokojnosť
+
+  # opinions
+  - key: options.opinions.0
+    t: Silný nesúhlas
+  - key: options.opinions.1
+    t: Nesúhlas
+  - key: options.opinions.2
+    t: Neutrálny
+  - key: options.opinions.3
+    t: Súhlas
+  - key: options.opinions.4
+    t: Silný súhlas
+
+  # age
+  - key: options.age.range_less_than_10
+    t: 10 rokov alebo menej
+  - key: options.age.range_10_18
+    t: 11-18 rokov
+  - key: options.age.range_18_24
+    t: 19-24 rokov
+  - key: options.age.range_25_34
+    t: 25-34 rokov
+  - key: options.age.range_35_44
+    t: 35-44 rokov
+  - key: options.age.range_45_54
+    t: 45-54 rokov
+  - key: options.age.range_55_64
+    t: 55-64 rokov
+  - key: options.age.range_more_than_65
+    t: 65 rokov
+
+  # age (short versions)
+  - key: options.age.range_less_than_10.short
+    t: '<=10'
+  - key: options.age.range_10_18.short
+    t: 11-18
+  - key: options.age.range_18_24.short
+    t: 19-24
+  - key: options.age.range_25_34.short
+    t: 25-34
+  - key: options.age.range_35_44.short
+    t: 35-44
+  - key: options.age.range_45_54.short
+    t: 45-54
+  - key: options.age.range_55_64.short
+    t: 55-64
+  - key: options.age.range_more_than_65.short
+    t: '>65'
+
+  # years of experience
+  - key: options.years_of_experience.range_less_than_1
+    t: Menej ako rok
+  - key: options.years_of_experience.range_1_2
+    t: 1 až 2 roky
+  - key: options.years_of_experience.range_2_5
+    t: 3 až 5 rokov
+  - key: options.years_of_experience.range_5_10
+    t: 6 až 10 rokov
+  - key: options.years_of_experience.range_10_20
+    t: 11 až 20 rokov
+  - key: options.years_of_experience.range_more_than_20
+    t: Viac ako 20 rokov
+
+  # years of experience (short versions)
+  - key: options.years_of_experience.range_less_than_1.short
+    t: '<1 rok'
+  - key: options.years_of_experience.range_1_2.short
+    t: 1-2 roky
+  - key: options.years_of_experience.range_2_5.short
+    t: 3-5 rokov
+  - key: options.years_of_experience.range_5_10.short
+    t: 6-10 rokov
+  - key: options.years_of_experience.range_10_20.short
+    t: 11-20 rokov
+  - key: options.years_of_experience.range_more_than_20.short
+    t: '>20 rokov'
+
+  # company size
+  - key: options.company_size.range_1
+    t: Jeden zamestnanec
+  - key: options.company_size.range_1_5
+    t: 2 až 5 zamestnanci
+  - key: options.company_size.range_5_10
+    t: 6 až 10 zamestnancov
+  - key: options.company_size.range_10_20
+    t: 11 až 20 zamestnancov
+  - key: options.company_size.range_20_50
+    t: 21 až 50 zamestnancov
+  - key: options.company_size.range_50_100
+    t: 51 až 100 zamestnancov
+  - key: options.company_size.range_100_1000
+    t: 101 až 1000 zamestnancov
+  - key: options.company_size.range_more_than_1000
+    t: Viac ako 1000 zamestnancov
+
+  # company size (short versions)
+  - key: options.company_size.range_1.short
+    t: 1
+  - key: options.company_size.range_1_5.short
+    t: 1-5
+  - key: options.company_size.range_5_10.short
+    t: 6-10
+  - key: options.company_size.range_10_20.short
+    t: 11-20
+  - key: options.company_size.range_20_50.short
+    t: 21-50
+  - key: options.company_size.range_50_100.short
+    t: 51-100
+  - key: options.company_size.range_100_1000.short
+    t: 101-1000
+  - key: options.company_size.range_more_than_1000.short
+    t: '>1000'
+
+  # salary
+  - key: options.yearly_salary.range_work_for_free
+    t: Pracujem zadarmo
+  - key: options.yearly_salary.range_0_10
+    t: 0 - 10 000 $
+  - key: options.yearly_salary.range_10_30
+    t: 10 000 - 30 000 $
+  - key: options.yearly_salary.range_30_50
+    t: 30 000 - 50 000 $
+  - key: options.yearly_salary.range_50_100
+    t: 50 000 - 100 000 $
+  - key: options.yearly_salary.range_100_200
+    t: 100 000 - 200 000 $
+  - key: options.yearly_salary.range_more_than_200
+    t: Viac ako 200 000
+
+  # salary (short versions)
+  - key: options.yearly_salary.range_work_for_free.short
+    t: 0 $
+  - key: options.yearly_salary.range_0_10.short
+    t: 0 - 10 000 $
+  - key: options.yearly_salary.range_10_30.short
+    t: 10 000 - 30 000 $
+  - key: options.yearly_salary.range_30_50.short
+    t: 30 000 - 50 000 $
+  - key: options.yearly_salary.range_50_100.short
+    t: 50 000 - 100 000 $
+  - key: options.yearly_salary.range_100_200.short
+    t: 100 000 - 200 000 $
+  - key: options.yearly_salary.range_more_than_200.short
+    t: '> 200 000 $'
+
+  # job titles
+  - key: options.job_title.cto
+    t: CTO
+  - key: options.job_title.front_end_developer
+    t: Front End Vývojár/Inžinier
+  - key: options.job_title.back_end_developer
+    t: Back End Vývojár/Inžinier
+  - key: options.job_title.full_stack_developer
+    t: Full Stack Vývojár/Inžinier
+  - key: options.job_title.web_developer
+    t: Webový Vývojár
+  - key: options.job_title.web_designer
+    t: Webový Dizajnér
+  - key: options.job_title.ux_designer
+    t: UX Dizajnér
+  - key: options.job_title.ui_designer
+    t: UI Dizajnér
+  - key: options.job_title.back_end_dev
+    t: Back-end Vývojár/Inžinier
+
+  # JavaScript proficiency
+  - key: options.javascript_proficiency.0
+    t: Neviem programovať v JavaScripte
+  - key: options.javascript_proficiency.1
+    t: Zvládam jednoduché programovanie v JavaScripte alebo jQuery
+  - key: options.javascript_proficiency.2
+    t: Pracujem na existujúcom front-end kóde používajuc moderné frameworky (React, Vue, etc.)
+  - key: options.javascript_proficiency.3
+    t: Navrhujem kompletné front-end projekty od podlahy
+  - key: options.javascript_proficiency.4
+    t: Pracujem s pokročilými front-end postupmi (state managment, načítavanie dát, atď.)
+
+  # CSS proficiency
+  - key: options.css_proficiency.0
+    t: Prakticky žiadna znalosť CSS
+  - key: options.css_proficiency.1
+    t: Používam CSS frameworky a upravujem existujúce štýly
+  - key: options.css_proficiency.2
+    t: Znalosť pravidiel CSS špecifity, schopnosť tvoriť rozloženia stránok
+  - key: options.css_proficiency.3
+    t: Zvládam animácie, interakcie, prechody, atď.
+  - key: options.css_proficiency.4
+    t: Schopnosť naštýlovať celé užívateľské rozhranie držiac sa pevnej metodológie a štandardov
+
+  # Back-end proficiency
+  - key: options.backend_proficiency.0
+    t: Žiadna znalosť back-endu
+  - key: options.backend_proficiency.1
+    t: Schopnosť nastaviť "all-in-one" CMS (napr. WordPress), alebo statický generátor stránok (napr. Jekyll)
+  - key: options.backend_proficiency.2
+    t: Schopnosť vytvoriť aplikácie používajúc existujúce fremeworky (Rails, Laravel, atď.)
+  - key: options.backend_proficiency.3
+    t: Schopnosť nastaviť celý back-end od podlahy (Go, Node.js, atď.)
+  - key: options.backend_proficiency.4
+    t: Schopnosť riadiť komplexné multi-server alebo microservices architekúry
+
+  # Proficiency (generic versions)
+  - key: options.proficiency.0
+    t: Žiadna
+  - key: options.proficiency.1
+    t: Začiatočník
+  - key: options.proficiency.2
+    t: Stredne pokročilý
+  - key: options.proficiency.3
+    t: Pokročilý
+  - key: options.proficiency.4
+    t: Expert
+
+  # Gender
+
+  - key: options.gender.female
+    t: Žena
+  - key: options.gender.male
+    t: Muž
+  - key: options.gender.non_binary
+    t: Nebinárny alebo nekonformný
+  - key: options.gender.questioning
+    t: Hľadajúc sa
+  - key: options.gender.prefer_not_to_say
+    t: Preferujem neuvádzať
+  - key: options.gender.not_listed
+    t: Neuvedné
+
+  # Gender (short)
+
+  - key: options.gender.female.short
+    t: Žena
+  - key: options.gender.male.short
+    t: Muž
+  - key: options.gender.non_binary.short
+    t: Nebinárny alebo nekonformný
+  - key: options.gender.questioning.short
+    t: Hľadajúc sa
+  - key: options.gender.prefer_not_to_say.short
+    t: Preferujem neuvádzať
+  - key: options.gender.not_listed.short
+    t: Neuvedné
+
+  # Race & Ethnicity
+
+  - key: options.race_ethnicity.white_european
+    t: Biela
+  - key: options.race_ethnicity.south_asian
+    t: Juhoázijska
+  - key: options.race_ethnicity.south_east_asian
+    t: Juhozápadnoázijska
+  - key: options.race_ethnicity.hispanic_latin
+    t: Hispánska alebo latino
+  - key: options.race_ethnicity.east_asian
+    t: Východoázijska
+  - key: options.race_ethnicity.middle_eastern
+    t: Stredovýchodná
+  - key: options.race_ethnicity.black_african
+    t: Čierna alebo Afrického pôvodu
+  - key: options.race_ethnicity.multiracial
+    t: Mnohonárodnostná
+  - key: options.race_ethnicity.biracial
+    t: Dvojnárodnostná
+  - key: options.race_ethnicity.native_american_islander_australian
+    t: americký Indián, tichomorský obyvateľ alebo pôvodný Austrálčan
+  - key: options.race_ethnicity.not_listed
+    t: Neuvedená
+
+  # Race & Ethnicity (short)
+
+  - key: options.race_ethnicity.white_european.short
+    t: Biela
+  - key: options.race_ethnicity.south_asian.short
+    t: Juhoázijska
+  - key: options.race_ethnicity.south_east_asian.short
+    t: Juhozápadnoázijska
+  - key: options.race_ethnicity.hispanic_latin.short
+    t: Hispánska alebo latino
+  - key: options.race_ethnicity.east_asian.short
+    t: Východoázijska
+  - key: options.race_ethnicity.middle_eastern.short
+    t: Stredovýchodná
+  - key: options.race_ethnicity.black_african.short
+    t: Čierna/Afrického pôvodu
+  - key: options.race_ethnicity.multiracial.short
+    t: Mnohonárodnostná
+  - key: options.race_ethnicity.biracial.short
+    t: Dvojnárodnostná
+  - key: options.race_ethnicity.native_american_islander_australian.short
+    t: americký Indián/tichomorský obyvateľ/pôvodný Austrálčan
+  - key: options.race_ethnicity.not_listed.short
+    t: Neuvedená
+
+  # Disability Status
+  - key: options.disability_status.visual_impairments
+    t: >
+      Zrakové znevýhodnenie (ako: slepota, farbosleposť, atď.)
+  - key: options.disability_status.hearing_impairments
+    t: >
+      Sluchové znevýhodnenie (ako: hluchosť, hukot v ušiach, atď.)
+  - key: options.disability_status.mobility_impairments
+    t: >
+      Pohybové znevýhodnenie (ako: artritída, karpálny tunel, atď.)
+  - key: options.disability_status.cognitive_impairments
+    t: >
+      Kognitívne poruchy (ako: úzkosť, dyslexia, atď.)
+  - key: options.disability_status.not_listed
+    t: >
+      Neuvedené
+  # Disability Status (short)
+  - key: options.disability_status.visual_impairments
+    t: >
+      Zrakové znevýhodnenie
+  - key: options.disability_status.hearing_impairments
+    t: >
+      Sluchové znevýhodnenie
+  - key: options.disability_status.mobility_impairments
+    t: >
+      Pohybové znevýhodnenie
+  - key: options.disability_status.cognitive_impairments
+    t: >
+      Kognitívne poruchy
+  - key: options.disability_status.not_listed
+    t: >
+      Neuvedené
+  # Form Factors
+  - key: options.form_factors.desktop
+    t: Stolový počítač
+  - key: options.form_factors.keyboard_only
+    t: Stolový počítač iba s klávesnicou
+  - key: options.form_factors.smartphone
+    t: smartfón
+  - key: options.form_factors.feature_phone
+    t: Tlačidlový telefón
+  - key: options.form_factors.tablet
+    t: Tablet
+  - key: options.form_factors.smart_watch
+    t: Inteligentné hodinky
+  - key: options.form_factors.tv
+    t: TV
+  - key: options.form_factors.gaming_console
+    t: Herná konzola
+  - key: options.form_factors.screen_reader
+    t: Čítačka displeja
+  - key: options.form_factors.print
+    t: Tlač
+  - key: options.form_factors.testing_tools
+    t: Testovacie nástroje (Axe, Lighthouse, atď.)
+  - key: options.form_factors.vision_simulator
+    t: Simulátor zmeneného videnia (farbosleposť, atď.)
+
+  # Industry Sector
+  - key: options.industry_sector.ecommerce
+    t: Elektronický obchod a Maloobchod
+  - key: options.industry_sector.news_media
+    t: Správy, Média a Blogovanie
+  - key: options.industry_sector.healthcare
+    t: Zdravotníctvo
+  - key: options.industry_sector.finance
+    t: Financie
+  - key: options.industry_sector.programming_tools
+    t: Programovanie a Technické nástroje
+  - key: options.industry_sector.socialmedia
+    t: Sociálne siete
+  - key: options.industry_sector.marketing_tools
+    t: Marketingové/Predajné/Analytické Nástroje
+  - key: options.industry_sector.education
+    t: Vzdelávanie
+  - key: options.industry_sector.real_estate
+    t: Nehnuteľnosti
+  - key: options.industry_sector.government
+    t: Vláda
+  - key: options.industry_sector.entertainment
+    t: Zábavný priemysel
+  - key: options.industry_sector.consulting
+    t: Poradenské služby
+  - key: options.industry_sector.travel
+    t: Cestovný sektor
+  - key: options.industry_sector.insurance
+    t: Poisťovníctvo
+  - key: options.industry_sector.logistics
+    t: Logistika
+  - key: options.industry_sector.energy
+    t: Energetický sektor
+  - key: options.industry_sector.telecommunications
+    t: Telekomunikácie
+  - key: options.industry_sector.student
+    t: Študent
+  - key: options.industry_sector.hospitality
+    t: Hotelierstvo
+  - key: options.industry_sector.cyber_security
+    t: Cybernetická bezpečnosť
+  - key: options.industry_sector.construction
+    t: Stavebníctvo
+  - key: options.industry_sector.automotive
+    t: Automobilný priemysel
+  - key: options.industry_sector.agriculture
+    t: Agricultúra
+  - key: options.industry_sector.transport
+    t: Preprava
+  - key: options.industry_sector.manufacturing
+    t: Výroba
+
+  # tool evaluation
+  - key: options.tool_evaluation.learning_curve_documentation
+    t: Dokumentácia
+  - key: options.tool_evaluation.learning_curve_documentation.description
+    t: Je jednoduchý pre pochopenie a/alebo dobre zdokumentované?
+  - key: options.tool_evaluation.momentum_popularity
+    t: Hype a momentum
+  - key: options.tool_evaluation.momentum_popularity.description
+    t: Generuje momentálne veľa záujmu?
+  - key: options.tool_evaluation.user_base_size
+    t: Uživateľská základňa
+  - key: options.tool_evaluation.user_base_size.description
+    t: Je to dobre zabehnutá voľba s dlhodobou históriou?
+  - key: options.tool_evaluation.developer_experience_tooling
+    t: Vývojárov zážitok
+  - key: options.tool_evaluation.developer_experience_tooling.description
+    t: Obsahuje dobré nástroje pre vývojára, rozsiahlu základňu pluginov, atď.?
+  - key: options.tool_evaluation.performance_user_experience
+    t: Užívateľský zážitok
+  - key: options.tool_evaluation.performance_user_experience.description
+    t: Napomáha k vytvoreniu hladkej užívateľskej skúsenosti?
+  - key: options.tool_evaluation.creator_team
+    t: Autor a tím
+  - key: options.tool_evaluation.creator_team.description
+    t: Je podporovaný dobre známym, dotovaným, alebo skúseným tímom?
+  - key: options.tool_evaluation.accessibility_features
+    t: Funkcie dostupnosti
+  - key: options.tool_evaluation.accessibility_features.description
+    t: Je vhodný pre vytváranie skúsenosti prístupnosti pre všetkých užívateľov?
+  - key: options.tool_evaluation.community_inclusivity
+    t: Komunita a inkluzívnosť
+  - key: options.tool_evaluation.community_inclusivity.description
+    t: Má prívetívú a živú komunitu?
+
+
+
+  # accessibility features
+  - key: options.accessibility_features.keyboard_navigation
+    t: Klávesová navigácia
+  - key: options.accessibility_features.compliant_contrast
+    t: Kontrast v súlade s WCAG
+  - key: options.accessibility_features.focus_indicators
+    t: Indikátory zaostrenia
+  - key: options.accessibility_features.skip_to_content_link
+    t: Link na preskočeniu k obsahu
+  - key: options.accessibility_features.color_themes
+    t: Farebné témy (tmavý mód, mód vysokého kontrastu, atď.)
+  - key: options.accessibility_features.prefers_reduced_motion
+    t: Preferuje redukciu pohybov
+  - key: options.accessibility_features.alt_text
+    t: Alternatívne texty
+  - key: options.accessibility_features.semantic_markup
+    t: Sémantické označenie
+  - key: options.accessibility_features.aria_attributes
+    t: ARIA HTML atribúty
+
+  # learning methods
+  - key: options.first_steps.books
+    t: Knihy
+  - key: options.first_steps.videos
+    t: Videá a screencasty
+  - key: options.first_steps.school
+    t: Škola a vyššie vzdelanie
+  - key: options.first_steps.courses_free
+    t: Online kurzy (zadarmo)
+  - key: options.first_steps.courses_paid
+    t: Online kurzy (platené)
+  - key: options.first_steps.podcasts
+    t: Podkasty
+  - key: options.first_steps.bootcamp
+    t: Programátorsky bootcamp
+  - key: options.first_steps.on_the_job
+    t: Pracovné školenia
+  - key: options.first_steps.self_directed
+    t: Samoštúdium (Google, Stack Overflow, atď.)
+  - key: options.first_steps.mentoring
+    t: Školenia
+
+  # degree
+  - key: options.higher_education_degree.no_degree
+    t: Nie
+  - key: options.higher_education_degree.yes_related
+    t: Áno, v oblasti, ktorá súvisí s mojim zamestnaním
+  - key: options.higher_education_degree.yes_unrelated
+    t: Áno, v oblasti, ktorá nesúvisí s mojim zamestnaním
+
+  # degree (short versions)
+  - key: options.higher_education_degree.no_degree.short
+    t: Nie
+  - key: options.higher_education_degree.yes_related.short
+    t: Áno, súvisiaca oblasť
+  - key: options.higher_education_degree.yes_unrelated.short
+    t: Áno, nesúvisiaca oblasť
+
+  # bracket
+  - key: options.bracket.round1
+    t: Vyhráva 1. kolo
+  - key: options.bracket.round2
+    t: Vyhráva 2. kolo
+  - key: options.bracket.round3
+    t: Vyhráva 3. kolo
+  - key: options.bracket.combined
+    t: Kombinované
+
+  # email_temporary (receive updates?)
+  - key: options.email_temporary.yes
+    t: Áno, zašlite mi email, keď budú zverejnené výsledky
+    
+  ###########################################################################
+  # Tools
+  ###########################################################################
+
+  - key: tools.other_tools
+    t: Iné možnosti
+  - key: tools.other_tools.description
+    t: Iné možnosti, ktoré používate a nie sú zmienené v zozname vyššie.
+  - key: tools.happiness
+    t: Celková spokojnosť
+  - key: tools.happiness.description
+    t: >
+        Na stupnici od jedna (veľmi nespokojný) do päť (veľmi spokojný), ako
+        spokojný ste so celkovým stavom vecí súvisiacich so zoznamom vyššie?
+  ###########################################################################
+  # Demographics (About You/User Info)
+  ###########################################################################
+
+  # age
+  - key: user_info.age
+    t: Vek
+  - key: user_info.age.description
+    t: Koľko máte rokov?
+
+  # years of experience
+  - key: user_info.years_of_experience
+    t: Roky skúseností
+  - key: user_info.years_of_experience.description
+    t: Ako dlho pracujete alebo študujete v tejto oblasti?
+
+  # company size
+  - key: user_info.company_size
+    t: Veľkosť spoločnosti
+  - key: user_info.company_size.description
+    t: Aká veľká je Vaša spoločnosť v počte zamestnancov?
+
+  # salary ranges
+  - key: user_info.yearly_salary
+    t: Ročný plat
+  - key: user_info.yearly_salary.description
+    t: Váš ročný plat v amerických dolároch. 
+
+  # job title
+  - key: user_info.job_title
+    t: Pracovná pozícia
+  - key: user_info.job_title.description
+    t: Ako sa predstavujete ostatným?
+
+  # javascript proficiency
+  - key: user_info.javascript_proficiency
+    t: Znalosť JavaScriptu
+  - key: user_info.javascript_proficiency.description
+    t: Aký zbehlý ste v JavaScripte?
+
+  # css proficiency
+  - key: user_info.css_proficiency
+    t: Znalosť CSS
+  - key: user_info.css_proficiency.description
+    t: Aký zbehlý ste v CSS?
+
+  # backend proficiency
+  - key: user_info.backend_proficiency
+    t: Znalosť Back-endu
+  - key: user_info.backend_proficiency.description
+    t: Aký zbehlý ste v back-end vývoji?
+
+  # gender
+  - key: user_info.gender
+    t: Pohlavie
+  - key: user_info.gender.description
+    t: >
+      Ktorá z nasledujúcich možností Vás vystihuje? Prosim, vyberte jednu.
+  - key: user_info.gender.note
+    t: >
+      Vieme, že spracovanie a zverejňovanie údajov o ľudskej rôznorodosti môže byť senzitívna
+      otázka, no získanie týchto údajov považujeme za dôležité pre zlepšenie prieskumu ako 
+      takého čo sa týka inkluzívnosti a reprezentatívnosti.
+      
+  # race & ethnicity
+  - key: user_info.race_ethnicity
+    t: Rasa a etnicita
+  - key: user_info.race_ethnicity.description
+    t: >
+      Ktorá z týchto možností, ak niektorá, Vás vystihuje? Prosím, vyberte všetky pre Vás platné.
+  - key: user_info.race_ethnicity.note
+    t: >
+      Vieme, že spracovanie a zverejňovanie údajov o ľudskej rôznorodosti môže byť senzitívna
+      otázka, no získanie týchto údajov považujeme za dôležité pre zlepšenie prieskumu ako 
+      takého čo sa týka inkluzívnosti a reprezentatívnosti.
+  - key: user_info.race_ethnicity.not_allowed
+    t: >
+      Pre to, aby sme vyhoveli lokálnym zákonom bol zber dát o rase a etnicite pre Vašu krajinu
+        alebo region zablokovaný.
+      
+  # disability status
+  - key: user_info.disability_status
+    t: Stav invalidity
+  - key: user_info.disability_status.description
+    t: >
+      Ktorými z nasledujúcich postihnutí trpíte? Prosím, vyberte všetky pre Vás platné možnosti.
+      Postihnutia tiež môžu zahŕňať dočasné postihnutia alebo zranenia.
+  # disability status (other)
+  - key: user_info.disability_status.others
+    t: Ine postihnutia
+
+  # other info
+  - key: user_info.how_did_user_find_out_about_the_survey
+    t: Ako ste zistili o tomto prieskume?
+  - key: user_info.email
+    t: Váš email
+  - key: user_info.email.description
+    t: > 
+        Prieskum ste vyplnili anonýmne. Voliteľne môžete vložiť Váš email pre neskorší prístup k Vašim údajom, alebo aby ste boli upozornený na zverejnenie výsledkov.
+  - key: user_info.email.note
+    t: >
+        Nezdieľame žiadne osobné údaje. Po vložení Vášho emailu ho použijeme na vygenerovanie unikátneho anonýmneho identifikátora a následne email vymažeme z našich záznamov. 
+  - key: user_info.country
+    t: Vaša krajina alebo región
+  - key: user_info.country.description
+    t: Kde momentálne sídlite?
+
+  - key: user_info.github_username
+    t: Vaše GitHub užívateľské meno
+  - key: user_info.github_username.description
+    t: >
+      V budúcnosti možno použijeme užívateľske mená z GitHubu
+      pre náhľad na repozitáre a prepojenie s verejne dostupnými informáciami
+    
+  - key: user_info.twitter_username
+    t: Vaše Twitter užívateľske meno
+  - key: user_info.twitter_username.description
+    t: >
+      V budúcnosti možno použijeme užívateľské mená z Twittera pre náhľad
+      na Twitter aktivity a ich prepojene s verejne dostupnými informáciami
+        (ako napr. zoznam ľudí ktorých sledujete).
+  - key: user_info.industry_sector
+    t: Sektory
+  - key: user_info.industry_sector.description
+    t: V ktorm sektore(sektoroch) pracujete?
+  - key: user_info.industry_sector.others
+    t: Iné sektory
+  - key: user_info.industry_sector.others.description
+    t: Iné sektory v ktorých pracujete a nie sú zmienené vyššie.
+
+  # degree
+  - key: user_info.higher_education_degree
+    t: Vyššie odborné vzdelanie
+  - key: user_info.higher_education_degree.description
+    t: Máte vyššie odborné vzdelanie?
+
+  # email_temporary (receive updates?)
+  - key: user_info.email_temporary
+    t: Chcete byť upozornený na zverejnenie výsledkov prieskumu?
+  - key: user_info.email_temporary.note
+    t: >
+      Neukladáme žiadne osobne údaje, po zaslaní Vašej emailovej adresy do nášho
+      zoznamu bude vymazaný z našich vlastných záznamov.
+    
+  # how can we improve the survey?
+  - key: user_info.how_can_we_improve
+    t: Ako môžeme vylepšiť tento prieskum?
+    
+  ###########################################################################
+  # Other Tools
+  ###########################################################################
+
+  - key: tools_others.libraries
+    t: Knižnice
+  - key: tools_others.libraries.description
+    t: Ktoré knižnice pravidelne používate?
+  - key: tools_others.libraries.others
+    t: Iné knižnice
+  - key: tools_others.libraries.others.description
+    t: Iné (voľné pole).
+
+  - key: tools_others.text_editors
+    t: Textové editory
+  - key: tools_others.text_editors.description
+    t: Ktorý textový editor používate pravidelne?
+  - key: tools_others.text_editors.others
+    t: Iné textové editory.
+  - key: tools_others.text_editors.others.description
+    t: Iné (voľné pole).
+
+  - key: tools_others.utilities
+    t: Utility
+  - key: tools_others.utilities.description
+    t: Aké utility alebo nástroje pravidelne používate?
+  - key: tools_others.utilities.others
+    t: Iné utility.
+  - key: tools_others.utilities.others.description
+    t: Iné (voľné pole).
+
+  - key: tools_others.browsers
+    t: Prehliadače
+  - key: tools_others.browsers.description
+    t: Ktorý prehliadač(prehliadače) pravidelne používate pri počiatočnom vývoji?
+  - key: tools_others.browsers.others
+    t: Iné prehliadače
+  - key: tools_others.browsers.others.description
+    t: Iné (voľné pole).
+
+  - key: tools_others.build_tools
+    t: Buildovacie nástroje
+  - key: tools_others.build_tools.description
+    t: Ktoré nástroje na buildovanie používate?
+  - key: tools_others.build_tools.others
+    t: Iné buildovacie nástroje.
+  - key: tools_others.build_tools.others.description
+    t: Iné (voľné pole).
+
+  - key: tools_others.non_js_languages
+    t: Ne-JavaScriptové jazyky
+  - key: tools_others.non_js_languages.description
+    t: Aké ine jazyky používate?
+  - key: tools_others.non_js_languages.others
+    t: Iné jazyky
+  - key: tools_others.non_js_languages.others.description
+    t: Iné (voľné pole).
+
+  - key: tools_others.javascript_flavors
+    t: Varianty JavaScriptu
+  - key: tools_others.javascript_flavors.description
+    t: Jazyky, ktoré su prekompilované do JavaScriptu
+  - key: tools_others.javascript_flavors.others
+    t: Iné varianty JavaScriptu
+  - key: tools_others.javascript_flavors.others.description
+    t: Iné (voľné pole).
+
+  ###########################################################################
+  # Resources
+  ###########################################################################
+
+  # first steps
+  - key: resources.first_steps
+    t: Prvé metódy učenia sa
+  - key: resources.first_steps.description
+    t: Ako ste sa prvotne začali učit programovať?
+  - key: resources.first_steps.others
+    t: Iné prvé metódy učenia sa
+  - key: resources.first_steps.others.description
+    t: Iné (voľné pole).
+  
+  # blogs & magazines
+  - key: resources.blogs_news_magazines
+    t: Blogy a magazíny
+  - key: resources.blogs_news_magazines.description
+    t: Ktoré blogy/magazíny/atď čítate?
+  - key: resources.blogs_news_magazines.others
+    t: Iné blogy a magazíny
+  - key: resources.blogs_news_magazines.others.description
+    t: Iné (voľné pole).
+
+  # sites & courses
+  - key: resources.sites_courses
+    t: Weby a kurzy
+  - key: resources.sites_courses.description
+    t: Ktoré weby/kury/atď. sledujete?
+  - key: resources.sites_courses.others
+    t: Iné weby a kurzy
+  - key: resources.sites_courses.others.description
+    t: Iné (voľné pole).
+
+  # podcasts
+  - key: resources.podcasts
+    t: Podkásty
+  - key: resources.podcasts.description
+    t: Ktoré podkásty o programovaní počúvate?
+  - key: resources.podcasts.others
+    t: Iné podkasty
+  - key: resources.podcasts.others.description
+    t: Iné (voľné pole).
+
+  # people
+  - key: resources.people
+    t: Ľudia
+  - key: resources.people.description
+    t: Ľudia ktorých čítate, sledujete, alebo len chcete zmieniť.
+  # - key: resources.people.others
+  #   t: Iný ľudia
+  # - key: resources.people.others.description
+  #   t: Iné (voľné pole).
+  - key: resources.people.others
+    t: Ľudia
+  - key: resources.people.others.description
+    t: >
+      Ľudia ktorých čítate, sledujete, alebo len chcete zmieniť ich prácu
+      (voľné pole, mená oddelené čiarkov).
+  # other surveys
+  - key: resources.other_surveys
+    t: Iné prieskumy
+  - key: resources.other_surveys.description
+    t: Ktorých iných prieskumov pre vývojárov sa zúčastnujete?
+  - key: resources.other_surveys.others
+    t: Ine prieskumy hore nezmienené
