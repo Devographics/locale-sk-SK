@@ -30,7 +30,7 @@ translations:
   - key: general.take_survey
     t: Zúčastnite sa {name} prieskumu
 
-# surveys
+  # surveys
   - key: general.open_surveys
     t: Otvorené prieskumy
   - key: general.no_open_surveys
@@ -54,15 +54,15 @@ translations:
   - key: general.finish_survey
     t: Ukončiť prieskum »
   - key: general.next_section
-    t: Ďalšia sekcia 
+    t: Ďalšia sekcia
   - key: general.prev_section
     t: Predošlá sekcia
   - key: general.survey_closed
     t: Tento prieskum je teraz uzavretý.
   - key: general.survey_results
-    t:  Prezrieť výsledky Prieskumu »
+    t: Prezrieť výsledky Prieskumu »
   - key: general.surveys_available_languages
-    t: 'Prieskumy sú dostupné v:'
+    t: "Prieskumy sú dostupné v:"
   - key: general.help_us_translate
     t: Pomôžte nám s prekladom prieskumov »
   - key: general.translators
@@ -117,7 +117,7 @@ translations:
     t: Obsah
   - key: general.all_questions_optional
     t: >
-        Poznámka: všeky otázky sú voliteľné, nie je potrebné dosiahnuť 100% dokončenie.
+      Poznámka: všeky otázky sú voliteľné, nie je potrebné dosiahnuť 100% dokončenie.
   - key: general.data_is_saved
     t: Vaše údaje sú uložené kedykoľvek sa odnavigujete na predošlú alebo ďalšiu sekciu.
   - key: general.close_nav
@@ -134,31 +134,31 @@ translations:
     t: Naspäť
   - key: general.thanks
     t: >
-        Ďakujeme za vyplnenie prieskumu! Vaše údaje sú uložené.
-        Taktiež nám môžete pomôcť zdieľaním tohto prieskumu. Každá pomoc sa počíta a je to niečo, čo môže
-        zlepšiť celkovú reprezentatívnosť údajov:
+      Ďakujeme za vyplnenie prieskumu! Vaše údaje sú uložené.
+      Taktiež nám môžete pomôcť zdieľaním tohto prieskumu. Každá pomoc sa počíta a je to niečo, čo môže
+      zlepšiť celkovú reprezentatívnosť údajov:
   - key: thanks.learn_more_about
-    t: 'Pár pojmov, o ktorých sa možno budete chcieť dozvedieť viac:'
+    t: "Pár pojmov, o ktorých sa možno budete chcieť dozvedieť viac:"
   - key: thanks.knowledge_score
     t: Skóre vedomostí
   - key: thanks.score_explanation
     t: >
-        Počuli, alebo ste použili <span class="score-number score-number-known">{known}</span> z
-        <span class="score-number score-number-total">{total}</span> pojmov zmienených v prieskume, čo Vás
-        stavia medzi top <span class="score-number score-number-ranking">{knowledgeRankingFromTop}%</span>
-        všetkých respondentov.
+      Počuli, alebo ste použili <span class="score-number score-number-known">{known}</span> z
+      <span class="score-number score-number-total">{total}</span> pojmov zmienených v prieskume, čo Vás
+      stavia medzi top <span class="score-number score-number-ranking">{knowledgeRankingFromTop}%</span>
+      všetkých respondentov.
   - key: thanks.share_on_twitter
     t: Zdieľajte na Twitteri
   - key: thanks.share_score_message
     t: >
-        Získal som vedomostné skóre {score}% v tohtoročnom #{hashtag} prieskume! Zúčastniť sa prieskumu: {shareUrl}
+      Získal som vedomostné skóre {score}% v tohtoročnom #{hashtag} prieskume! Zúčastniť sa prieskumu: {shareUrl}
   # share
   - key: general.share_subject
     t: >
-        {surveyName} prieskum
+      {surveyName} prieskum
   - key: general.share_text
     t: >
-        Tohtoročný {surveyName} prieskum je teraz otvorený! {link}
+      Tohtoročný {surveyName} prieskum je teraz otvorený! {link}
   # forms
   - key: forms.select_option
     t: Vyberte možnosť
@@ -179,14 +179,14 @@ translations:
 
   # other
   - key: general.join_discord
-    t: Pripojte sa ku nám na <a href="{link}">Discorde</a>. 
+    t: Pripojte sa ku nám na <a href="{link}">Discorde</a>.
   - key: general.translator_mode
     t: Stlačte option/alt pre spustenie prekladateľského módu.
   - key: general.charts_nivo
-    t:  Grafy sú vytvorené <a href="{link}">Nivom</a>.
+    t: Grafy sú vytvorené <a href="{link}">Nivom</a>.
   - key: general.made_by_devographics
     t: Vytvorené <a href="{link}">Devographics</a>
-    
+
   ###########################################################################
   # Nav
   ###########################################################################
@@ -360,7 +360,7 @@ translations:
 
   # age (short versions)
   - key: options.age.range_less_than_10.short
-    t: '<=10'
+    t: "<=10"
   - key: options.age.range_10_18.short
     t: 11-18
   - key: options.age.range_18_24.short
@@ -374,7 +374,7 @@ translations:
   - key: options.age.range_55_64.short
     t: 55-64
   - key: options.age.range_more_than_65.short
-    t: '>65'
+    t: ">65"
 
   # years of experience
   - key: options.years_of_experience.range_less_than_1
@@ -392,7 +392,7 @@ translations:
 
   # years of experience (short versions)
   - key: options.years_of_experience.range_less_than_1.short
-    t: '<1 rok'
+    t: "<1 rok"
   - key: options.years_of_experience.range_1_2.short
     t: 1-2 roky
   - key: options.years_of_experience.range_2_5.short
@@ -402,7 +402,7 @@ translations:
   - key: options.years_of_experience.range_10_20.short
     t: 11-20 rokov
   - key: options.years_of_experience.range_more_than_20.short
-    t: '>20 rokov'
+    t: ">20 rokov"
 
   # company size
   - key: options.company_size.range_1
@@ -438,7 +438,7 @@ translations:
   - key: options.company_size.range_100_1000.short
     t: 101-1000
   - key: options.company_size.range_more_than_1000.short
-    t: '>1000'
+    t: ">1000"
 
   # salary
   - key: options.yearly_salary.range_work_for_free
@@ -470,7 +470,7 @@ translations:
   - key: options.yearly_salary.range_100_200.short
     t: 100 000 - 200 000 $
   - key: options.yearly_salary.range_more_than_200.short
-    t: '> 200 000 $'
+    t: "> 200 000 $"
 
   # job titles
   - key: options.job_title.cto
@@ -764,8 +764,6 @@ translations:
   - key: options.tool_evaluation.community_inclusivity.description
     t: Má prívetívú a živú komunitu?
 
-
-
   # accessibility features
   - key: options.accessibility_features.keyboard_navigation
     t: Klávesová navigácia
@@ -835,9 +833,9 @@ translations:
     t: Kombinované
 
   # email_temporary (receive updates?)
-  - key: options.email_temporary.yes
+  - key: options.receive_notifications.yes
     t: Áno, zašlite mi email, keď budú zverejnené výsledky
-    
+
   ###########################################################################
   # Tools
   ###########################################################################
@@ -850,8 +848,8 @@ translations:
     t: Celková spokojnosť
   - key: tools.happiness.description
     t: >
-        Na stupnici od jedna (veľmi nespokojný) do päť (veľmi spokojný), ako
-        spokojný ste so celkovým stavom vecí súvisiacich so zoznamom vyššie?
+      Na stupnici od jedna (veľmi nespokojný) do päť (veľmi spokojný), ako
+      spokojný ste so celkovým stavom vecí súvisiacich so zoznamom vyššie?
   ###########################################################################
   # Demographics (About You/User Info)
   ###########################################################################
@@ -878,7 +876,7 @@ translations:
   - key: user_info.yearly_salary
     t: Ročný plat
   - key: user_info.yearly_salary.description
-    t: Váš ročný plat v amerických dolároch. 
+    t: Váš ročný plat v amerických dolároch.
 
   # job title
   - key: user_info.job_title
@@ -915,7 +913,7 @@ translations:
       Vieme, že spracovanie a zverejňovanie údajov o ľudskej rôznorodosti môže byť senzitívna
       otázka, no získanie týchto údajov považujeme za dôležité pre zlepšenie prieskumu ako 
       takého čo sa týka inkluzívnosti a reprezentatívnosti.
-      
+
   # race & ethnicity
   - key: user_info.race_ethnicity
     t: Rasa a etnicita
@@ -931,7 +929,7 @@ translations:
     t: >
       Pre to, aby sme vyhoveli lokálnym zákonom bol zber dát o rase a etnicite pre Vašu krajinu
         alebo region zablokovaný.
-      
+
   # disability status
   - key: user_info.disability_status
     t: Stav invalidity
@@ -949,11 +947,11 @@ translations:
   - key: user_info.email
     t: Váš email
   - key: user_info.email.description
-    t: > 
-        Prieskum ste vyplnili anonýmne. Voliteľne môžete vložiť Váš email pre neskorší prístup k Vašim údajom, alebo aby ste boli upozornený na zverejnenie výsledkov.
+    t: >
+      Prieskum ste vyplnili anonýmne. Voliteľne môžete vložiť Váš email pre neskorší prístup k Vašim údajom, alebo aby ste boli upozornený na zverejnenie výsledkov.
   - key: user_info.email.note
     t: >
-        Nezdieľame žiadne osobné údaje. Po vložení Vášho emailu ho použijeme na vygenerovanie unikátneho anonýmneho identifikátora a následne email vymažeme z našich záznamov. 
+      Nezdieľame žiadne osobné údaje. Po vložení Vášho emailu ho použijeme na vygenerovanie unikátneho anonýmneho identifikátora a následne email vymažeme z našich záznamov.
   - key: user_info.country
     t: Vaša krajina alebo región
   - key: user_info.country.description
@@ -965,7 +963,7 @@ translations:
     t: >
       V budúcnosti možno použijeme užívateľske mená z GitHubu
       pre náhľad na repozitáre a prepojenie s verejne dostupnými informáciami
-    
+
   - key: user_info.twitter_username
     t: Vaše Twitter užívateľske meno
   - key: user_info.twitter_username.description
@@ -989,17 +987,17 @@ translations:
     t: Máte vyššie odborné vzdelanie?
 
   # email_temporary (receive updates?)
-  - key: user_info.email_temporary
+  - key: user_info.receive_notifications
     t: Chcete byť upozornený na zverejnenie výsledkov prieskumu?
-  - key: user_info.email_temporary.note
+  - key: user_info.receive_notifications.note
     t: >
       Neukladáme žiadne osobne údaje, po zaslaní Vašej emailovej adresy do nášho
       zoznamu bude vymazaný z našich vlastných záznamov.
-    
+
   # how can we improve the survey?
   - key: user_info.how_can_we_improve
     t: Ako môžeme vylepšiť tento prieskum?
-    
+
   ###########################################################################
   # Other Tools
   ###########################################################################
@@ -1080,7 +1078,7 @@ translations:
     t: Iné prvé metódy učenia sa
   - key: resources.first_steps.others.description
     t: Iné (voľné pole).
-  
+
   # blogs & magazines
   - key: resources.blogs_news_magazines
     t: Blogy a magazíny

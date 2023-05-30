@@ -115,7 +115,7 @@ translations:
   - key: blocks.gender.note
     t: |
       Ak sa chceš dozvedieť viac, prečítaj si [náš článok na blogu](https://dev.to/sachagreif/is-our-survey-biased-against-women-49oj), ktorý adresuje rodovú dynamiku prieskumu.
-  - key: blocks.currently_missing_from_css.note
+  - key: blocks.css_missing_features.note
     t: |
       Celý dataset odpovedí na túto otázku si môžeš pozrieť na [tomto projekte](https://whatsmissingfromcss.com/).
   - key: blocks.source.note
@@ -166,7 +166,7 @@ translations:
   ###########################################################################
 
   - key: picks.my_pick
-    t: 'Môj výber roka 2021: '
+    t: "Môj výber roka 2021: "
   - key: picks.intro
     t: Pýtali sme sa členov JavaScriptovej komunity na ich “výber roka”
 
