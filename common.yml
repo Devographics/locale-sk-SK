@@ -14,7 +14,7 @@ translations:
       - aby ste mali prístup ku Vašim dátam
       - priebežnému ukladaniu Vášich odpovedí
       - aby sme Vás upozornili na zverejnenie výsledkov
-  - key: general.survey_closed
+  - key: general.survey_closed_detailed
     t: >
       Prepáčte, ale prieskum je uzatvorený! Stále si môžete prezrieť Vaše odpovede, no nie je ich už možné upravovať.
   - key: general.survey_read_only
@@ -637,19 +637,19 @@ translations:
     t: >
       Neuvedené
   # Disability Status (short)
-  - key: options.disability_status.visual_impairments
+  - key: options.disability_status.visual_impairments.short
     t: >
       Zrakové znevýhodnenie
-  - key: options.disability_status.hearing_impairments
+  - key: options.disability_status.hearing_impairments.short
     t: >
       Sluchové znevýhodnenie
-  - key: options.disability_status.mobility_impairments
+  - key: options.disability_status.mobility_impairments.short
     t: >
       Pohybové znevýhodnenie
-  - key: options.disability_status.cognitive_impairments
+  - key: options.disability_status.cognitive_impairments.short
     t: >
       Kognitívne poruchy
-  - key: options.disability_status.not_listed
+  - key: options.disability_status.not_listed.short
     t: >
       Neuvedené
   # Form Factors
