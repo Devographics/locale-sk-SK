@@ -12,10 +12,10 @@ translations:
     t: Kontaktuje nás
 
   - key: homepage.made_by
-    t: 'Stav CSS je vytvorený:'
+    t: "Stav CSS je vytvorený:"
 
   - key: homepage.previous_years
-    t: 'Predošlé roky:'
+    t: "Predošlé roky:"
 
   - key: homepage.intro
     t: >
@@ -34,7 +34,7 @@ translations:
     t: Dajte o nás vedieť!
 
   - key: homepage.other_surveys
-    t: 'Iné prieskumy:'
+    t: "Iné prieskumy:"
 
   - key: homepage.survey_open_now
     t: Práve otvorené
@@ -69,7 +69,7 @@ translations:
 
   # languages
   - key: languages.available_languages
-    t: 'Dostupné jazyky:'
+    t: "Dostupné jazyky:"
   - key: languages.help_us_translate
     t: Pomôžte nám s prekladom do Vášho jazyka →
 
@@ -78,7 +78,6 @@ translations:
     aliasFor: general.made_by_devographics
   - key: homepage.netlify_link
     aliasFor: general.netlify_link
-  - key: homepage.leave_issue
-    aliasFor: general.leave_issue
+
   - key: homepage.join_discord
     aliasFor: general.join_discord
