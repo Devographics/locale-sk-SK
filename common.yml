@@ -1072,7 +1072,7 @@ translations:
   # first steps
   - key: resources.first_steps
     t: Prvé metódy učenia sa
-  - key: resources.first_steps.description
+  - key: resources.first_steps.question
     t: Ako ste sa prvotne začali učit programovať?
   - key: resources.first_steps.others
     t: Iné prvé metódy učenia sa
@@ -1082,7 +1082,7 @@ translations:
   # blogs & magazines
   - key: resources.blogs_news_magazines
     t: Blogy a magazíny
-  - key: resources.blogs_news_magazines.description
+  - key: resources.blogs_news_magazines.question
     t: Ktoré blogy/magazíny/atď čítate?
   - key: resources.blogs_news_magazines.others
     t: Iné blogy a magazíny
@@ -1092,7 +1092,7 @@ translations:
   # sites & courses
   - key: resources.sites_courses
     t: Weby a kurzy
-  - key: resources.sites_courses.description
+  - key: resources.sites_courses.question
     t: Ktoré weby/kury/atď. sledujete?
   - key: resources.sites_courses.others
     t: Iné weby a kurzy
@@ -1102,7 +1102,7 @@ translations:
   # podcasts
   - key: resources.podcasts
     t: Podkásty
-  - key: resources.podcasts.description
+  - key: resources.podcasts.question
     t: Ktoré podkásty o programovaní počúvate?
   - key: resources.podcasts.others
     t: Iné podkasty
@@ -1127,7 +1127,7 @@ translations:
   # other surveys
   - key: resources.other_surveys
     t: Iné prieskumy
-  - key: resources.other_surveys.description
+  - key: resources.other_surveys.question
     t: Ktorých iných prieskumov pre vývojárov sa zúčastnujete?
   - key: resources.other_surveys.others
     t: Ine prieskumy hore nezmienené
