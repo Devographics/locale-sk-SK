@@ -857,55 +857,55 @@ translations:
   # age
   - key: user_info.age
     t: Vek
-  - key: user_info.age.description
+  - key: user_info.age.question
     t: Koľko máte rokov?
 
   # years of experience
   - key: user_info.years_of_experience
     t: Roky skúseností
-  - key: user_info.years_of_experience.description
+  - key: user_info.years_of_experience.question
     t: Ako dlho pracujete alebo študujete v tejto oblasti?
 
   # company size
   - key: user_info.company_size
     t: Veľkosť spoločnosti
-  - key: user_info.company_size.description
+  - key: user_info.company_size.question
     t: Aká veľká je Vaša spoločnosť v počte zamestnancov?
 
   # salary ranges
   - key: user_info.yearly_salary
     t: Ročný plat
-  - key: user_info.yearly_salary.description
+  - key: user_info.yearly_salary.question
     t: Váš ročný plat v amerických dolároch.
 
   # job title
   - key: user_info.job_title
     t: Pracovná pozícia
-  - key: user_info.job_title.description
+  - key: user_info.job_title.question
     t: Ako sa predstavujete ostatným?
 
   # javascript proficiency
   - key: user_info.javascript_proficiency
     t: Znalosť JavaScriptu
-  - key: user_info.javascript_proficiency.description
+  - key: user_info.javascript_proficiency.question
     t: Aký zbehlý ste v JavaScripte?
 
   # css proficiency
   - key: user_info.css_proficiency
     t: Znalosť CSS
-  - key: user_info.css_proficiency.description
+  - key: user_info.css_proficiency.question
     t: Aký zbehlý ste v CSS?
 
   # backend proficiency
   - key: user_info.backend_proficiency
     t: Znalosť Back-endu
-  - key: user_info.backend_proficiency.description
+  - key: user_info.backend_proficiency.question
     t: Aký zbehlý ste v back-end vývoji?
 
   # gender
   - key: user_info.gender
     t: Pohlavie
-  - key: user_info.gender.description
+  - key: user_info.gender.question
     t: >
       Ktorá z nasledujúcich možností Vás vystihuje? Prosim, vyberte jednu.
   - key: user_info.gender.note
@@ -917,7 +917,7 @@ translations:
   # race & ethnicity
   - key: user_info.race_ethnicity
     t: Rasa a etnicita
-  - key: user_info.race_ethnicity.description
+  - key: user_info.race_ethnicity.question
     t: >
       Ktorá z týchto možností, ak niektorá, Vás vystihuje? Prosím, vyberte všetky pre Vás platné.
   - key: user_info.race_ethnicity.note
@@ -933,7 +933,7 @@ translations:
   # disability status
   - key: user_info.disability_status
     t: Stav invalidity
-  - key: user_info.disability_status.description
+  - key: user_info.disability_status.question
     t: >
       Ktorými z nasledujúcich postihnutí trpíte? Prosím, vyberte všetky pre Vás platné možnosti.
       Postihnutia tiež môžu zahŕňať dočasné postihnutia alebo zranenia.
@@ -973,7 +973,7 @@ translations:
         (ako napr. zoznam ľudí ktorých sledujete).
   - key: user_info.industry_sector
     t: Sektory
-  - key: user_info.industry_sector.description
+  - key: user_info.industry_sector.question
     t: V ktorm sektore(sektoroch) pracujete?
   - key: user_info.industry_sector.others
     t: Iné sektory
@@ -983,7 +983,7 @@ translations:
   # degree
   - key: user_info.higher_education_degree
     t: Vyššie odborné vzdelanie
-  - key: user_info.higher_education_degree.description
+  - key: user_info.higher_education_degree.question
     t: Máte vyššie odborné vzdelanie?
 
   # email_temporary (receive updates?)
