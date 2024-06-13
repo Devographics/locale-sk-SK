@@ -1004,7 +1004,7 @@ translations:
 
   - key: tools_others.libraries
     t: Knižnice
-  - key: tools_others.libraries.description
+  - key: tools_others.libraries.question
     t: Ktoré knižnice pravidelne používate?
   - key: tools_others.libraries.others
     t: Iné knižnice
@@ -1013,7 +1013,7 @@ translations:
 
   - key: tools_others.text_editors
     t: Textové editory
-  - key: tools_others.text_editors.description
+  - key: tools_others.text_editors.question
     t: Ktorý textový editor používate pravidelne?
   - key: tools_others.text_editors.others
     t: Iné textové editory.
@@ -1022,7 +1022,7 @@ translations:
 
   - key: tools_others.utilities
     t: Utility
-  - key: tools_others.utilities.description
+  - key: tools_others.utilities.question
     t: Aké utility alebo nástroje pravidelne používate?
   - key: tools_others.utilities.others
     t: Iné utility.
@@ -1031,7 +1031,7 @@ translations:
 
   - key: tools_others.browsers
     t: Prehliadače
-  - key: tools_others.browsers.description
+  - key: tools_others.browsers.question
     t: Ktorý prehliadač(prehliadače) pravidelne používate pri počiatočnom vývoji?
   - key: tools_others.browsers.others
     t: Iné prehliadače
@@ -1040,7 +1040,7 @@ translations:
 
   - key: tools_others.build_tools
     t: Buildovacie nástroje
-  - key: tools_others.build_tools.description
+  - key: tools_others.build_tools.question
     t: Ktoré nástroje na buildovanie používate?
   - key: tools_others.build_tools.others
     t: Iné buildovacie nástroje.
@@ -1049,7 +1049,7 @@ translations:
 
   - key: tools_others.non_js_languages
     t: Ne-JavaScriptové jazyky
-  - key: tools_others.non_js_languages.description
+  - key: tools_others.non_js_languages.question
     t: Aké ine jazyky používate?
   - key: tools_others.non_js_languages.others
     t: Iné jazyky
@@ -1058,7 +1058,7 @@ translations:
 
   - key: tools_others.javascript_flavors
     t: Varianty JavaScriptu
-  - key: tools_others.javascript_flavors.description
+  - key: tools_others.javascript_flavors.question
     t: Jazyky, ktoré su prekompilované do JavaScriptu
   - key: tools_others.javascript_flavors.others
     t: Iné varianty JavaScriptu

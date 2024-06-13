@@ -367,7 +367,7 @@ translations:
 
   - key: tools_others.runtimes
     t: JavaScriptové behové prostredia
-  - key: tools_others.runtimes.description
+  - key: tools_others.runtimes.question
     t: Aké enginy alebo behové (runtime) prostredia pravidelne používate?
   - key: tools_others.runtimes.others
     t: Iné prostredia
@@ -376,7 +376,7 @@ translations:
 
   - key: tools_others.package_registries
     t: Registre balíkov (Package Registries)
-  - key: tools_others.package_registries.description
+  - key: tools_others.package_registries.question
     t: Z akých registrov balíkov zvyčajne načítavate balíky?
   - key: tools_others.package_registries.others
     t: Iné registre balíkov
