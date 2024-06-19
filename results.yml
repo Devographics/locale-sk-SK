@@ -8,9 +8,9 @@ translations:
     t: Začať
 
   - key: page.previous
-    t: 'Naspäť:'
+    t: "Naspäť:"
   - key: page.next
-    t: 'Ďalej:'
+    t: "Ďalej:"
 
   - key: general.state_of_css_link
     t: Stav CSS
@@ -19,7 +19,7 @@ translations:
     t: Hosted by <a href="{link}">Netlify</a>.
 
   - key: general.completion_percentage
-    t: 'Percento kompletnosti:'
+    t: "Percento kompletnosti:"
 
   - key: partners.thanks
     t: Ďakujeme našim partnetrom za podporu!
@@ -429,7 +429,7 @@ translations:
 
   # tool experience
   - key: blocks.tool_experience
-    t: 'Skúsenosť s {name}'
+    t: "Skúsenosť s {name}"
   - key: blocks.tool_experience.description
     t: Respondentove skúsenosti s {name}.
 
@@ -445,7 +445,7 @@ translations:
   # tool tier list
   - key: blocks.tools_tier_list
     t: Rebríček knižníc
-  - key: blocks.tools_tier_list.description
+  - key: blocks.tools_tier_list.note
     t: |
       Tento graf hodnotí knižnice na základe pomeru spokojnosti (persento používateľov, 
       ktorí by knižnicu opäť použili). Berte na vedomie, že knižnice s menej ako 10% 
@@ -585,15 +585,15 @@ translations:
   ###########################################################################
 
   - key: chart_units.respondents
-    t: '{count} respondentov na otázku ({percentage}% percento odpovedajúcich)'
+    t: "{count} respondentov na otázku ({percentage}% percento odpovedajúcich)"
   - key: chart_units.percentage
     t: Percentá
   - key: chart_units.count
     t: Počet
   - key: chart_units.percentage_question
-    t: '% respondentov na otázku'
+    t: "% respondentov na otázku"
   - key: chart_units.percentage_survey
-    t: '% respondentov prieskumu'
+    t: "% respondentov prieskumu"
 
   - key: charts.average
     t: Priemer
@@ -604,7 +604,7 @@ translations:
   - key: charts.all_respondents
     t: Všetci respondenti
   - key: charts.facet_responses
-    t: '{count} odpovedí'
+    t: "{count} odpovedí"
 
   - key: charts.axis_legends.years_of_experience
     t: Roky skúseností
@@ -639,9 +639,9 @@ translations:
   - key: charts.axis_legends.age
     t: Vek
   - key: charts.axis_legends.users_percentage_survey
-    t: '% respondnetov prieskumu'
+    t: "% respondnetov prieskumu"
   - key: charts.axis_legends.users_percentage_question
-    t: '% respondentov otázky'
+    t: "% respondentov otázky"
 
   - key: charts.ranges_multiple_diverging_lines.baseline
     t: základná línia
@@ -699,17 +699,17 @@ translations:
   - key: share.site.title
     t: Zistite {siteTitle} výsledky
   - key: share.site.twitter_text
-    t: 'Zistite {siteTitle} výsledky {link} {hashtag}'
+    t: "Zistite {siteTitle} výsledky {link} {hashtag}"
   - key: share.site.subject
-    t: '{siteTitle} výsledky prieskumu'
+    t: "{siteTitle} výsledky prieskumu"
   - key: share.site.body
-    t: 'Pár zaujímavích výsledkov prieskumu: {link}'
+    t: "Pár zaujímavích výsledkov prieskumu: {link}"
   - key: share.block.twitter_text
-    t: '{hashtag} {year}: {title} {link}'
+    t: "{hashtag} {year}: {title} {link}"
   - key: share.block.subject
-    t: '{siteTitle} Výsledky prieskumu'
+    t: "{siteTitle} Výsledky prieskumu"
   - key: share.block.body
-    t: 'Pár zaujímavích výsledkov prieskumu ({title}): {link}'
+    t: "Pár zaujímavích výsledkov prieskumu ({title}): {link}"
   - key: share.twitter
     t: Zdieľať na Twitteri
   - key: share.facebook
@@ -743,11 +743,11 @@ translations:
   - key: table.item
     t: Položka
   - key: table.percentage_survey
-    t: '% respondentov prieskumu'
+    t: "% respondentov prieskumu"
   - key: table.percentage_question
-    t: '% respondentov otázky'
+    t: "% respondentov otázky"
   - key: table.percentage_facet
-    t: '% of facet respondents'
+    t: "% of facet respondents"
   - key: table.count
     t: Počet
   - key: table.year
@@ -922,7 +922,7 @@ translations:
       Podporte finančne tento prieskum darovaním 10 alebo viac dolárov a Váš
       Twitter avatar bude zobrazený vedľa grafu!
   - key: sponsor.chart_id
-    t: 'ID Grafu: '
+    t: "ID Grafu: "
 
   - key: sponsor.sponsor_this_chart
     t: Podporte tento graf (${baseAmount}+)
