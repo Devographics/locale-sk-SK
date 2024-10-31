@@ -89,9 +89,9 @@ translations:
   - key: sections.monorepo_tools.description
     t: Nástroje na spracovanie JavaScriptových monorepozitárov.
 
-  - key: sections.tools_others.title
+  - key: sections.tools.title
     t: Iné nástroje
-  - key: sections.tools_others.description
+  - key: sections.tools.description
     t: Iné JavaScriptové nástroje
 
   - key: sections.other_tools.title
@@ -365,27 +365,27 @@ translations:
   # Other Tools
   ###########################################################################
 
-  - key: tools_others.runtimes
+  - key: tools.runtimes
     t: JavaScriptové behové prostredia
-  - key: tools_others.runtimes.question
+  - key: tools.runtimes.question
     t: Aké enginy alebo behové (runtime) prostredia pravidelne používate?
-  - key: tools_others.runtimes.others
+  - key: tools.runtimes.others
     t: Iné prostredia
-  - key: tools_others.runtimes.others.description
+  - key: tools.runtimes.others.description
     t: Iné (voľná odpoveď).
 
-  - key: tools_others.package_registries
+  - key: tools.package_registries
     t: Registre balíkov (Package Registries)
-  - key: tools_others.package_registries.question
+  - key: tools.package_registries.question
     t: Z akých registrov balíkov zvyčajne načítavate balíky?
-  - key: tools_others.package_registries.others
+  - key: tools.package_registries.others
     t: Iné registre balíkov
-  - key: tools_others.package_registries.others.description
+  - key: tools.package_registries.others.description
     t: Iné (voľná odpoveď).
 
-  - key: tools_others.form_factors
+  - key: tools.form_factors
     aliasFor: environments.form_factors
-  - key: tools_others.form_factors.description
+  - key: tools.form_factors.description
     aliasFor: environments.form_factors.question
 
   ###########################################################################
