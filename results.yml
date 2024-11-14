@@ -699,7 +699,7 @@ translations:
   - key: share.site.title
     t: Zistite {siteTitle} výsledky
   - key: share.site.twitter_text
-    t: "Zistite {siteTitle} výsledky {link} {hashtag}"
+    t: "Zistite {siteTitle} výsledky {link}"
   - key: share.site.subject
     t: "{siteTitle} výsledky prieskumu"
   - key: share.site.body
