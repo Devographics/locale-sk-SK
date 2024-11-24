@@ -174,9 +174,9 @@ translations:
     t: Párovanie vzorov (pattern-matching)
   - key: options.currently_missing_from_js.pattern_matching.description
     t: Nové kľúčové slovo `match` pre objekty párovania vzorov.
-  - key: options.currently_missing_from_js.pipe_operator
+  - key: options.currently_missing_from_js.js_pipeline_operator
     t: Pipe Operátor
-  - key: options.currently_missing_from_js.pipe_operator.description
+  - key: options.currently_missing_from_js.js_pipeline_operator.description
     t: Nový `|>` operátor pre posielanie výsledku z jednej funkcie do druhej.
   - key: options.currently_missing_from_js.decorators
     t: Dekorátory
@@ -346,7 +346,7 @@ translations:
   # - key: features.pattern_matching
   #   t: Párovanie vzorov (pattern-matching)
 
-  # - key: features.pipe_operator
+  # - key: features.js_pipeline_operator
   #   t: Pipe Operátor
 
   # - key: features.immutable_data_structures
